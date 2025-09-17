@@ -1,0 +1,33 @@
+free-win-leaf.png
+size: 768, 660
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+Leaves_Back
+  rotate: true
+  xy: 2, 5
+  size: 650, 493
+  orig: 650, 493
+  offset: 0, 0
+  index: -1
+Leaves_L_1
+  rotate: true
+  xy: 497, 418
+  size: 237, 268
+  orig: 237, 268
+  offset: 0, 0
+  index: -1
+Leaves_R_1
+  rotate: false
+  xy: 497, 180
+  size: 251, 236
+  orig: 251, 236
+  offset: 0, 0
+  index: -1
+Leaves_R_2
+  rotate: true
+  xy: 497, 2
+  size: 176, 199
+  orig: 176, 199
+  offset: 0, 0
+  index: -1

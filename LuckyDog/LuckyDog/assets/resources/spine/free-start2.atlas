@@ -1,0 +1,124 @@
+free-start2.png
+size: 400, 1040
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+T1_Monkey_arm_d_l
+  rotate: false
+  xy: 308, 627
+  size: 89, 128
+  orig: 89, 131
+  offset: 0, 3
+  index: -1
+T1_Monkey_arm_d_r
+  rotate: true
+  xy: 52, 20
+  size: 112, 113
+  orig: 112, 114
+  offset: 0, 1
+  index: -1
+T1_Monkey_arm_l
+  rotate: false
+  xy: 310, 932
+  size: 60, 105
+  orig: 60, 105
+  offset: 0, 0
+  index: -1
+T1_Monkey_arm_r
+  rotate: false
+  xy: 167, 64
+  size: 65, 68
+  orig: 65, 68
+  offset: 0, 0
+  index: -1
+T1_Monkey_arm_x_l
+  rotate: false
+  xy: 234, 2
+  size: 123, 106
+  orig: 123, 106
+  offset: 0, 0
+  index: -1
+T1_Monkey_arm_x_r
+  rotate: true
+  xy: 52, 134
+  size: 114, 181
+  orig: 114, 181
+  offset: 0, 0
+  index: -1
+T1_Monkey_body
+  rotate: false
+  xy: 52, 469
+  size: 254, 286
+  orig: 264, 286
+  offset: 10, 0
+  index: -1
+T1_Monkey_eye
+  rotate: true
+  xy: 350, 179
+  size: 77, 37
+  orig: 78, 37
+  offset: 0, 0
+  index: -1
+T1_Monkey_hand_d_l
+  rotate: true
+  xy: 266, 258
+  size: 77, 121
+  orig: 77, 131
+  offset: 0, 10
+  index: -1
+T1_Monkey_hand_d_r
+  rotate: false
+  xy: 266, 337
+  size: 103, 130
+  orig: 103, 130
+  offset: 0, 0
+  index: -1
+T1_Monkey_hand_l
+  rotate: true
+  xy: 308, 554
+  size: 71, 70
+  orig: 71, 70
+  offset: 0, 0
+  index: -1
+T1_Monkey_hand_r
+  rotate: false
+  xy: 308, 482
+  size: 71, 70
+  orig: 72, 71
+  offset: 0, 1
+  index: -1
+T1_Monkey_hand_x_l
+  rotate: false
+  xy: 310, 829
+  size: 60, 101
+  orig: 60, 101
+  offset: 0, 0
+  index: -1
+T1_Monkey_hand_x_r
+  rotate: true
+  xy: 235, 110
+  size: 138, 113
+  orig: 138, 113
+  offset: 0, 0
+  index: -1
+T1_Monkey_hard
+  rotate: false
+  xy: 52, 250
+  size: 212, 217
+  orig: 212, 217
+  offset: 0, 0
+  index: -1
+T1_Monkey_weib
+  rotate: true
+  xy: 52, 757
+  size: 280, 256
+  orig: 280, 256
+  offset: 0, 0
+  index: -1
+T3_shenzi_zx
+  rotate: false
+  xy: 2, 20
+  size: 48, 1017
+  orig: 48, 1017
+  offset: 0, 0
+  index: -1

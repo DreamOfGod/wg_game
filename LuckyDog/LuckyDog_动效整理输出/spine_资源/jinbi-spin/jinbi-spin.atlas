@@ -1,0 +1,40 @@
+jinbi-spin.png
+size: 172,52
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+JFN_JB_1
+  rotate: false
+  xy: 2, 2
+  size: 47, 46
+  orig: 49, 49
+  offset: 1, 1
+  index: -1
+JFN_JB_2
+  rotate: false
+  xy: 51, 2
+  size: 37, 46
+  orig: 49, 49
+  offset: 6, 1
+  index: -1
+JFN_JB_3
+  rotate: false
+  xy: 129, 2
+  size: 19, 46
+  orig: 49, 49
+  offset: 15, 1
+  index: -1
+JFN_JB_4
+  rotate: false
+  xy: 150, 2
+  size: 19, 46
+  orig: 49, 49
+  offset: 15, 1
+  index: -1
+JFN_JB_5
+  rotate: false
+  xy: 90, 2
+  size: 37, 46
+  orig: 49, 49
+  offset: 6, 1
+  index: -1

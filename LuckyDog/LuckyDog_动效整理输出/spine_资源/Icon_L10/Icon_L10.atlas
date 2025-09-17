@@ -1,0 +1,174 @@
+
+Icon_L10.png
+size: 776,776
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ColorBG_Light
+  rotate: true
+  xy: 351, 368
+  size: 192, 197
+  orig: 193, 199
+  offset: 1, 1
+  index: -1
+Dust
+  rotate: true
+  xy: 738, 316
+  size: 29, 31
+  orig: 38, 39
+  offset: 5, 4
+  index: -1
+Frame
+  rotate: true
+  xy: 611, 604
+  size: 170, 152
+  orig: 170, 152
+  offset: 0, 0
+  index: -1
+Glow_Star
+  rotate: false
+  xy: 738, 377
+  size: 36, 35
+  orig: 38, 38
+  offset: 1, 2
+  index: -1
+LL
+  rotate: false
+  xy: 178, 249
+  size: 84, 84
+  orig: 88, 88
+  offset: 2, 2
+  index: -1
+X10
+  rotate: false
+  xy: 341, 297
+  size: 132, 69
+  orig: 134, 71
+  offset: 1, 1
+  index: -1
+X2cookie
+  rotate: false
+  xy: 264, 260
+  size: 74, 73
+  orig: 74, 73
+  offset: 0, 0
+  index: -1
+gb_icon_xz_glow
+  rotate: false
+  xy: 550, 237
+  size: 186, 172
+  orig: 240, 240
+  offset: 27, 23
+  index: -1
+gb_icon_z
+  rotate: true
+  xy: 351, 562
+  size: 212, 258
+  orig: 223, 262
+  offset: 1, 2
+  index: -1
+green_cookie
+  rotate: true
+  xy: 340, 234
+  size: 61, 63
+  orig: 62, 63
+  offset: 1, 0
+  index: -1
+redcookie
+  rotate: true
+  xy: 550, 411
+  size: 73, 52
+  orig: 74, 52
+  offset: 0, 0
+  index: -1
+reund_light_01
+  rotate: false
+  xy: 2, 273
+  size: 174, 173
+  orig: 214, 205
+  offset: 20, 16
+  index: -1
+ssg_14
+  rotate: false
+  xy: 2, 448
+  size: 347, 326
+  orig: 360, 353
+  offset: 4, 11
+  index: -1
+x10chin
+  rotate: true
+  xy: 550, 486
+  size: 74, 56
+  orig: 76, 57
+  offset: 2, 1
+  index: -1
+x10eyedown
+  rotate: false
+  xy: 632, 416
+  size: 20, 13
+  orig: 22, 14
+  offset: 1, 1
+  index: -1
+x10eyeup
+  rotate: false
+  xy: 604, 414
+  size: 26, 15
+  orig: 26, 15
+  offset: 0, 0
+  index: -1
+x10glasses
+  rotate: false
+  xy: 604, 431
+  size: 89, 33
+  orig: 89, 33
+  offset: 0, 0
+  index: -1
+x10head
+  rotate: false
+  xy: 178, 335
+  size: 161, 111
+  orig: 161, 111
+  offset: 0, 0
+  index: -1
+x10name
+  rotate: true
+  xy: 738, 347
+  size: 28, 36
+  orig: 28, 36
+  offset: 0, 0
+  index: -1
+x10red
+  rotate: false
+  xy: 611, 466
+  size: 163, 136
+  orig: 163, 136
+  offset: 0, 0
+  index: -1
+x10tongue
+  rotate: true
+  xy: 738, 288
+  size: 26, 28
+  orig: 26, 28
+  offset: 0, 0
+  index: -1
+x5body
+  rotate: true
+  xy: 475, 237
+  size: 129, 66
+  orig: 129, 67
+  offset: 0, 0
+  index: -1
+x5handL
+  rotate: false
+  xy: 735, 414
+  size: 38, 50
+  orig: 38, 50
+  offset: 0, 0
+  index: -1
+x5handR
+  rotate: false
+  xy: 695, 412
+  size: 38, 52
+  orig: 38, 52
+  offset: 0, 0
+  index: -1

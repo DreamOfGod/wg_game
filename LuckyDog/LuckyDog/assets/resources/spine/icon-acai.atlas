@@ -1,0 +1,124 @@
+icon-acai.png
+size: 900,356
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Acai_01
+  rotate: false
+  xy: 860, 144
+  size: 28, 26
+  orig: 28, 26
+  offset: 0, 0
+  index: -1
+Acai_02
+  rotate: true
+  xy: 830, 47
+  size: 26, 28
+  orig: 26, 28
+  offset: 0, 0
+  index: -1
+Acai_1
+  rotate: false
+  xy: 771, 101
+  size: 37, 37
+  orig: 37, 37
+  offset: 0, 0
+  index: -1
+Acai_10
+  rotate: true
+  xy: 725, 74
+  size: 96, 44
+  orig: 96, 44
+  offset: 0, 0
+  index: -1
+Acai_2
+  rotate: false
+  xy: 810, 103
+  size: 35, 35
+  orig: 35, 35
+  offset: 0, 0
+  index: -1
+Acai_3
+  rotate: true
+  xy: 830, 75
+  size: 26, 45
+  orig: 27, 45
+  offset: 1, 0
+  index: -1
+Acai_4
+  rotate: false
+  xy: 794, 2
+  size: 39, 31
+  orig: 39, 31
+  offset: 0, 0
+  index: -1
+Acai_5
+  rotate: false
+  xy: 835, 22
+  size: 40, 23
+  orig: 40, 23
+  offset: 0, 0
+  index: -1
+Acai_6
+  rotate: false
+  xy: 860, 54
+  size: 29, 19
+  orig: 29, 19
+  offset: 0, 0
+  index: -1
+Acai_7
+  rotate: true
+  xy: 794, 35
+  size: 64, 34
+  orig: 64, 34
+  offset: 0, 0
+  index: -1
+Acai_8
+  rotate: false
+  xy: 771, 140
+  size: 87, 30
+  orig: 88, 30
+  offset: 1, 0
+  index: -1
+Acai_9
+  rotate: true
+  xy: 877, 81
+  size: 26, 13
+  orig: 26, 13
+  offset: 0, 0
+  index: -1
+Acai_SD
+  rotate: false
+  xy: 725, 7
+  size: 67, 65
+  orig: 67, 65
+  offset: 0, 0
+  index: -1
+Acai_fx
+  rotate: true
+  xy: 725, 172
+  size: 180, 170
+  orig: 180, 170
+  offset: 0, 0
+  index: -1
+ss_01
+  rotate: true
+  xy: 847, 109
+  size: 29, 31
+  orig: 38, 39
+  offset: 5, 4
+  index: -1
+ssg_14
+  rotate: false
+  xy: 376, 26
+  size: 347, 326
+  orig: 360, 353
+  offset: 4, 11
+  index: -1
+yuanguang_4
+  rotate: true
+  xy: 2, 4
+  size: 348, 372
+  orig: 374, 388
+  offset: 13, 8
+  index: -1

@@ -1,0 +1,258 @@
+
+Dog_Anim.png
+size: 716, 272
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+Dog_Daiji_Body
+  rotate: false
+  xy: 2, 73
+  size: 162, 106
+  orig: 162, 106
+  offset: 0, 0
+  index: -1
+Dog_Daiji_Body_dark
+  rotate: false
+  xy: 426, 164
+  size: 162, 106
+  orig: 162, 106
+  offset: 0, 0
+  index: -1
+Dog_Daiji_Head
+  rotate: false
+  xy: 166, 61
+  size: 124, 118
+  orig: 124, 118
+  offset: 0, 0
+  index: -1
+Dog_Daiji_L_Arm
+  rotate: true
+  xy: 2, 16
+  size: 55, 79
+  orig: 55, 80
+  offset: 0, 1
+  index: -1
+Dog_Daiji_L_Ear
+  rotate: true
+  xy: 292, 2
+  size: 72, 88
+  orig: 72, 88
+  offset: 0, 0
+  index: -1
+Dog_Daiji_L_Eye
+  rotate: false
+  xy: 682, 63
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+Dog_Daiji_L_Leg
+  rotate: false
+  xy: 465, 86
+  size: 58, 76
+  orig: 74, 76
+  offset: 16, 0
+  index: -1
+Dog_Daiji_L_Leg_dark
+  rotate: false
+  xy: 525, 86
+  size: 58, 76
+  orig: 74, 76
+  offset: 16, 0
+  index: -1
+Dog_Daiji_Lock_tail
+  rotate: false
+  xy: 159, 2
+  size: 53, 57
+  orig: 53, 57
+  offset: 0, 0
+  index: -1
+Dog_Daiji_Mouth
+  rotate: false
+  xy: 83, 16
+  size: 74, 55
+  orig: 75, 56
+  offset: 0, 1
+  index: -1
+Dog_Daiji_R_Arm
+  rotate: false
+  xy: 468, 20
+  size: 37, 64
+  orig: 37, 65
+  offset: 0, 1
+  index: -1
+Dog_Daiji_R_Ear
+  rotate: false
+  xy: 415, 76
+  size: 48, 86
+  orig: 49, 86
+  offset: 0, 0
+  index: -1
+Dog_Daiji_R_Eye
+  rotate: false
+  xy: 583, 31
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+Dog_Daiji_R_Leg
+  rotate: true
+  xy: 214, 8
+  size: 51, 58
+  orig: 52, 58
+  offset: 0, 0
+  index: -1
+Dog_Daiji_Shadow
+  rotate: false
+  xy: 2, 227
+  size: 239, 43
+  orig: 252, 54
+  offset: 12, 4
+  index: -1
+Dog_Daiji_Tag_
+  rotate: false
+  xy: 625, 65
+  size: 18, 31
+  orig: 18, 31
+  offset: 0, 0
+  index: -1
+Dog_Daiji_Tag_shadow
+  rotate: true
+  xy: 544, 24
+  size: 17, 37
+  orig: 17, 37
+  offset: 0, 0
+  index: -1
+Dog_Daiji_Tongue
+  rotate: false
+  xy: 583, 6
+  size: 24, 23
+  orig: 25, 25
+  offset: 0, 0
+  index: -1
+Dog_Daiji_collar_Steel_
+  rotate: true
+  xy: 231, 217
+  size: 8, 7
+  orig: 8, 7
+  offset: 0, 0
+  index: -1
+Dog_sit_Shadow
+  rotate: false
+  xy: 2, 181
+  size: 227, 44
+  orig: 238, 52
+  offset: 10, 3
+  index: -1
+Dog_stand_L_Leg
+  rotate: true
+  xy: 231, 181
+  size: 34, 30
+  orig: 36, 31
+  offset: 1, 1
+  index: -1
+Dog_stand_L_Paw
+  rotate: false
+  xy: 649, 36
+  size: 31, 29
+  orig: 32, 29
+  offset: 0, 0
+  index: -1
+Dog_stand_L_lowerArm
+  rotate: false
+  xy: 585, 65
+  size: 38, 31
+  orig: 38, 32
+  offset: 0, 1
+  index: -1
+Dog_stand_L_upperLeg
+  rotate: true
+  xy: 585, 98
+  size: 45, 62
+  orig: 45, 62
+  offset: 0, 0
+  index: -1
+Dog_stand_R_Leg
+  rotate: true
+  xy: 645, 67
+  size: 28, 35
+  orig: 28, 35
+  offset: 0, 0
+  index: -1
+Dog_stand_R_Paw
+  rotate: false
+  xy: 617, 31
+  size: 30, 32
+  orig: 30, 33
+  offset: 0, 0
+  index: -1
+Dog_stand_R_lowerArm
+  rotate: false
+  xy: 682, 33
+  size: 32, 28
+  orig: 33, 28
+  offset: 1, 0
+  index: -1
+Dog_stand_R_upperLeg
+  rotate: true
+  xy: 649, 97
+  size: 46, 59
+  orig: 46, 59
+  offset: 0, 0
+  index: -1
+Dog_stand_Shadow
+  rotate: false
+  xy: 243, 217
+  size: 181, 53
+  orig: 199, 65
+  offset: 18, 3
+  index: -1
+Dog_stand_body
+  rotate: false
+  xy: 292, 76
+  size: 121, 139
+  orig: 130, 142
+  offset: 9, 0
+  index: -1
+Dog_stand_tag
+  rotate: false
+  xy: 263, 185
+  size: 26, 30
+  orig: 26, 30
+  offset: 0, 0
+  index: -1
+Dog_tail_straight
+  rotate: false
+  xy: 382, 2
+  size: 84, 72
+  orig: 84, 72
+  offset: 0, 0
+  index: -1
+L5
+  rotate: false
+  xy: 590, 145
+  size: 124, 125
+  orig: 140, 139
+  offset: 8, 10
+  index: -1
+ball_shadow
+  rotate: false
+  xy: 507, 2
+  size: 42, 18
+  orig: 44, 20
+  offset: 1, 1
+  index: -1
+bark_Tx
+  rotate: false
+  xy: 507, 22
+  size: 35, 62
+  orig: 35, 62
+  offset: 0, 0
+  index: -1
+xin
+  rotate: true
+  xy: 544, 43
+  size: 41, 36
+  orig: 44, 39
+  offset: 1, 1
+  index: -1

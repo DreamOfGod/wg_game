@@ -1,0 +1,131 @@
+free-win.png
+size: 1180, 640
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+GYD_Monkey_Arm
+  rotate: true
+  xy: 938, 72
+  size: 301, 148
+  orig: 301, 155
+  offset: 0, 7
+  index: -1
+GYD_Monkey_Body
+  rotate: true
+  xy: 2, 4
+  size: 632, 656
+  orig: 653, 656
+  offset: 0, 0
+  index: -1
+GYD_Monkey_Head
+  rotate: true
+  xy: 660, 2
+  size: 272, 276
+  orig: 272, 276
+  offset: 0, 0
+  index: -1
+GYD_Monkey_L_Eye
+  rotate: true
+  xy: 1094, 107
+  size: 41, 42
+  orig: 41, 42
+  offset: 0, 0
+  index: -1
+GYD_Monkey_R_Eye
+  rotate: false
+  xy: 1094, 63
+  size: 41, 42
+  orig: 41, 42
+  offset: 0, 0
+  index: -1
+GYD_Monkey_Tail
+  rotate: false
+  xy: 794, 375
+  size: 314, 261
+  orig: 314, 261
+  offset: 0, 0
+  index: -1
+Text_Win
+  rotate: true
+  xy: 660, 276
+  size: 360, 132
+  orig: 360, 133
+  offset: 0, 1
+  index: -1
+Text_Win_SG_00000
+  rotate: true
+  xy: 858, 292
+  size: 15, 22
+  orig: 180, 64
+  offset: 0, 41
+  index: -1
+Text_Win_SG_00001
+  rotate: false
+  xy: 1138, 89
+  size: 38, 59
+  orig: 180, 64
+  offset: 0, 4
+  index: -1
+Text_Win_SG_00002
+  rotate: false
+  xy: 1088, 150
+  size: 62, 62
+  orig: 180, 64
+  offset: 1, 1
+  index: -1
+Text_Win_SG_00003
+  rotate: false
+  xy: 1018, 6
+  size: 74, 64
+  orig: 180, 64
+  offset: 12, 0
+  index: -1
+Text_Win_SG_00004
+  rotate: false
+  xy: 794, 309
+  size: 79, 64
+  orig: 180, 64
+  offset: 30, 0
+  index: -1
+Text_Win_SG_00005
+  rotate: true
+  xy: 1088, 293
+  size: 80, 63
+  orig: 180, 64
+  offset: 52, 1
+  index: -1
+Text_Win_SG_00006
+  rotate: false
+  xy: 938, 6
+  size: 78, 64
+  orig: 180, 64
+  offset: 77, 0
+  index: -1
+Text_Win_SG_00007
+  rotate: true
+  xy: 1088, 214
+  size: 77, 63
+  orig: 180, 64
+  offset: 99, 1
+  index: -1
+Text_Win_SG_00008
+  rotate: false
+  xy: 875, 309
+  size: 56, 64
+  orig: 180, 64
+  offset: 124, 0
+  index: -1
+Text_Win_SG_00009
+  rotate: true
+  xy: 794, 276
+  size: 31, 62
+  orig: 180, 64
+  offset: 149, 0
+  index: -1
+Text_Win_SG_00010
+  rotate: true
+  xy: 882, 295
+  size: 12, 27
+  orig: 180, 64
+  offset: 168, 2
+  index: -1

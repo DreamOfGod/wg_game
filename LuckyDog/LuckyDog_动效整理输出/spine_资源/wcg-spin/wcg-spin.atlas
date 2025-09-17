@@ -1,0 +1,104 @@
+
+wcg-spin.png
+size: 244,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BTN_Diamond
+  rotate: true
+  xy: 2, 308
+  size: 202, 167
+  orig: 202, 167
+  offset: 0, 0
+  index: -1
+BTN_SpinL/BTN_SpinL_00000
+  rotate: true
+  xy: 97, 49
+  size: 64, 55
+  orig: 150, 55
+  offset: 0, 0
+  index: -1
+BTN_SpinL/BTN_SpinL_00001
+  rotate: false
+  xy: 2, 58
+  size: 93, 55
+  orig: 150, 55
+  offset: 0, 0
+  index: -1
+BTN_SpinL/BTN_SpinL_00002
+  rotate: true
+  xy: 130, 184
+  size: 122, 55
+  orig: 150, 55
+  offset: 0, 0
+  index: -1
+BTN_SpinL/BTN_SpinL_00003
+  rotate: true
+  xy: 171, 360
+  size: 150, 55
+  orig: 150, 55
+  offset: 0, 0
+  index: -1
+BTN_SpinL/BTN_SpinL_00004
+  rotate: true
+  xy: 187, 240
+  size: 118, 54
+  orig: 150, 55
+  offset: 32, 0
+  index: -1
+BTN_SpinL/BTN_SpinL_00005
+  rotate: false
+  xy: 2, 2
+  size: 86, 54
+  orig: 150, 55
+  offset: 64, 0
+  index: -1
+BTN_SpinL/BTN_SpinL_00006
+  rotate: false
+  xy: 154, 24
+  size: 64, 54
+  orig: 150, 55
+  offset: 86, 0
+  index: -1
+CaiDai_001
+  rotate: false
+  xy: 187, 187
+  size: 33, 18
+  orig: 33, 18
+  offset: 0, 0
+  index: -1
+CaiDai_005
+  rotate: false
+  xy: 187, 187
+  size: 33, 18
+  orig: 33, 18
+  offset: 0, 0
+  index: -1
+CaiDai_004
+  rotate: false
+  xy: 187, 207
+  size: 54, 31
+  orig: 54, 31
+  offset: 0, 0
+  index: -1
+LL
+  rotate: true
+  xy: 154, 80
+  size: 102, 87
+  orig: 104, 90
+  offset: 1, 1
+  index: -1
+SPIN
+  rotate: false
+  xy: 2, 115
+  size: 150, 61
+  orig: 152, 61
+  offset: 1, 0
+  index: -1
+turn
+  rotate: false
+  xy: 2, 178
+  size: 126, 128
+  orig: 130, 130
+  offset: 2, 1
+  index: -1

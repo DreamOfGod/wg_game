@@ -1,0 +1,117 @@
+Icon_L7.png
+size: 772,772
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ColorBG_Green
+  rotate: true
+  xy: 611, 436
+  size: 162, 137
+  orig: 162, 137
+  offset: 0, 0
+  index: -1
+ColorBG_Light
+  rotate: true
+  xy: 351, 364
+  size: 192, 197
+  orig: 193, 199
+  offset: 1, 1
+  index: -1
+Dust
+  rotate: true
+  xy: 437, 333
+  size: 29, 31
+  orig: 38, 39
+  offset: 5, 4
+  index: -1
+Frame
+  rotate: true
+  xy: 611, 600
+  size: 170, 152
+  orig: 170, 152
+  offset: 0, 0
+  index: -1
+Glow_Star
+  rotate: false
+  xy: 550, 416
+  size: 36, 35
+  orig: 38, 38
+  offset: 1, 2
+  index: -1
+L7_1L
+  rotate: true
+  xy: 550, 335
+  size: 38, 26
+  orig: 38, 26
+  offset: 0, 0
+  index: -1
+L7_1R
+  rotate: true
+  xy: 550, 375
+  size: 39, 27
+  orig: 39, 27
+  offset: 0, 0
+  index: -1
+L7_2
+  rotate: false
+  xy: 178, 315
+  size: 171, 127
+  orig: 171, 127
+  offset: 0, 0
+  index: -1
+L7_3
+  rotate: false
+  xy: 765, 762
+  size: 5, 8
+  orig: 5, 8
+  offset: 0, 0
+  index: -1
+L7_4
+  rotate: false
+  xy: 470, 339
+  size: 23, 23
+  orig: 23, 23
+  offset: 0, 0
+  index: -1
+L7_5
+  rotate: true
+  xy: 550, 453
+  size: 103, 49
+  orig: 103, 49
+  offset: 0, 0
+  index: -1
+LL
+  rotate: false
+  xy: 351, 278
+  size: 84, 84
+  orig: 88, 88
+  offset: 2, 2
+  index: -1
+gb_icon_xz_glow
+  rotate: true
+  xy: 588, 248
+  size: 186, 172
+  orig: 240, 240
+  offset: 27, 23
+  index: -1
+gb_icon_z
+  rotate: true
+  xy: 351, 558
+  size: 212, 258
+  orig: 223, 262
+  offset: 1, 2
+  index: -1
+reund_light_01
+  rotate: false
+  xy: 2, 269
+  size: 174, 173
+  orig: 214, 205
+  offset: 20, 16
+  index: -1
+ssg_14
+  rotate: false
+  xy: 2, 444
+  size: 347, 326
+  orig: 360, 353
+  offset: 4, 11
+  index: -1

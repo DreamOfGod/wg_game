@@ -1,0 +1,19 @@
+point.png
+size: 184, 96
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+JinDuTiao_YuanGuang
+  rotate: false
+  xy: 2, 2
+  size: 91, 91
+  orig: 97, 97
+  offset: 3, 3
+  index: -1
+LL
+  rotate: false
+  xy: 95, 9
+  size: 84, 84
+  orig: 88, 88
+  offset: 2, 2
+  index: -1

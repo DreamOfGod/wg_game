@@ -1,0 +1,20 @@
+
+wild_Tx.png
+size: 168,52
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Glow_Star
+  rotate: true
+  xy: 131, 11
+  size: 36, 35
+  orig: 38, 38
+  offset: 1, 2
+  index: -1
+hhh
+  rotate: false
+  xy: 2, 2
+  size: 127, 45
+  orig: 128, 49
+  offset: 0, 2
+  index: -1

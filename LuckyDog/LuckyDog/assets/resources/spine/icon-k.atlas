@@ -1,0 +1,33 @@
+icon-k.png
+size: 276,172
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+B1
+  rotate: false
+  xy: 175, 9
+  size: 20, 20
+  orig: 22, 22
+  offset: 1, 1
+  index: -1
+Dust
+  rotate: false
+  xy: 175, 31
+  size: 30, 30
+  orig: 34, 34
+  offset: 2, 2
+  index: -1
+K
+  rotate: true
+  xy: 175, 63
+  size: 104, 96
+  orig: 104, 96
+  offset: 0, 0
+  index: -1
+K_fx
+  rotate: false
+  xy: 2, 2
+  size: 171, 165
+  orig: 178, 171
+  offset: 4, 3
+  index: -1

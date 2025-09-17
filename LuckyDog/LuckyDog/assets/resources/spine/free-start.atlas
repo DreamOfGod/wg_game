@@ -1,0 +1,201 @@
+free-start.png
+size: 756, 276
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+Free_Spin_SG_00000
+  rotate: true
+  xy: 319, 30
+  size: 15, 32
+  orig: 269, 40
+  offset: 0, 6
+  index: -1
+Free_Spin_SG_00001
+  rotate: true
+  xy: 698, 131
+  size: 47, 40
+  orig: 269, 40
+  offset: 0, 0
+  index: -1
+Free_Spin_SG_00002
+  rotate: false
+  xy: 366, 47
+  size: 78, 40
+  orig: 269, 40
+  offset: 1, 0
+  index: -1
+Free_Spin_SG_00003
+  rotate: false
+  xy: 353, 5
+  size: 81, 40
+  orig: 269, 40
+  offset: 29, 0
+  index: -1
+Free_Spin_SG_00004
+  rotate: true
+  xy: 616, 98
+  size: 80, 39
+  orig: 269, 40
+  offset: 61, 1
+  index: -1
+Free_Spin_SG_00005
+  rotate: true
+  xy: 454, 97
+  size: 81, 39
+  orig: 269, 40
+  offset: 92, 0
+  index: -1
+Free_Spin_SG_00006
+  rotate: true
+  xy: 495, 97
+  size: 81, 39
+  orig: 269, 40
+  offset: 124, 0
+  index: -1
+Free_Spin_SG_00007
+  rotate: true
+  xy: 577, 97
+  size: 81, 37
+  orig: 269, 40
+  offset: 156, 1
+  index: -1
+Free_Spin_SG_00008
+  rotate: true
+  xy: 536, 97
+  size: 81, 39
+  orig: 269, 40
+  offset: 187, 0
+  index: -1
+Free_Spin_SG_00009
+  rotate: true
+  xy: 657, 128
+  size: 50, 39
+  orig: 269, 40
+  offset: 219, 0
+  index: -1
+Free_Spin_SG_00010
+  rotate: true
+  xy: 281, 28
+  size: 17, 36
+  orig: 269, 40
+  offset: 252, 1
+  index: -1
+MFXZ_Number_Guang
+  rotate: false
+  xy: 2, 27
+  size: 277, 245
+  orig: 287, 265
+  offset: 5, 13
+  index: -1
+MFXZ_Text
+  rotate: false
+  xy: 366, 180
+  size: 378, 92
+  orig: 378, 92
+  offset: 0, 0
+  index: -1
+MFXZ_Text_SG_00000
+  rotate: true
+  xy: 688, 91
+  size: 11, 21
+  orig: 95, 22
+  offset: 0, 1
+  index: -1
+MFXZ_Text_SG_00001
+  rotate: false
+  xy: 688, 104
+  size: 20, 22
+  orig: 95, 22
+  offset: 0, 0
+  index: -1
+MFXZ_Text_SG_00002
+  rotate: false
+  xy: 272, 3
+  size: 36, 22
+  orig: 95, 22
+  offset: 0, 0
+  index: -1
+MFXZ_Text_SG_00003
+  rotate: false
+  xy: 76, 3
+  size: 47, 22
+  orig: 95, 22
+  offset: 1, 0
+  index: -1
+MFXZ_Text_SG_00004
+  rotate: false
+  xy: 125, 3
+  size: 47, 22
+  orig: 95, 22
+  offset: 12, 0
+  index: -1
+MFXZ_Text_SG_00005
+  rotate: false
+  xy: 26, 3
+  size: 48, 22
+  orig: 95, 22
+  offset: 24, 0
+  index: -1
+MFXZ_Text_SG_00006
+  rotate: false
+  xy: 174, 3
+  size: 47, 22
+  orig: 95, 22
+  offset: 36, 0
+  index: -1
+MFXZ_Text_SG_00007
+  rotate: false
+  xy: 223, 3
+  size: 47, 22
+  orig: 95, 22
+  offset: 48, 0
+  index: -1
+MFXZ_Text_SG_00008
+  rotate: false
+  xy: 310, 4
+  size: 35, 22
+  orig: 95, 22
+  offset: 60, 0
+  index: -1
+MFXZ_Text_SG_00009
+  rotate: true
+  xy: 2, 2
+  size: 23, 22
+  orig: 95, 22
+  offset: 72, 0
+  index: -1
+MFXZ_Text_SG_00010
+  rotate: false
+  xy: 436, 24
+  size: 7, 21
+  orig: 95, 22
+  offset: 88, 0
+  index: -1
+T1_Free
+  rotate: true
+  xy: 281, 47
+  size: 225, 83
+  orig: 225, 83
+  offset: 0, 0
+  index: -1
+T2_Spin
+  rotate: false
+  xy: 446, 4
+  size: 305, 83
+  orig: 305, 83
+  offset: 0, 0
+  index: -1
+ssg_14
+  rotate: true
+  xy: 366, 89
+  size: 89, 86
+  orig: 90, 88
+  offset: 0, 2
+  index: -1
+xl_tx8
+  rotate: false
+  xy: 657, 95
+  size: 29, 31
+  orig: 38, 39
+  offset: 5, 4
+  index: -1

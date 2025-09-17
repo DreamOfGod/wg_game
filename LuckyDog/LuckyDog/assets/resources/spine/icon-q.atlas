@@ -1,0 +1,33 @@
+icon-q.png
+size: 276,172
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+B1
+  rotate: false
+  xy: 176, 8
+  size: 20, 20
+  orig: 22, 22
+  offset: 1, 1
+  index: -1
+Dust
+  rotate: false
+  xy: 176, 30
+  size: 30, 30
+  orig: 34, 34
+  offset: 2, 2
+  index: -1
+Q
+  rotate: true
+  xy: 176, 62
+  size: 105, 98
+  orig: 105, 98
+  offset: 0, 0
+  index: -1
+Q_fx
+  rotate: false
+  xy: 2, 2
+  size: 172, 165
+  orig: 179, 172
+  offset: 3, 4
+  index: -1

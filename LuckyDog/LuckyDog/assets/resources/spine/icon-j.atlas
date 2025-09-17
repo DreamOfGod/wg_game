@@ -1,0 +1,33 @@
+icon-j.png
+size: 256,156
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+B1
+  rotate: false
+  xy: 202, 32
+  size: 20, 20
+  orig: 22, 22
+  offset: 1, 1
+  index: -1
+Dust
+  rotate: false
+  xy: 170, 22
+  size: 30, 30
+  orig: 34, 34
+  offset: 2, 2
+  index: -1
+J
+  rotate: false
+  xy: 170, 54
+  size: 84, 98
+  orig: 84, 98
+  offset: 0, 0
+  index: -1
+J_fx
+  rotate: true
+  xy: 2, 2
+  size: 150, 166
+  orig: 156, 172
+  offset: 3, 3
+  index: -1

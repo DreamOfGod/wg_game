@@ -1,0 +1,19 @@
+x20-tx.png
+size: 308, 116
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+Number_BackLight
+  rotate: false
+  xy: 2, 2
+  size: 273, 109
+  orig: 290, 119
+  offset: 8, 5
+  index: -1
+xl_tx8
+  rotate: false
+  xy: 277, 80
+  size: 29, 31
+  orig: 38, 39
+  offset: 5, 4
+  index: -1

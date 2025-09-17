@@ -1,0 +1,187 @@
+icon-wild.png
+size: 996,444
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+B1
+  rotate: false
+  xy: 963, 6
+  size: 20, 20
+  orig: 22, 22
+  offset: 1, 1
+  index: -1
+Dust
+  rotate: false
+  xy: 963, 28
+  size: 30, 30
+  orig: 34, 34
+  offset: 2, 2
+  index: -1
+Glow_Star2
+  rotate: false
+  xy: 919, 16
+  size: 42, 42
+  orig: 48, 48
+  offset: 3, 3
+  index: -1
+WL/wl_00001
+  rotate: false
+  xy: 924, 352
+  size: 52, 90
+  orig: 116, 116
+  offset: 3, 22
+  index: -1
+WL/wl_00002
+  rotate: true
+  xy: 114, 4
+  size: 88, 110
+  orig: 116, 116
+  offset: 3, 5
+  index: -1
+WL/wl_00003
+  rotate: true
+  xy: 376, 5
+  size: 109, 112
+  orig: 116, 116
+  offset: 3, 3
+  index: -1
+WL/wl_00004
+  rotate: true
+  xy: 2, 3
+  size: 89, 110
+  orig: 116, 116
+  offset: 25, 3
+  index: -1
+WL/wl_00005
+  rotate: false
+  xy: 919, 60
+  size: 53, 96
+  orig: 116, 116
+  offset: 61, 4
+  index: -1
+Wild_1
+  rotate: false
+  xy: 490, 9
+  size: 106, 105
+  orig: 106, 105
+  offset: 0, 0
+  index: -1
+Wild_2
+  rotate: false
+  xy: 598, 9
+  size: 106, 105
+  orig: 106, 105
+  offset: 0, 0
+  index: -1
+Wild_3
+  rotate: false
+  xy: 963, 248
+  size: 25, 27
+  orig: 25, 27
+  offset: 0, 0
+  index: -1
+Wild_4
+  rotate: true
+  xy: 272, 4
+  size: 39, 59
+  orig: 39, 59
+  offset: 0, 0
+  index: -1
+Wild_5
+  rotate: true
+  xy: 974, 134
+  size: 22, 19
+  orig: 22, 19
+  offset: 0, 0
+  index: -1
+Wild_6
+  rotate: true
+  xy: 706, 18
+  size: 36, 47
+  orig: 36, 47
+  offset: 0, 0
+  index: -1
+Wild_D
+  rotate: true
+  xy: 755, 21
+  size: 33, 42
+  orig: 33, 42
+  offset: 0, 0
+  index: -1
+Wild_I
+  rotate: false
+  xy: 963, 277
+  size: 26, 40
+  orig: 26, 41
+  offset: 0, 0
+  index: -1
+Wild_L
+  rotate: false
+  xy: 333, 2
+  size: 28, 41
+  orig: 28, 41
+  offset: 0, 0
+  index: -1
+Wild_SD
+  rotate: true
+  xy: 919, 158
+  size: 72, 59
+  orig: 77, 65
+  offset: 3, 3
+  index: -1
+Wild_W
+  rotate: false
+  xy: 226, 2
+  size: 44, 41
+  orig: 45, 41
+  offset: 0, 0
+  index: -1
+Wild_WildLL
+  rotate: true
+  xy: 924, 243
+  size: 107, 37
+  orig: 107, 37
+  offset: 0, 0
+  index: -1
+Wild_banner
+  rotate: false
+  xy: 226, 45
+  size: 128, 47
+  orig: 128, 48
+  offset: 0, 1
+  index: -1
+Wild_fx
+  rotate: false
+  xy: 725, 56
+  size: 192, 174
+  orig: 199, 180
+  offset: 4, 3
+  index: -1
+Wild_fx2
+  rotate: true
+  xy: 725, 232
+  size: 210, 197
+  orig: 218, 218
+  offset: 3, 9
+  index: -1
+ss_01
+  rotate: false
+  xy: 963, 319
+  size: 29, 31
+  orig: 38, 39
+  offset: 5, 4
+  index: -1
+ssg_14
+  rotate: false
+  xy: 376, 116
+  size: 347, 326
+  orig: 360, 353
+  offset: 4, 11
+  index: -1
+yuanguang_4
+  rotate: true
+  xy: 2, 94
+  size: 348, 372
+  orig: 374, 388
+  offset: 13, 8
+  index: -1

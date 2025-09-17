@@ -1,0 +1,47 @@
+free-start1.png
+size: 1112, 500
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+Leaves_Back
+  rotate: false
+  xy: 2, 2
+  size: 650, 493
+  orig: 650, 493
+  offset: 0, 0
+  index: -1
+Leaves_L_1
+  rotate: true
+  xy: 654, 258
+  size: 237, 268
+  orig: 237, 268
+  offset: 0, 0
+  index: -1
+Leaves_R_1
+  rotate: true
+  xy: 654, 5
+  size: 251, 236
+  orig: 251, 236
+  offset: 0, 0
+  index: -1
+Leaves_R_2
+  rotate: false
+  xy: 924, 296
+  size: 176, 199
+  orig: 176, 199
+  offset: 0, 0
+  index: -1
+MFXZ_Plants_1
+  rotate: true
+  xy: 892, 58
+  size: 116, 182
+  orig: 130, 195
+  offset: 14, 0
+  index: -1
+MFXZ_Plants_2
+  rotate: true
+  xy: 924, 176
+  size: 118, 183
+  orig: 131, 195
+  offset: 13, 0
+  index: -1

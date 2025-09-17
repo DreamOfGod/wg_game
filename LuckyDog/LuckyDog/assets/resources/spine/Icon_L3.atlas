@@ -1,0 +1,76 @@
+
+Icon_L3.png
+size: 684,684
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Dust
+  rotate: false
+  xy: 653, 302
+  size: 29, 31
+  orig: 38, 39
+  offset: 5, 4
+  index: -1
+Glow_Star
+  rotate: false
+  xy: 2, 13
+  size: 36, 35
+  orig: 38, 38
+  offset: 1, 2
+  index: -1
+L3_1
+  rotate: false
+  xy: 390, 37
+  size: 155, 121
+  orig: 155, 121
+  offset: 0, 0
+  index: -1
+L3_3
+  rotate: true
+  xy: 566, 190
+  size: 143, 85
+  orig: 143, 85
+  offset: 0, 0
+  index: -1
+cookielight
+  rotate: true
+  xy: 547, 16
+  size: 142, 128
+  orig: 144, 131
+  offset: 1, 2
+  index: -1
+gb_icon_xz_glow
+  rotate: true
+  xy: 216, 122
+  size: 186, 172
+  orig: 240, 240
+  offset: 27, 23
+  index: -1
+gb_icon_z
+  rotate: false
+  xy: 2, 50
+  size: 212, 258
+  orig: 223, 262
+  offset: 1, 2
+  index: -1
+reund_light_01
+  rotate: false
+  xy: 390, 160
+  size: 174, 173
+  orig: 214, 205
+  offset: 20, 16
+  index: -1
+ssg_14
+  rotate: true
+  xy: 352, 335
+  size: 347, 326
+  orig: 360, 353
+  offset: 4, 11
+  index: -1
+yuanguang_4
+  rotate: false
+  xy: 2, 310
+  size: 348, 372
+  orig: 374, 388
+  offset: 13, 8
+  index: -1
