@@ -1,0 +1,152 @@
+spin-fx-front.png
+size: 536,536
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+beiguang1
+  rotate: false
+  xy: 372, 2
+  size: 136, 136
+  orig: 142, 142
+  offset: 3, 3
+  index: -1
+dankong_01
+  rotate: true
+  xy: 29, 22
+  size: 20, 18
+  orig: 29, 22
+  offset: 4, 2
+  index: -1
+dankong_02
+  rotate: false
+  xy: 29, 2
+  size: 19, 18
+  orig: 24, 18
+  offset: 3, 0
+  index: -1
+dankong_03
+  rotate: false
+  xy: 49, 23
+  size: 18, 19
+  orig: 22, 24
+  offset: 2, 3
+  index: -1
+fx_a_atypical_002_cl
+  rotate: false
+  xy: 268, 28
+  size: 102, 102
+  orig: 102, 102
+  offset: 0, 0
+  index: -1
+fx_d_atypical_052
+  rotate: false
+  xy: 423, 298
+  size: 102, 102
+  orig: 102, 102
+  offset: 0, 0
+  index: -1
+logo_wipes_01
+  rotate: true
+  xy: 2, 14
+  size: 28, 25
+  orig: 170, 163
+  offset: 73, 68
+  index: -1
+logo_wipes_02
+  rotate: true
+  xy: 427, 177
+  size: 50, 43
+  orig: 170, 163
+  offset: 61, 58
+  index: -1
+logo_wipes_03
+  rotate: false
+  xy: 427, 229
+  size: 68, 67
+  orig: 170, 163
+  offset: 51, 46
+  index: -1
+logo_wipes_04
+  rotate: false
+  xy: 332, 287
+  size: 89, 94
+  orig: 170, 163
+  offset: 43, 33
+  index: -1
+logo_wipes_05
+  rotate: false
+  xy: 154, 17
+  size: 112, 113
+  orig: 170, 163
+  offset: 31, 24
+  index: -1
+logo_wipes_06
+  rotate: true
+  xy: 377, 402
+  size: 132, 130
+  orig: 170, 163
+  offset: 20, 16
+  index: -1
+logo_wipes_07
+  rotate: true
+  xy: 288, 140
+  size: 145, 137
+  orig: 170, 163
+  offset: 13, 14
+  index: -1
+logo_wipes_08
+  rotate: true
+  xy: 2, 132
+  size: 151, 141
+  orig: 170, 163
+  offset: 9, 14
+  index: -1
+logo_wipes_09
+  rotate: true
+  xy: 145, 132
+  size: 151, 141
+  orig: 170, 163
+  offset: 9, 14
+  index: -1
+logo_wipes_10
+  rotate: true
+  xy: 236, 383
+  size: 151, 139
+  orig: 170, 163
+  offset: 9, 16
+  index: -1
+logo_wipes_11
+  rotate: false
+  xy: 2, 44
+  size: 150, 86
+  orig: 170, 163
+  offset: 9, 68
+  index: -1
+logo_wipes_12
+  rotate: true
+  xy: 2, 2
+  size: 10, 7
+  orig: 170, 163
+  offset: 12, 77
+  index: -1
+round_glow
+  rotate: false
+  xy: 236, 287
+  size: 94, 94
+  orig: 120, 120
+  offset: 13, 15
+  index: -1
+xl_tx8
+  rotate: false
+  xy: 472, 186
+  size: 41, 41
+  orig: 53, 53
+  offset: 6, 6
+  index: -1
+yuanguang_4
+  rotate: false
+  xy: 2, 285
+  size: 232, 249
+  orig: 250, 259
+  offset: 9, 5
+  index: -1

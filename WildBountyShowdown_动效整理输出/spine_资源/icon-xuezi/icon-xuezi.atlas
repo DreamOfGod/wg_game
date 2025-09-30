@@ -1,0 +1,257 @@
+icon-xuezi.png
+size: 316,316
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+b_light
+  rotate: true
+  xy: 2, 35
+  size: 131, 123
+  orig: 143, 142
+  offset: 8, 6
+  index: -1
+boots
+  rotate: true
+  xy: 138, 220
+  size: 94, 104
+  orig: 100, 108
+  offset: 2, 0
+  index: -1
+boots2
+  rotate: false
+  xy: 127, 36
+  size: 114, 130
+  orig: 116, 140
+  offset: 0, 2
+  index: -1
+boots2_light/boots2_light_00
+  rotate: false
+  xy: 299, 74
+  size: 10, 9
+  orig: 54, 62
+  offset: 0, 2
+  index: -1
+boots2_light/boots2_light_01
+  rotate: true
+  xy: 279, 224
+  size: 18, 13
+  orig: 54, 62
+  offset: 0, 1
+  index: -1
+boots2_light/boots2_light_02
+  rotate: false
+  xy: 245, 159
+  size: 25, 17
+  orig: 54, 62
+  offset: 0, 0
+  index: -1
+boots2_light/boots2_light_03
+  rotate: true
+  xy: 116, 3
+  size: 30, 21
+  orig: 54, 62
+  offset: 0, 0
+  index: -1
+boots2_light/boots2_light_04
+  rotate: false
+  xy: 210, 6
+  size: 33, 28
+  orig: 54, 62
+  offset: 1, 0
+  index: -1
+boots2_light/boots2_light_05
+  rotate: false
+  xy: 270, 96
+  size: 38, 38
+  orig: 54, 62
+  offset: 3, 0
+  index: -1
+boots2_light/boots2_light_06
+  rotate: false
+  xy: 277, 161
+  size: 37, 57
+  orig: 54, 62
+  offset: 9, 1
+  index: -1
+boots2_light/boots2_light_07
+  rotate: true
+  xy: 245, 280
+  size: 34, 59
+  orig: 54, 62
+  offset: 14, 2
+  index: -1
+boots2_light/boots2_light_08
+  rotate: false
+  xy: 244, 220
+  size: 33, 58
+  orig: 54, 62
+  offset: 20, 4
+  index: -1
+boots2_light/boots2_light_09
+  rotate: false
+  xy: 243, 39
+  size: 34, 55
+  orig: 54, 62
+  offset: 20, 7
+  index: -1
+boots2_light/boots2_light_10
+  rotate: true
+  xy: 245, 3
+  size: 34, 52
+  orig: 54, 62
+  offset: 20, 10
+  index: -1
+boots2_light/boots2_light_11
+  rotate: false
+  xy: 138, 169
+  size: 33, 49
+  orig: 54, 62
+  offset: 21, 13
+  index: -1
+boots2_light/boots2_light_12
+  rotate: true
+  xy: 51, 2
+  size: 31, 42
+  orig: 54, 62
+  offset: 23, 20
+  index: -1
+boots2_light/boots2_light_13
+  rotate: false
+  xy: 245, 103
+  size: 23, 37
+  orig: 54, 62
+  offset: 30, 25
+  index: -1
+boots2_light/boots2_light_14
+  rotate: true
+  xy: 294, 220
+  size: 10, 17
+  orig: 54, 62
+  offset: 38, 45
+  index: -1
+boots2_light/boots2_light_15
+  rotate: true
+  xy: 306, 299
+  size: 3, 5
+  orig: 54, 62
+  offset: 45, 55
+  index: -1
+boots_light/boots_light_00
+  rotate: false
+  xy: 162, 2
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+boots_light/boots_light_14
+  rotate: false
+  xy: 162, 2
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+boots_light/boots_light_15
+  rotate: false
+  xy: 162, 2
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+boots_light/boots_light_01
+  rotate: true
+  xy: 306, 304
+  size: 10, 7
+  orig: 46, 50
+  offset: 0, 4
+  index: -1
+boots_light/boots_light_02
+  rotate: false
+  xy: 294, 232
+  size: 18, 10
+  orig: 46, 50
+  offset: 0, 2
+  index: -1
+boots_light/boots_light_03
+  rotate: false
+  xy: 245, 142
+  size: 24, 15
+  orig: 46, 50
+  offset: 0, 1
+  index: -1
+boots_light/boots_light_04
+  rotate: true
+  xy: 139, 4
+  size: 30, 21
+  orig: 46, 50
+  offset: 0, 0
+  index: -1
+boots_light/boots_light_05
+  rotate: true
+  xy: 279, 244
+  size: 34, 35
+  orig: 46, 50
+  offset: 1, 0
+  index: -1
+boots_light/boots_light_06
+  rotate: false
+  xy: 238, 178
+  size: 37, 40
+  orig: 46, 50
+  offset: 3, 0
+  index: -1
+boots_light/boots_light_07
+  rotate: false
+  xy: 202, 175
+  size: 34, 43
+  orig: 46, 50
+  offset: 9, 1
+  index: -1
+boots_light/boots_light_08
+  rotate: true
+  xy: 2, 2
+  size: 31, 47
+  orig: 46, 50
+  offset: 15, 2
+  index: -1
+boots_light/boots_light_09
+  rotate: true
+  xy: 162, 5
+  size: 29, 46
+  orig: 46, 50
+  offset: 17, 4
+  index: -1
+boots_light/boots_light_10
+  rotate: false
+  xy: 173, 174
+  size: 27, 44
+  orig: 46, 50
+  offset: 19, 6
+  index: -1
+boots_light/boots_light_11
+  rotate: true
+  xy: 272, 136
+  size: 23, 39
+  orig: 46, 50
+  offset: 23, 11
+  index: -1
+boots_light/boots_light_12
+  rotate: false
+  xy: 95, 2
+  size: 19, 31
+  orig: 46, 50
+  offset: 27, 19
+  index: -1
+boots_light/boots_light_13
+  rotate: true
+  xy: 299, 85
+  size: 9, 13
+  orig: 46, 50
+  offset: 31, 36
+  index: -1
+sj_tubiaom_09
+  rotate: false
+  xy: 2, 168
+  size: 134, 146
+  orig: 147, 149
+  offset: 6, 2
+  index: -1

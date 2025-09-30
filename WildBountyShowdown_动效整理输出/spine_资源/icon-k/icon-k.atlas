@@ -1,0 +1,26 @@
+icon-k.png
+size: 368,368
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+k_f
+  rotate: false
+  xy: 2, 262
+  size: 103, 101
+  orig: 103, 101
+  offset: 0, 0
+  index: -1
+sj_tubiao_11
+  rotate: false
+  xy: 107, 248
+  size: 122, 115
+  orig: 124, 115
+  offset: 1, 0
+  index: -1
+sj_tubiaom_11
+  rotate: true
+  xy: 231, 242
+  size: 121, 132
+  orig: 122, 134
+  offset: 1, 2
+  index: -1

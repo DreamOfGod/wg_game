@@ -1,0 +1,145 @@
+free-win2.png
+size: 832,240
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Glow_Star
+  rotate: true
+  xy: 792, 115
+  size: 36, 35
+  orig: 38, 38
+  offset: 1, 2
+  index: -1
+coin_A_01
+  rotate: true
+  xy: 648, 7
+  size: 49, 48
+  orig: 49, 49
+  offset: 0, 1
+  index: -1
+coin_A_02
+  rotate: false
+  xy: 698, 8
+  size: 41, 48
+  orig: 49, 49
+  offset: 4, 1
+  index: -1
+coin_A_03
+  rotate: true
+  xy: 724, 62
+  size: 21, 48
+  orig: 49, 49
+  offset: 14, 1
+  index: -1
+coin_A_04
+  rotate: false
+  xy: 802, 15
+  size: 21, 48
+  orig: 49, 49
+  offset: 14, 1
+  index: -1
+coin_A_05
+  rotate: false
+  xy: 749, 103
+  size: 41, 48
+  orig: 49, 49
+  offset: 4, 1
+  index: -1
+gyd_gold
+  rotate: false
+  xy: 2, 8
+  size: 325, 230
+  orig: 325, 230
+  offset: 0, 0
+  index: -1
+gyd_gold_00000
+  rotate: true
+  xy: 640, 58
+  size: 25, 82
+  orig: 162, 115
+  offset: 0, 0
+  index: -1
+gyd_gold_00001
+  rotate: true
+  xy: 552, 2
+  size: 43, 94
+  orig: 162, 115
+  offset: 0, 0
+  index: -1
+gyd_gold_00002
+  rotate: true
+  xy: 640, 85
+  size: 62, 107
+  orig: 162, 115
+  offset: 0, 0
+  index: -1
+gyd_gold_00003
+  rotate: false
+  xy: 446, 123
+  size: 91, 115
+  orig: 162, 115
+  offset: 0, 0
+  index: -1
+gyd_gold_00004
+  rotate: false
+  xy: 329, 2
+  size: 110, 115
+  orig: 162, 115
+  offset: 15, 0
+  index: -1
+gyd_gold_00005
+  rotate: true
+  xy: 329, 119
+  size: 119, 115
+  orig: 162, 115
+  offset: 34, 0
+  index: -1
+gyd_gold_00006
+  rotate: false
+  xy: 441, 7
+  size: 109, 110
+  orig: 162, 115
+  offset: 53, 0
+  index: -1
+gyd_gold_00007
+  rotate: false
+  xy: 539, 138
+  size: 91, 100
+  orig: 162, 115
+  offset: 71, 0
+  index: -1
+gyd_gold_00008
+  rotate: false
+  xy: 720, 153
+  size: 74, 85
+  orig: 162, 115
+  offset: 88, 0
+  index: -1
+gyd_gold_00009
+  rotate: true
+  xy: 741, 2
+  size: 58, 59
+  orig: 162, 115
+  offset: 104, 0
+  index: -1
+gyd_gold_00010
+  rotate: false
+  xy: 774, 65
+  size: 44, 36
+  orig: 162, 115
+  offset: 118, 0
+  index: -1
+ssg_14
+  rotate: true
+  xy: 552, 47
+  size: 89, 86
+  orig: 90, 88
+  offset: 0, 2
+  index: -1
+yuanguang_4
+  rotate: false
+  xy: 632, 149
+  size: 86, 89
+  orig: 94, 97
+  offset: 4, 4
+  index: -1

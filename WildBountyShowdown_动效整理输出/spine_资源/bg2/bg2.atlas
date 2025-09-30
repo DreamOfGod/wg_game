@@ -1,0 +1,26 @@
+bg2.png
+size: 412,412
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bj_yanwu
+  rotate: false
+  xy: 2, 184
+  size: 228, 225
+  orig: 238, 249
+  offset: 6, 16
+  index: -1
+bj_yanwu2
+  rotate: true
+  xy: 232, 285
+  size: 124, 177
+  orig: 135, 210
+  offset: 11, 19
+  index: -1
+gun_smoke
+  rotate: false
+  xy: 232, 192
+  size: 92, 91
+  orig: 93, 97
+  offset: 0, 4
+  index: -1

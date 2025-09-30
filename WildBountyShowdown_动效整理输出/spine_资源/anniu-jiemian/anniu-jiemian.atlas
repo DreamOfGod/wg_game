@@ -1,0 +1,131 @@
+anniu-jiemian.png
+size: 716,716
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+anniu-2
+  rotate: true
+  xy: 346, 374
+  size: 340, 143
+  orig: 342, 145
+  offset: 1, 1
+  index: -1
+anniu-3
+  rotate: true
+  xy: 2, 229
+  size: 340, 143
+  orig: 342, 145
+  offset: 1, 1
+  index: -1
+anniu-3_glow
+  rotate: false
+  xy: 2, 571
+  size: 342, 143
+  orig: 366, 155
+  offset: 12, 6
+  index: -1
+anniu-3_sweep/anniu-3_sweep_00
+  rotate: false
+  xy: 287, 425
+  size: 13, 19
+  orig: 366, 155
+  offset: 21, 38
+  index: -1
+anniu-3_sweep/anniu-3_sweep_01
+  rotate: false
+  xy: 587, 99
+  size: 65, 106
+  orig: 366, 155
+  offset: 17, 15
+  index: -1
+anniu-3_sweep/anniu-3_sweep_02
+  rotate: true
+  xy: 491, 383
+  size: 104, 133
+  orig: 366, 155
+  offset: 15, 10
+  index: -1
+anniu-3_sweep/anniu-3_sweep_03
+  rotate: false
+  xy: 141, 2
+  size: 139, 134
+  orig: 366, 155
+  offset: 16, 9
+  index: -1
+anniu-3_sweep/anniu-3_sweep_04
+  rotate: true
+  xy: 519, 207
+  size: 174, 137
+  orig: 366, 155
+  offset: 18, 9
+  index: -1
+anniu-3_sweep/anniu-3_sweep_05
+  rotate: true
+  xy: 147, 138
+  size: 208, 137
+  orig: 366, 155
+  offset: 21, 9
+  index: -1
+anniu-3_sweep/anniu-3_sweep_06
+  rotate: true
+  xy: 491, 489
+  size: 225, 137
+  orig: 366, 155
+  offset: 41, 9
+  index: -1
+anniu-3_sweep/anniu-3_sweep_07
+  rotate: false
+  xy: 287, 235
+  size: 230, 137
+  orig: 366, 155
+  offset: 72, 9
+  index: -1
+anniu-3_sweep/anniu-3_sweep_08
+  rotate: true
+  xy: 147, 348
+  size: 221, 138
+  orig: 366, 155
+  offset: 109, 9
+  index: -1
+anniu-3_sweep/anniu-3_sweep_09
+  rotate: true
+  xy: 2, 27
+  size: 200, 137
+  orig: 366, 155
+  offset: 145, 9
+  index: -1
+anniu-3_sweep/anniu-3_sweep_10
+  rotate: false
+  xy: 286, 98
+  size: 166, 135
+  orig: 366, 155
+  offset: 182, 11
+  index: -1
+anniu-3_sweep/anniu-3_sweep_11
+  rotate: false
+  xy: 454, 76
+  size: 131, 129
+  orig: 366, 155
+  offset: 219, 17
+  index: -1
+anniu-3_sweep/anniu-3_sweep_12
+  rotate: true
+  xy: 282, 2
+  size: 94, 117
+  orig: 366, 155
+  offset: 256, 29
+  index: -1
+anniu-3_sweep/anniu-3_sweep_13
+  rotate: false
+  xy: 287, 488
+  size: 52, 81
+  orig: 366, 155
+  offset: 293, 62
+  index: -1
+anniu-3_sweep/anniu-3_sweep_14
+  rotate: false
+  xy: 287, 446
+  size: 29, 40
+  orig: 366, 155
+  offset: 316, 103
+  index: -1

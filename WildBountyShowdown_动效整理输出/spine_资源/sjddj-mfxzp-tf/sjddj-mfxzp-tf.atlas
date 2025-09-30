@@ -1,0 +1,61 @@
+sjddj-mfxzp-tf.png
+size: 1088,1088
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+baofa_a
+  rotate: false
+  xy: 324, 436
+  size: 275, 275
+  orig: 294, 293
+  offset: 9, 9
+  index: -1
+dz_gun
+  rotate: true
+  xy: 2, 35
+  size: 363, 533
+  orig: 363, 538
+  offset: 0, 0
+  index: -1
+dz_hand
+  rotate: false
+  xy: 2, 400
+  size: 320, 683
+  orig: 320, 683
+  offset: 0, 0
+  index: -1
+dz_home
+  rotate: true
+  xy: 537, 2
+  size: 432, 156
+  orig: 432, 157
+  offset: 0, 0
+  index: -1
+sc_01
+  rotate: false
+  xy: 643, 892
+  size: 133, 191
+  orig: 142, 210
+  offset: 2, 9
+  index: -1
+sc_02
+  rotate: true
+  xy: 601, 521
+  size: 190, 189
+  orig: 199, 201
+  offset: 2, 4
+  index: -1
+sc_03
+  rotate: true
+  xy: 643, 755
+  size: 135, 128
+  orig: 158, 134
+  offset: 20, 3
+  index: -1
+sc_04
+  rotate: false
+  xy: 324, 713
+  size: 317, 370
+  orig: 321, 406
+  offset: 1, 22
+  index: -1

@@ -1,0 +1,166 @@
+spin-fx-back.png
+size: 520,520
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+QuanC_006
+  rotate: false
+  xy: 2, 121
+  size: 137, 143
+  orig: 144, 144
+  offset: 4, 0
+  index: -1
+beiguang1
+  rotate: false
+  xy: 141, 128
+  size: 136, 136
+  orig: 142, 142
+  offset: 3, 3
+  index: -1
+xl_tx8
+  rotate: false
+  xy: 416, 31
+  size: 41, 41
+  orig: 53, 53
+  offset: 6, 6
+  index: -1
+yan_01
+  rotate: false
+  xy: 442, 287
+  size: 55, 42
+  orig: 140, 88
+  offset: 46, 7
+  index: -1
+yan_02
+  rotate: false
+  xy: 356, 275
+  size: 84, 51
+  orig: 140, 88
+  offset: 24, 4
+  index: -1
+yan_03
+  rotate: false
+  xy: 402, 152
+  size: 95, 60
+  orig: 140, 88
+  offset: 18, 0
+  index: -1
+yan_04
+  rotate: false
+  xy: 413, 331
+  size: 102, 60
+  orig: 140, 88
+  offset: 15, 4
+  index: -1
+yan_05
+  rotate: false
+  xy: 402, 214
+  size: 110, 59
+  orig: 140, 88
+  offset: 12, 7
+  index: -1
+yan_06
+  rotate: true
+  xy: 354, 32
+  size: 114, 60
+  orig: 140, 88
+  offset: 11, 8
+  index: -1
+yan_07
+  rotate: true
+  xy: 292, 28
+  size: 118, 60
+  orig: 140, 88
+  offset: 10, 11
+  index: -1
+yan_08
+  rotate: true
+  xy: 279, 148
+  size: 120, 61
+  orig: 140, 88
+  offset: 10, 12
+  index: -1
+yan_09
+  rotate: false
+  xy: 330, 455
+  size: 122, 60
+  orig: 140, 88
+  offset: 10, 15
+  index: -1
+yan_10
+  rotate: true
+  xy: 454, 393
+  size: 122, 60
+  orig: 140, 88
+  offset: 11, 17
+  index: -1
+yan_11
+  rotate: true
+  xy: 342, 148
+  size: 120, 58
+  orig: 140, 88
+  offset: 12, 20
+  index: -1
+yan_12
+  rotate: false
+  xy: 236, 270
+  size: 118, 52
+  orig: 140, 88
+  offset: 16, 25
+  index: -1
+yuanguang_4
+  rotate: false
+  xy: 2, 266
+  size: 232, 249
+  orig: 250, 259
+  offset: 9, 5
+  index: -1
+yw_05_02
+  rotate: true
+  xy: 416, 74
+  size: 76, 78
+  orig: 102, 102
+  offset: 8, 12
+  index: -1
+yw_05_03
+  rotate: true
+  xy: 326, 328
+  size: 90, 85
+  orig: 102, 102
+  offset: 5, 10
+  index: -1
+yw_05_04
+  rotate: true
+  xy: 236, 324
+  size: 94, 88
+  orig: 102, 102
+  offset: 4, 10
+  index: -1
+yw_05_05
+  rotate: true
+  xy: 236, 420
+  size: 95, 92
+  orig: 102, 102
+  offset: 3, 7
+  index: -1
+yw_05_06
+  rotate: true
+  xy: 196, 29
+  size: 97, 94
+  orig: 102, 102
+  offset: 3, 7
+  index: -1
+yw_05_07
+  rotate: true
+  xy: 99, 20
+  size: 99, 95
+  orig: 102, 102
+  offset: 2, 7
+  index: -1
+yw_05_08
+  rotate: true
+  xy: 2, 18
+  size: 101, 95
+  orig: 102, 102
+  offset: 0, 7
+  index: -1

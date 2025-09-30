@@ -1,0 +1,257 @@
+beishu.png
+size: 1632,1632
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+baofa_c
+  rotate: false
+  xy: 1091, 503
+  size: 190, 190
+  orig: 222, 222
+  offset: 16, 16
+  index: -1
+beishu
+  rotate: false
+  xy: 2, 1285
+  size: 993, 345
+  orig: 1064, 413
+  offset: 47, 0
+  index: -1
+beishu_hit/beishu_hit_00
+  rotate: true
+  xy: 1465, 1158
+  size: 76, 79
+  orig: 231, 222
+  offset: 80, 70
+  index: -1
+beishu_hit/beishu_hit_01
+  rotate: false
+  xy: 1496, 1057
+  size: 95, 99
+  orig: 231, 222
+  offset: 67, 65
+  index: -1
+beishu_hit/beishu_hit_02
+  rotate: true
+  xy: 1466, 101
+  size: 136, 147
+  orig: 231, 222
+  offset: 51, 28
+  index: -1
+beishu_hit/beishu_hit_03
+  rotate: true
+  xy: 1465, 1236
+  size: 168, 165
+  orig: 231, 222
+  offset: 31, 25
+  index: -1
+beishu_hit/beishu_hit_04
+  rotate: false
+  xy: 1286, 199
+  size: 178, 171
+  orig: 231, 222
+  offset: 27, 23
+  index: -1
+beishu_hit/beishu_hit_05
+  rotate: false
+  xy: 1207, 752
+  size: 187, 183
+  orig: 231, 222
+  offset: 24, 16
+  index: -1
+beishu_hit/beishu_hit_06
+  rotate: false
+  xy: 905, 96
+  size: 195, 195
+  orig: 231, 222
+  offset: 21, 8
+  index: -1
+beishu_hit/beishu_hit_07
+  rotate: false
+  xy: 905, 293
+  size: 197, 198
+  orig: 231, 222
+  offset: 20, 6
+  index: -1
+beishu_hit/beishu_hit_08
+  rotate: false
+  xy: 892, 493
+  size: 197, 200
+  orig: 231, 222
+  offset: 20, 5
+  index: -1
+beishu_hit/beishu_hit_09
+  rotate: true
+  xy: 1396, 746
+  size: 189, 179
+  orig: 231, 222
+  offset: 29, 27
+  index: -1
+beishu_hit/beishu_hit_10
+  rotate: true
+  xy: 1104, 311
+  size: 190, 180
+  orig: 231, 222
+  offset: 28, 27
+  index: -1
+beishu_hit/beishu_hit_11
+  rotate: false
+  xy: 1283, 564
+  size: 190, 180
+  orig: 231, 222
+  offset: 28, 27
+  index: -1
+beishu_hit/beishu_hit_12
+  rotate: false
+  xy: 1456, 383
+  size: 174, 179
+  orig: 231, 222
+  offset: 30, 28
+  index: -1
+beishu_hit/beishu_hit_13
+  rotate: true
+  xy: 1104, 141
+  size: 168, 169
+  orig: 231, 222
+  offset: 33, 38
+  index: -1
+beishu_sweep/beishu_sweep_01
+  rotate: false
+  xy: 1286, 372
+  size: 168, 190
+  orig: 737, 281
+  offset: 12, 71
+  index: -1
+beishu_sweep/beishu_sweep_02
+  rotate: true
+  xy: 2, 24
+  size: 262, 211
+  orig: 737, 281
+  offset: 12, 50
+  index: -1
+beishu_sweep/beishu_sweep_03
+  rotate: true
+  xy: 644, 452
+  size: 364, 246
+  orig: 737, 281
+  offset: 12, 15
+  index: -1
+beishu_sweep/beishu_sweep_04
+  rotate: true
+  xy: 279, 37
+  size: 429, 247
+  orig: 737, 281
+  offset: 12, 14
+  index: -1
+beishu_sweep/beishu_sweep_05
+  rotate: false
+  xy: 449, 818
+  size: 503, 247
+  orig: 737, 281
+  offset: 12, 14
+  index: -1
+beishu_sweep/beishu_sweep_06
+  rotate: true
+  xy: 2, 288
+  size: 575, 247
+  orig: 737, 281
+  offset: 12, 14
+  index: -1
+beishu_sweep/beishu_sweep_07
+  rotate: false
+  xy: 997, 1406
+  size: 609, 224
+  orig: 737, 281
+  offset: 47, 14
+  index: -1
+beishu_sweep/beishu_sweep_08
+  rotate: false
+  xy: 449, 1067
+  size: 553, 216
+  orig: 737, 281
+  offset: 160, 14
+  index: -1
+beishu_sweep/beishu_sweep_09
+  rotate: false
+  xy: 1004, 1157
+  size: 459, 247
+  orig: 737, 281
+  offset: 255, 15
+  index: -1
+beishu_sweep/beishu_sweep_10
+  rotate: true
+  xy: 528, 62
+  size: 388, 228
+  orig: 737, 281
+  offset: 326, 35
+  index: -1
+beishu_sweep/beishu_sweep_11
+  rotate: false
+  xy: 1004, 947
+  size: 298, 208
+  orig: 737, 281
+  offset: 416, 55
+  index: -1
+beishu_sweep/beishu_sweep_12
+  rotate: true
+  xy: 1304, 937
+  size: 218, 190
+  orig: 737, 281
+  offset: 496, 73
+  index: -1
+beishu_sweep/beishu_sweep_13
+  rotate: false
+  xy: 1475, 575
+  size: 146, 169
+  orig: 737, 281
+  offset: 568, 94
+  index: -1
+beishu_sweep/beishu_sweep_14
+  rotate: true
+  xy: 1275, 115
+  size: 82, 141
+  orig: 737, 281
+  offset: 632, 122
+  index: -1
+border_glow
+  rotate: true
+  xy: 758, 55
+  size: 395, 145
+  orig: 424, 160
+  offset: 15, 2
+  index: -1
+lian
+  rotate: false
+  xy: 251, 69
+  size: 26, 794
+  orig: 26, 794
+  offset: 0, 0
+  index: -1
+particle_a
+  rotate: false
+  xy: 1466, 239
+  size: 152, 142
+  orig: 270, 270
+  offset: 62, 67
+  index: -1
+particle_b
+  rotate: false
+  xy: 2, 865
+  size: 445, 418
+  orig: 449, 423
+  offset: 2, 2
+  index: -1
+shine_b
+  rotate: true
+  xy: 954, 695
+  size: 250, 251
+  orig: 259, 257
+  offset: 3, 3
+  index: -1
+shine_c
+  rotate: false
+  xy: 279, 468
+  size: 363, 348
+  orig: 398, 386
+  offset: 21, 24
+  index: -1

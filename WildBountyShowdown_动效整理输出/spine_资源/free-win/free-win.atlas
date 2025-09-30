@@ -1,0 +1,327 @@
+free-win.png
+size: 2020,684
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Fx_N_PopUp_012
+  rotate: false
+  xy: 603, 273
+  size: 26, 26
+  orig: 38, 38
+  offset: 6, 6
+  index: -1
+TW_T1_Total
+  rotate: true
+  xy: 1174, 340
+  size: 341, 92
+  orig: 342, 94
+  offset: 1, 2
+  index: -1
+TW_T2_Win
+  rotate: true
+  xy: 1659, 466
+  size: 215, 90
+  orig: 219, 93
+  offset: 3, 2
+  index: -1
+coin_A_01
+  rotate: false
+  xy: 1923, 519
+  size: 49, 48
+  orig: 49, 49
+  offset: 0, 1
+  index: -1
+coin_A_02
+  rotate: true
+  xy: 1530, 410
+  size: 41, 48
+  orig: 49, 49
+  offset: 4, 1
+  index: -1
+coin_A_03
+  rotate: false
+  xy: 603, 177
+  size: 21, 48
+  orig: 49, 49
+  offset: 14, 1
+  index: -1
+coin_A_04
+  rotate: true
+  xy: 1174, 317
+  size: 21, 48
+  orig: 49, 49
+  offset: 14, 1
+  index: -1
+coin_A_05
+  rotate: false
+  xy: 1923, 469
+  size: 41, 48
+  orig: 49, 49
+  offset: 4, 1
+  index: -1
+gyd_dragon_body
+  rotate: false
+  xy: 966, 312
+  size: 206, 369
+  orig: 206, 369
+  offset: 0, 0
+  index: -1
+gyd_dragon_eye
+  rotate: false
+  xy: 603, 245
+  size: 26, 26
+  orig: 26, 26
+  offset: 0, 0
+  index: -1
+gyd_dragon_head
+  rotate: false
+  xy: 483, 10
+  size: 160, 95
+  orig: 160, 95
+  offset: 0, 0
+  index: -1
+gyd_dragon_l_foot
+  rotate: true
+  xy: 1786, 342
+  size: 125, 211
+  orig: 125, 211
+  offset: 0, 0
+  index: -1
+gyd_dragon_l_lowerarm
+  rotate: false
+  xy: 1268, 319
+  size: 140, 85
+  orig: 140, 85
+  offset: 0, 0
+  index: -1
+gyd_dragon_l_thigh
+  rotate: false
+  xy: 1410, 319
+  size: 90, 85
+  orig: 90, 88
+  offset: 0, 3
+  index: -1
+gyd_dragon_l_upperarm
+  rotate: false
+  xy: 393, 7
+  size: 88, 98
+  orig: 88, 98
+  offset: 0, 0
+  index: -1
+gyd_dragon_l_wing
+  rotate: true
+  xy: 134, 107
+  size: 574, 467
+  orig: 574, 467
+  offset: 0, 0
+  index: -1
+gyd_dragon_mouth2
+  rotate: true
+  xy: 1951, 218
+  size: 122, 56
+  orig: 122, 56
+  offset: 0, 0
+  index: -1
+gyd_dragon_mouthcover
+  rotate: true
+  xy: 2, 3
+  size: 73, 24
+  orig: 73, 24
+  offset: 0, 0
+  index: -1
+gyd_dragon_r_foot
+  rotate: true
+  xy: 1613, 81
+  size: 133, 124
+  orig: 133, 124
+  offset: 0, 0
+  index: -1
+gyd_dragon_r_lowerarm
+  rotate: false
+  xy: 264, 3
+  size: 127, 102
+  orig: 127, 102
+  offset: 0, 0
+  index: -1
+gyd_dragon_r_thigh
+  rotate: false
+  xy: 1613, 216
+  size: 158, 107
+  orig: 158, 107
+  offset: 0, 0
+  index: -1
+gyd_dragon_r_upperarm
+  rotate: true
+  xy: 1483, 3
+  size: 76, 118
+  orig: 76, 118
+  offset: 0, 0
+  index: -1
+gyd_dragon_r_wing
+  rotate: false
+  xy: 603, 301
+  size: 361, 380
+  orig: 361, 380
+  offset: 0, 0
+  index: -1
+gyd_dragon_tail
+  rotate: true
+  xy: 645, 9
+  size: 290, 320
+  orig: 290, 320
+  offset: 0, 0
+  index: -1
+gyd_dragon_tongue
+  rotate: true
+  xy: 603, 119
+  size: 56, 20
+  orig: 56, 21
+  offset: 0, 0
+  index: -1
+gyd_eagle_body
+  rotate: true
+  xy: 1751, 469
+  size: 212, 170
+  orig: 212, 170
+  offset: 0, 0
+  index: -1
+gyd_eagle_l_foot
+  rotate: true
+  xy: 28, 8
+  size: 68, 54
+  orig: 68, 67
+  offset: 0, 6
+  index: -1
+gyd_eagle_l_wing
+  rotate: true
+  xy: 967, 2
+  size: 308, 108
+  orig: 308, 108
+  offset: 0, 0
+  index: -1
+gyd_eagle_lowermouth
+  rotate: false
+  xy: 134, 80
+  size: 15, 25
+  orig: 16, 26
+  offset: 1, 1
+  index: -1
+gyd_eagle_mouth
+  rotate: false
+  xy: 603, 227
+  size: 24, 16
+  orig: 24, 16
+  offset: 0, 0
+  index: -1
+gyd_eagle_r_foot
+  rotate: true
+  xy: 1502, 341
+  size: 63, 48
+  orig: 65, 48
+  offset: 1, 0
+  index: -1
+gyd_eagle_r_wing
+  rotate: true
+  xy: 1268, 406
+  size: 275, 260
+  orig: 275, 260
+  offset: 0, 0
+  index: -1
+ks_03
+  rotate: false
+  xy: 1739, 60
+  size: 144, 154
+  orig: 154, 154
+  offset: 2, 0
+  index: -1
+ks_04
+  rotate: false
+  xy: 84, 11
+  size: 65, 65
+  orig: 77, 77
+  offset: 6, 6
+  index: -1
+wg_gy_totalwin_light
+  rotate: true
+  xy: 2, 78
+  size: 603, 130
+  orig: 676, 151
+  offset: 38, 6
+  index: -1
+wg_gy_totalwin_wipes_01
+  rotate: true
+  xy: 1603, 16
+  size: 63, 61
+  orig: 676, 151
+  offset: 35, 67
+  index: -1
+wg_gy_totalwin_wipes_02
+  rotate: true
+  xy: 151, 2
+  size: 103, 111
+  orig: 676, 151
+  offset: 23, 22
+  index: -1
+wg_gy_totalwin_wipes_03
+  rotate: true
+  xy: 1885, 61
+  size: 153, 124
+  orig: 676, 151
+  offset: 17, 11
+  index: -1
+wg_gy_totalwin_wipes_04
+  rotate: true
+  xy: 1530, 453
+  size: 228, 127
+  orig: 676, 151
+  offset: 11, 10
+  index: -1
+wg_gy_totalwin_wipes_05
+  rotate: true
+  xy: 1351, 42
+  size: 275, 130
+  orig: 676, 151
+  offset: 47, 8
+  index: -1
+wg_gy_totalwin_wipes_06
+  rotate: true
+  xy: 1077, 8
+  size: 302, 137
+  orig: 676, 151
+  offset: 111, 4
+  index: -1
+wg_gy_totalwin_wipes_07
+  rotate: true
+  xy: 1216, 39
+  size: 276, 133
+  orig: 676, 151
+  offset: 226, 5
+  index: -1
+wg_gy_totalwin_wipes_08
+  rotate: true
+  xy: 1483, 81
+  size: 236, 128
+  orig: 676, 151
+  offset: 341, 8
+  index: -1
+wg_gy_totalwin_wipes_09
+  rotate: false
+  xy: 1580, 325
+  size: 204, 126
+  orig: 676, 151
+  offset: 439, 9
+  index: -1
+wg_gy_totalwin_wipes_10
+  rotate: false
+  xy: 1786, 216
+  size: 163, 124
+  orig: 676, 151
+  offset: 513, 11
+  index: -1
+wg_gy_totalwin_wipes_11
+  rotate: false
+  xy: 1923, 569
+  size: 94, 112
+  orig: 676, 151
+  offset: 563, 15
+  index: -1

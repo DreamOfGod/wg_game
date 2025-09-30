@@ -1,0 +1,96 @@
+sjddj-mfxzp-text.png
+size: 768,768
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+text_en
+  rotate: false
+  xy: 2, 374
+  size: 761, 138
+  orig: 762, 138
+  offset: 0, 0
+  index: -1
+text_en_wipes_01
+  rotate: true
+  xy: 2, 736
+  size: 27, 38
+  orig: 400, 103
+  offset: 8, 51
+  index: -1
+text_en_wipes_02
+  rotate: true
+  xy: 89, 707
+  size: 56, 77
+  orig: 400, 103
+  offset: 6, 15
+  index: -1
+text_en_wipes_03
+  rotate: false
+  xy: 349, 682
+  size: 95, 81
+  orig: 400, 103
+  offset: 3, 11
+  index: -1
+text_en_wipes_04
+  rotate: true
+  xy: 637, 616
+  size: 147, 82
+  orig: 400, 103
+  offset: 3, 10
+  index: -1
+text_en_wipes_05
+  rotate: false
+  xy: 446, 682
+  size: 189, 81
+  orig: 400, 103
+  offset: 5, 11
+  index: -1
+text_en_wipes_06
+  rotate: false
+  xy: 165, 599
+  size: 273, 81
+  orig: 400, 103
+  offset: 23, 11
+  index: -1
+text_en_wipes_07
+  rotate: false
+  xy: 2, 514
+  size: 303, 83
+  orig: 400, 103
+  offset: 82, 10
+  index: -1
+text_en_wipes_08
+  rotate: false
+  xy: 440, 532
+  size: 228, 82
+  orig: 400, 103
+  offset: 167, 10
+  index: -1
+text_en_wipes_09
+  rotate: false
+  xy: 2, 624
+  size: 161, 81
+  orig: 400, 103
+  offset: 236, 11
+  index: -1
+text_en_wipes_10
+  rotate: false
+  xy: 247, 683
+  size: 100, 80
+  orig: 400, 103
+  offset: 298, 11
+  index: -1
+text_en_wipes_11
+  rotate: true
+  xy: 168, 698
+  size: 65, 77
+  orig: 400, 103
+  offset: 332, 11
+  index: -1
+text_en_wipes_12
+  rotate: true
+  xy: 42, 732
+  size: 31, 45
+  orig: 400, 103
+  offset: 362, 14
+  index: -1

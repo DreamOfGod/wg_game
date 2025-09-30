@@ -1,0 +1,19 @@
+zidong-icon.png
+size: 76,76
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+zidong_01
+  rotate: true
+  xy: 2, 2
+  size: 16, 21
+  orig: 16, 22
+  offset: 0, 0
+  index: -1
+zidong_02
+  rotate: false
+  xy: 2, 20
+  size: 50, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: -1

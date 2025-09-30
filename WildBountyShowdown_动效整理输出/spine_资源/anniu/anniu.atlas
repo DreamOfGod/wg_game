@@ -1,0 +1,124 @@
+anniu.png
+size: 572,572
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+anniu-1
+  rotate: false
+  xy: 2, 296
+  size: 235, 135
+  orig: 235, 135
+  offset: 0, 0
+  index: -1
+anniu-1_sweep/anniu-1_sweep_00
+  rotate: true
+  xy: 72, 7
+  size: 9, 19
+  orig: 258, 149
+  offset: 16, 26
+  index: -1
+anniu-1_sweep/anniu-1_sweep_01
+  rotate: false
+  xy: 423, 334
+  size: 56, 97
+  orig: 258, 149
+  offset: 11, 6
+  index: -1
+anniu-1_sweep/anniu-1_sweep_02
+  rotate: false
+  xy: 483, 26
+  size: 87, 127
+  orig: 258, 149
+  offset: 11, 6
+  index: -1
+anniu-1_sweep/anniu-1_sweep_03
+  rotate: false
+  xy: 377, 155
+  size: 119, 137
+  orig: 258, 149
+  offset: 11, 6
+  index: -1
+anniu-1_sweep/anniu-1_sweep_04
+  rotate: false
+  xy: 198, 16
+  size: 150, 137
+  orig: 258, 149
+  offset: 11, 6
+  index: -1
+anniu-1_sweep/anniu-1_sweep_05
+  rotate: false
+  xy: 239, 294
+  size: 182, 137
+  orig: 258, 149
+  offset: 11, 6
+  index: -1
+anniu-1_sweep/anniu-1_sweep_06
+  rotate: false
+  xy: 2, 157
+  size: 209, 137
+  orig: 258, 149
+  offset: 15, 6
+  index: -1
+anniu-1_sweep/anniu-1_sweep_07
+  rotate: false
+  xy: 240, 433
+  size: 219, 137
+  orig: 258, 149
+  offset: 28, 6
+  index: -1
+anniu-1_sweep/anniu-1_sweep_08
+  rotate: false
+  xy: 2, 18
+  size: 194, 137
+  orig: 258, 149
+  offset: 53, 6
+  index: -1
+anniu-1_sweep/anniu-1_sweep_09
+  rotate: false
+  xy: 213, 155
+  size: 162, 137
+  orig: 258, 149
+  offset: 85, 6
+  index: -1
+anniu-1_sweep/anniu-1_sweep_10
+  rotate: false
+  xy: 350, 16
+  size: 131, 137
+  orig: 258, 149
+  offset: 116, 6
+  index: -1
+anniu-1_sweep/anniu-1_sweep_11
+  rotate: false
+  xy: 461, 434
+  size: 99, 136
+  orig: 258, 149
+  offset: 148, 7
+  index: -1
+anniu-1_sweep/anniu-1_sweep_12
+  rotate: false
+  xy: 2, 5
+  size: 68, 11
+  orig: 258, 149
+  offset: 179, 132
+  index: -1
+anniu-1_sweep/anniu-1_sweep_13
+  rotate: false
+  xy: 423, 321
+  size: 37, 11
+  orig: 258, 149
+  offset: 210, 132
+  index: -1
+anniu-1_sweep/anniu-1_sweep_14
+  rotate: false
+  xy: 423, 309
+  size: 16, 10
+  orig: 258, 149
+  offset: 231, 133
+  index: -1
+anniu-glow
+  rotate: false
+  xy: 2, 433
+  size: 236, 137
+  orig: 258, 149
+  offset: 11, 6
+  index: -1

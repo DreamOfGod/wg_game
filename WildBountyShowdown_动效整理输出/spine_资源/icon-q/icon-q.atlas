@@ -1,0 +1,26 @@
+icon-q.png
+size: 372,372
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+q_f
+  rotate: true
+  xy: 2, 274
+  size: 96, 105
+  orig: 96, 105
+  offset: 0, 0
+  index: -1
+sj_tubiao_12
+  rotate: true
+  xy: 249, 260
+  size: 110, 121
+  orig: 112, 122
+  offset: 1, 1
+  index: -1
+sj_tubiaom_12
+  rotate: true
+  xy: 109, 262
+  size: 108, 138
+  orig: 110, 140
+  offset: 1, 2
+  index: -1

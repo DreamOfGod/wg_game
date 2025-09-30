@@ -1,0 +1,75 @@
+sjddj-mfxzp-number.png
+size: 568,568
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+QuanC_006_2
+  rotate: false
+  xy: 2, 150
+  size: 282, 286
+  orig: 287, 287
+  offset: 3, 0
+  index: -1
+boom2_03
+  rotate: false
+  xy: 394, 147
+  size: 91, 94
+  orig: 144, 144
+  offset: 22, 25
+  index: -1
+boom2_04
+  rotate: false
+  xy: 387, 243
+  size: 95, 95
+  orig: 144, 144
+  offset: 20, 24
+  index: -1
+boom2_05
+  rotate: false
+  xy: 286, 340
+  size: 97, 96
+  orig: 144, 144
+  offset: 19, 23
+  index: -1
+boom2_06
+  rotate: false
+  xy: 286, 239
+  size: 99, 99
+  orig: 144, 144
+  offset: 19, 21
+  index: -1
+boom2_07
+  rotate: true
+  xy: 388, 340
+  size: 103, 102
+  orig: 144, 144
+  offset: 17, 19
+  index: -1
+boom2_08
+  rotate: false
+  xy: 286, 139
+  size: 106, 98
+  orig: 144, 144
+  offset: 16, 24
+  index: -1
+light_01
+  rotate: false
+  xy: 2, 438
+  size: 384, 126
+  orig: 432, 380
+  offset: 18, 108
+  index: -1
+ssg_14
+  rotate: true
+  xy: 388, 445
+  size: 119, 116
+  orig: 120, 118
+  offset: 0, 2
+  index: -1
+xl_tx9
+  rotate: false
+  xy: 484, 256
+  size: 80, 82
+  orig: 106, 106
+  offset: 13, 11
+  index: -1

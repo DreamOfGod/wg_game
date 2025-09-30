@@ -1,0 +1,96 @@
+ruchang-tx.png
+size: 364,364
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bullet_hole
+  rotate: false
+  xy: 146, 48
+  size: 35, 38
+  orig: 35, 40
+  offset: 0, 2
+  index: -1
+bullet_line/bullet_line_02
+  rotate: true
+  xy: 14, 100
+  size: 10, 214
+  orig: 58, 768
+  offset: 23, 450
+  index: -1
+bullet_line/bullet_line_03
+  rotate: false
+  xy: 2, 58
+  size: 10, 302
+  orig: 58, 768
+  offset: 23, 264
+  index: -1
+bullet_line/bullet_line_04
+  rotate: true
+  xy: 14, 88
+  size: 10, 287
+  orig: 58, 768
+  offset: 23, 93
+  index: -1
+bullet_line/bullet_line_05
+  rotate: true
+  xy: 186, 117
+  size: 8, 111
+  orig: 58, 768
+  offset: 24, 82
+  index: -1
+wall_hit/wall_hit_01
+  rotate: false
+  xy: 342, 214
+  size: 14, 19
+  orig: 294, 250
+  offset: 145, 142
+  index: -1
+wall_hit/wall_hit_02
+  rotate: false
+  xy: 183, 48
+  size: 34, 38
+  orig: 294, 250
+  offset: 135, 136
+  index: -1
+wall_hit/wall_hit_03
+  rotate: false
+  xy: 89, 31
+  size: 55, 55
+  orig: 294, 250
+  offset: 124, 128
+  index: -1
+wall_hit/wall_hit_04
+  rotate: false
+  xy: 14, 20
+  size: 73, 66
+  orig: 294, 250
+  offset: 116, 118
+  index: -1
+wall_hit/wall_hit_05
+  rotate: false
+  xy: 186, 127
+  size: 154, 106
+  orig: 294, 250
+  offset: 87, 80
+  index: -1
+wall_hit/wall_hit_06
+  rotate: false
+  xy: 14, 112
+  size: 170, 125
+  orig: 294, 250
+  offset: 69, 60
+  index: -1
+wall_hit/wall_hit_07
+  rotate: false
+  xy: 193, 235
+  size: 167, 125
+  orig: 294, 250
+  offset: 49, 60
+  index: -1
+wall_hit/wall_hit_08
+  rotate: false
+  xy: 14, 239
+  size: 177, 121
+  orig: 294, 250
+  offset: 54, 60
+  index: -1

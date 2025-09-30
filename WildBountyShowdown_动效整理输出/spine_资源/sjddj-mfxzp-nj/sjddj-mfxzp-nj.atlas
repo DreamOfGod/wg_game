@@ -1,0 +1,124 @@
+sjddj-mfxzp-nj.png
+size: 1064,1064
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+face
+  rotate: true
+  xy: 429, 103
+  size: 177, 218
+  orig: 178, 218
+  offset: 1, 0
+  index: -1
+gril_body
+  rotate: false
+  xy: 2, 557
+  size: 422, 505
+  orig: 573, 1334
+  offset: 0, 829
+  index: -1
+gril_body_x
+  rotate: false
+  xy: 2, 63
+  size: 274, 492
+  orig: 286, 667
+  offset: 12, 0
+  index: -1
+nj_gun
+  rotate: false
+  xy: 278, 203
+  size: 149, 352
+  orig: 150, 354
+  offset: 0, 2
+  index: -1
+nj_hand_r
+  rotate: true
+  xy: 426, 751
+  size: 311, 592
+  orig: 311, 592
+  offset: 0, 0
+  index: -1
+nj_hand_s_l
+  rotate: true
+  xy: 786, 574
+  size: 175, 255
+  orig: 178, 256
+  offset: 3, 0
+  index: -1
+nj_hand_x_l
+  rotate: true
+  xy: 649, 68
+  size: 170, 273
+  orig: 170, 274
+  offset: 0, 1
+  index: -1
+nj_har_01
+  rotate: true
+  xy: 700, 240
+  size: 326, 198
+  orig: 326, 198
+  offset: 0, 0
+  index: -1
+nj_har_02
+  rotate: true
+  xy: 924, 118
+  size: 167, 135
+  orig: 168, 136
+  offset: 1, 1
+  index: -1
+nj_hard_01
+  rotate: false
+  xy: 900, 287
+  size: 156, 90
+  orig: 156, 90
+  offset: 0, 0
+  index: -1
+nj_hard_02
+  rotate: false
+  xy: 2, 5
+  size: 110, 56
+  orig: 110, 56
+  offset: 0, 0
+  index: -1
+nj_hard_03
+  rotate: true
+  xy: 900, 379
+  size: 193, 145
+  orig: 193, 145
+  offset: 0, 0
+  index: -1
+nj_hard_04
+  rotate: true
+  xy: 278, 14
+  size: 187, 147
+  orig: 189, 147
+  offset: 2, 0
+  index: -1
+nj_hard_05
+  rotate: true
+  xy: 114, 5
+  size: 56, 101
+  orig: 56, 101
+  offset: 0, 0
+  index: -1
+nj_hard_06
+  rotate: true
+  xy: 427, 2
+  size: 99, 185
+  orig: 105, 186
+  offset: 0, 0
+  index: -1
+nj_hard_07
+  rotate: false
+  xy: 429, 282
+  size: 269, 284
+  orig: 280, 284
+  offset: 11, 0
+  index: -1
+nj_hard_08
+  rotate: true
+  xy: 426, 568
+  size: 181, 358
+  orig: 203, 358
+  offset: 0, 0
+  index: -1

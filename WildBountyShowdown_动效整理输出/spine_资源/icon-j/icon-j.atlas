@@ -1,0 +1,26 @@
+icon-j.png
+size: 364,364
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+j_f
+  rotate: true
+  xy: 2, 273
+  size: 86, 102
+  orig: 86, 102
+  offset: 0, 0
+  index: -1
+sj_tubiao_13
+  rotate: true
+  xy: 242, 248
+  size: 111, 117
+  orig: 113, 118
+  offset: 1, 1
+  index: -1
+sj_tubiaom_13
+  rotate: true
+  xy: 106, 250
+  size: 109, 134
+  orig: 111, 135
+  offset: 2, 1
+  index: -1
