@@ -1,0 +1,47 @@
+hshwk-panmian-tx.png
+size: 432,432
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bk_glow_00
+  rotate: false
+  xy: 2, 66
+  size: 328, 237
+  orig: 330, 239
+  offset: 1, 1
+  index: -1
+fuwen_a
+  rotate: false
+  xy: 356, 62
+  size: 19, 21
+  orig: 22, 25
+  offset: 2, 2
+  index: -1
+fuwen_b
+  rotate: false
+  xy: 377, 63
+  size: 18, 20
+  orig: 20, 24
+  offset: 1, 2
+  index: -1
+fuwen_c
+  rotate: true
+  xy: 332, 64
+  size: 19, 22
+  orig: 22, 25
+  offset: 1, 2
+  index: -1
+pmd_bg_shine
+  rotate: false
+  xy: 2, 305
+  size: 428, 125
+  orig: 434, 133
+  offset: 3, 1
+  index: -1
+pmd_text_shine_a
+  rotate: false
+  xy: 332, 85
+  size: 86, 218
+  orig: 98, 227
+  offset: 6, 0
+  index: -1

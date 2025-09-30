@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "85c63cfb-ec12-45fd-9ea0-35e02345b7fa",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 792,
+  "height": 792,
+  "platformSettings": {},
+  "subMetas": {
+    "gunzhou-beilv-win": {
+      "ver": "1.0.6",
+      "uuid": "bb180e2d-5070-4e82-bf04-10c19f26ad88",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "85c63cfb-ec12-45fd-9ea0-35e02345b7fa",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 2,
+      "trimY": 2,
+      "width": 788,
+      "height": 788,
+      "rawWidth": 792,
+      "rawHeight": 792,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

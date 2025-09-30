@@ -1,0 +1,82 @@
+Icon_L5.png
+size: 680,680
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Dust
+  rotate: false
+  xy: 2, 13
+  size: 29, 31
+  orig: 38, 39
+  offset: 5, 4
+  index: -1
+Glow_Star
+  rotate: false
+  xy: 528, 119
+  size: 36, 35
+  orig: 38, 38
+  offset: 1, 2
+  index: -1
+L5
+  rotate: false
+  xy: 390, 18
+  size: 136, 136
+  orig: 140, 139
+  offset: 2, 2
+  index: -1
+L5_Light
+  rotate: false
+  xy: 566, 217
+  size: 112, 112
+  orig: 115, 114
+  offset: 2, 1
+  index: -1
+LL1
+  rotate: false
+  xy: 216, 14
+  size: 102, 102
+  orig: 106, 106
+  offset: 2, 2
+  index: -1
+gb_icon_xz_glow
+  rotate: true
+  xy: 216, 118
+  size: 186, 172
+  orig: 240, 240
+  offset: 27, 23
+  index: -1
+gb_icon_z
+  rotate: false
+  xy: 2, 46
+  size: 212, 258
+  orig: 223, 262
+  offset: 1, 2
+  index: -1
+gu23ang1
+  rotate: false
+  xy: 566, 131
+  size: 84, 84
+  orig: 88, 88
+  offset: 2, 2
+  index: -1
+reund_light_01
+  rotate: false
+  xy: 390, 156
+  size: 174, 173
+  orig: 214, 205
+  offset: 20, 16
+  index: -1
+ssg_14
+  rotate: true
+  xy: 352, 331
+  size: 347, 326
+  orig: 360, 353
+  offset: 4, 11
+  index: -1
+yuanguang_4
+  rotate: false
+  xy: 2, 306
+  size: 348, 372
+  orig: 374, 388
+  offset: 13, 8
+  index: -1

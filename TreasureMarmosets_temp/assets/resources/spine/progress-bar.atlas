@@ -1,0 +1,96 @@
+progress-bar.png
+size: 236, 524
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+JinDuTiao_Diban
+  rotate: true
+  xy: 92, 221
+  size: 301, 94
+  orig: 302, 94
+  offset: 1, 0
+  index: -1
+JinDuTiao_YuanGuang
+  rotate: false
+  xy: 2, 119
+  size: 91, 91
+  orig: 97, 97
+  offset: 3, 3
+  index: -1
+JinDuTiao_color
+  rotate: true
+  xy: 2, 212
+  size: 310, 88
+  orig: 310, 88
+  offset: 0, 0
+  index: -1
+JinDuTiao_line
+  rotate: true
+  xy: 2, 2
+  size: 29, 98
+  orig: 31, 100
+  offset: 1, 1
+  index: -1
+LL
+  rotate: false
+  xy: 2, 33
+  size: 84, 84
+  orig: 88, 88
+  offset: 2, 2
+  index: -1
+ShuiHuZhuan_BianKuang_Chang_1
+  rotate: true
+  xy: 88, 48
+  size: 43, 125
+  orig: 55, 141
+  offset: 6, 7
+  index: -1
+ShuiHuZhuan_BianKuang_Chang_2
+  rotate: true
+  xy: 102, 3
+  size: 43, 125
+  orig: 55, 141
+  offset: 7, 7
+  index: -1
+ShuiHuZhuan_BianKuang_Chang_3
+  rotate: false
+  xy: 188, 394
+  size: 42, 128
+  orig: 55, 141
+  offset: 7, 7
+  index: -1
+ShuiHuZhuan_BianKuang_Chang_4
+  rotate: false
+  xy: 95, 93
+  size: 44, 126
+  orig: 55, 141
+  offset: 6, 7
+  index: -1
+ShuiHuZhuan_BianKuang_Chang_5
+  rotate: false
+  xy: 188, 265
+  size: 43, 127
+  orig: 55, 141
+  offset: 6, 6
+  index: -1
+ShuiHuZhuan_BianKuang_Chang_6
+  rotate: false
+  xy: 141, 93
+  size: 43, 126
+  orig: 55, 141
+  offset: 6, 6
+  index: -1
+ShuiHuZhuan_BianKuang_Chang_7
+  rotate: false
+  xy: 186, 93
+  size: 42, 126
+  orig: 55, 141
+  offset: 6, 6
+  index: -1
+lizi
+  rotate: false
+  xy: 188, 247
+  size: 15, 16
+  orig: 18, 18
+  offset: 1, 1
+  index: -1

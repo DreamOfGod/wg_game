@@ -1,0 +1,75 @@
+icon-passionfruit.png
+size: 872,352
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Passionfruit_1
+  rotate: true
+  xy: 704, 5
+  size: 32, 38
+  orig: 32, 38
+  offset: 0, 0
+  index: -1
+Passionfruit_2
+  rotate: true
+  xy: 841, 39
+  size: 37, 22
+  orig: 37, 22
+  offset: 0, 0
+  index: -1
+Passionfruit_3
+  rotate: false
+  xy: 704, 108
+  size: 73, 64
+  orig: 73, 64
+  offset: 0, 0
+  index: -1
+Passionfruit_4
+  rotate: true
+  xy: 779, 111
+  size: 61, 73
+  orig: 61, 73
+  offset: 0, 0
+  index: -1
+Passionfruit_5
+  rotate: true
+  xy: 744, 3
+  size: 50, 41
+  orig: 50, 41
+  offset: 0, 0
+  index: -1
+Passionfruit_SD
+  rotate: false
+  xy: 779, 55
+  size: 60, 54
+  orig: 65, 59
+  offset: 1, 3
+  index: -1
+Passionfruit_fx
+  rotate: true
+  xy: 704, 174
+  size: 176, 163
+  orig: 182, 170
+  offset: 3, 3
+  index: -1
+ss_01
+  rotate: false
+  xy: 841, 78
+  size: 29, 31
+  orig: 38, 39
+  offset: 5, 4
+  index: -1
+ssg_14
+  rotate: true
+  xy: 376, 3
+  size: 347, 326
+  orig: 360, 353
+  offset: 4, 11
+  index: -1
+yuanguang_4
+  rotate: true
+  xy: 2, 2
+  size: 348, 372
+  orig: 374, 388
+  offset: 13, 8
+  index: -1

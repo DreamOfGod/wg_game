@@ -1,0 +1,335 @@
+
+juanzhou.png
+size: 508,508
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+LLLquan
+  rotate: false
+  xy: 2, 361
+  size: 145, 145
+  orig: 151, 151
+  offset: 3, 3
+  index: -1
+juanzhou_fly_lz_01
+  rotate: true
+  xy: 409, 50
+  size: 40, 37
+  orig: 81, 81
+  offset: 20, 22
+  index: -1
+juanzhou_fly_lz_02
+  rotate: false
+  xy: 457, 382
+  size: 49, 44
+  orig: 81, 81
+  offset: 15, 19
+  index: -1
+juanzhou_fly_lz_03
+  rotate: false
+  xy: 451, 210
+  size: 55, 51
+  orig: 81, 81
+  offset: 12, 16
+  index: -1
+juanzhou_fly_lz_04
+  rotate: true
+  xy: 351, 47
+  size: 60, 56
+  orig: 81, 81
+  offset: 9, 14
+  index: -1
+juanzhou_fly_lz_05
+  rotate: false
+  xy: 440, 102
+  size: 64, 60
+  orig: 81, 81
+  offset: 7, 12
+  index: -1
+juanzhou_fly_lz_06
+  rotate: false
+  xy: 342, 109
+  size: 67, 61
+  orig: 81, 81
+  offset: 5, 12
+  index: -1
+juanzhou_fly_lz_07
+  rotate: false
+  xy: 370, 172
+  size: 68, 61
+  orig: 81, 81
+  offset: 4, 12
+  index: -1
+juanzhou_fly_lz_08
+  rotate: false
+  xy: 231, 13
+  size: 69, 63
+  orig: 81, 81
+  offset: 3, 11
+  index: -1
+juanzhou_fly_lz_09
+  rotate: true
+  xy: 302, 9
+  size: 67, 47
+  orig: 81, 81
+  offset: 5, 15
+  index: -1
+juanzhou_fly_lz_10
+  rotate: false
+  xy: 440, 164
+  size: 65, 44
+  orig: 81, 81
+  offset: 7, 17
+  index: -1
+juanzhou_fly_lz_11
+  rotate: false
+  xy: 351, 13
+  size: 63, 32
+  orig: 81, 81
+  offset: 6, 20
+  index: -1
+juanzhou_fly_lz_12
+  rotate: true
+  xy: 255, 402
+  size: 3, 2
+  orig: 81, 81
+  offset: 66, 47
+  index: -1
+juanzou_bk_glow
+  rotate: false
+  xy: 2, 194
+  size: 131, 72
+  orig: 131, 73
+  offset: 0, 1
+  index: -1
+juanzou_d
+  rotate: false
+  xy: 370, 263
+  size: 86, 30
+  orig: 86, 30
+  offset: 0, 0
+  index: -1
+juanzou_glow
+  rotate: false
+  xy: 2, 268
+  size: 139, 91
+  orig: 143, 95
+  offset: 2, 2
+  index: -1
+juanzou_li_00
+  rotate: false
+  xy: 149, 330
+  size: 108, 70
+  orig: 240, 120
+  offset: 58, 22
+  index: -1
+juanzou_li_01
+  rotate: false
+  xy: 2, 119
+  size: 110, 73
+  orig: 240, 120
+  offset: 58, 22
+  index: -1
+juanzou_li_02
+  rotate: false
+  xy: 357, 433
+  size: 109, 73
+  orig: 240, 120
+  offset: 59, 25
+  index: -1
+juanzou_li_03
+  rotate: false
+  xy: 2, 43
+  size: 107, 74
+  orig: 240, 120
+  offset: 60, 24
+  index: -1
+juanzou_li_04
+  rotate: false
+  xy: 259, 333
+  size: 105, 72
+  orig: 240, 120
+  offset: 60, 25
+  index: -1
+juanzou_li_05
+  rotate: false
+  xy: 114, 118
+  size: 96, 69
+  orig: 240, 120
+  offset: 69, 26
+  index: -1
+juanzou_li_06
+  rotate: false
+  xy: 143, 259
+  size: 103, 69
+  orig: 240, 120
+  offset: 57, 28
+  index: -1
+juanzou_li_07
+  rotate: false
+  xy: 135, 189
+  size: 103, 68
+  orig: 240, 120
+  offset: 55, 29
+  index: -1
+juanzou_li_08
+  rotate: false
+  xy: 111, 58
+  size: 103, 58
+  orig: 240, 120
+  offset: 55, 39
+  index: -1
+juanzou_li_09
+  rotate: false
+  xy: 212, 130
+  size: 104, 57
+  orig: 240, 120
+  offset: 55, 37
+  index: -1
+juanzou_li_10
+  rotate: false
+  xy: 240, 189
+  size: 104, 58
+  orig: 240, 120
+  offset: 57, 37
+  index: -1
+juanzou_li_11
+  rotate: false
+  xy: 125, 5
+  size: 104, 51
+  orig: 240, 120
+  offset: 57, 38
+  index: -1
+juanzou_li_12
+  rotate: false
+  xy: 367, 295
+  size: 103, 48
+  orig: 240, 120
+  offset: 57, 40
+  index: -1
+juanzou_li_13
+  rotate: false
+  xy: 216, 78
+  size: 99, 50
+  orig: 240, 120
+  offset: 58, 40
+  index: -1
+juanzou_li_14
+  rotate: false
+  xy: 259, 291
+  size: 106, 40
+  orig: 240, 120
+  offset: 60, 57
+  index: -1
+juanzou_liug_01
+  rotate: false
+  xy: 111, 43
+  size: 12, 13
+  orig: 47, 97
+  offset: 13, 10
+  index: -1
+juanzou_liug_02
+  rotate: false
+  xy: 457, 353
+  size: 16, 27
+  orig: 47, 97
+  offset: 14, 9
+  index: -1
+juanzou_liug_03
+  rotate: false
+  xy: 416, 2
+  size: 19, 46
+  orig: 47, 97
+  offset: 15, 9
+  index: -1
+juanzou_liug_04
+  rotate: false
+  xy: 346, 182
+  size: 22, 65
+  orig: 47, 97
+  offset: 14, 10
+  index: -1
+juanzou_liug_05
+  rotate: false
+  xy: 318, 112
+  size: 22, 75
+  orig: 47, 97
+  offset: 14, 13
+  index: -1
+juanzou_liug_06
+  rotate: false
+  xy: 468, 428
+  size: 27, 78
+  orig: 47, 97
+  offset: 9, 13
+  index: -1
+juanzou_liug_07
+  rotate: true
+  xy: 370, 235
+  size: 26, 79
+  orig: 47, 97
+  offset: 9, 12
+  index: -1
+juanzou_liug_08
+  rotate: false
+  xy: 411, 92
+  size: 27, 78
+  orig: 47, 97
+  offset: 8, 16
+  index: -1
+juanzou_liug_09
+  rotate: false
+  xy: 448, 41
+  size: 27, 59
+  orig: 47, 97
+  offset: 8, 34
+  index: -1
+juanzou_liug_10
+  rotate: false
+  xy: 317, 79
+  size: 23, 31
+  orig: 47, 97
+  offset: 9, 61
+  index: -1
+juanzou_liug_11
+  rotate: false
+  xy: 477, 85
+  size: 16, 15
+  orig: 47, 97
+  offset: 8, 77
+  index: -1
+juanzou_s
+  rotate: false
+  xy: 248, 249
+  size: 120, 40
+  orig: 121, 40
+  offset: 1, 0
+  index: -1
+juanzou_x
+  rotate: false
+  xy: 2, 7
+  size: 121, 34
+  orig: 122, 35
+  offset: 1, 1
+  index: -1
+round_bk_glow
+  rotate: false
+  xy: 255, 407
+  size: 100, 99
+  orig: 102, 102
+  offset: 1, 2
+  index: -1
+round_bk_glow_00
+  rotate: false
+  xy: 149, 402
+  size: 104, 104
+  orig: 108, 108
+  offset: 2, 2
+  index: -1
+ssg_14
+  rotate: false
+  xy: 366, 345
+  size: 89, 86
+  orig: 90, 88
+  offset: 0, 2
+  index: -1

@@ -1,0 +1,76 @@
+
+Icon_L6.png
+size: 700,700
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Dust
+  rotate: false
+  xy: 575, 197
+  size: 29, 31
+  orig: 38, 39
+  offset: 5, 4
+  index: -1
+Glow_Star
+  rotate: false
+  xy: 216, 76
+  size: 36, 35
+  orig: 38, 38
+  offset: 1, 2
+  index: -1
+L6_1
+  rotate: false
+  xy: 2, 7
+  size: 103, 57
+  orig: 104, 58
+  offset: 0, 1
+  index: -1
+L6_2
+  rotate: true
+  xy: 216, 113
+  size: 211, 169
+  orig: 225, 187
+  offset: 7, 18
+  index: -1
+L6_Light
+  rotate: true
+  xy: 575, 230
+  size: 119, 103
+  orig: 121, 104
+  offset: 1, 1
+  index: -1
+gb_icon_xz_glow
+  rotate: false
+  xy: 387, 177
+  size: 186, 172
+  orig: 240, 240
+  offset: 27, 23
+  index: -1
+gb_icon_z
+  rotate: false
+  xy: 2, 66
+  size: 212, 258
+  orig: 223, 262
+  offset: 1, 2
+  index: -1
+reund_light_01
+  rotate: false
+  xy: 387, 2
+  size: 174, 173
+  orig: 214, 205
+  offset: 20, 16
+  index: -1
+ssg_14
+  rotate: true
+  xy: 352, 351
+  size: 347, 326
+  orig: 360, 353
+  offset: 4, 11
+  index: -1
+yuanguang_4
+  rotate: false
+  xy: 2, 326
+  size: 348, 372
+  orig: 374, 388
+  offset: 13, 8
+  index: -1

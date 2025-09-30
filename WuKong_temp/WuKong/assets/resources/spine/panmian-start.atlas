@@ -1,0 +1,61 @@
+panmian-start.png
+size: 284,284
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+11
+  rotate: true
+  xy: 190, 222
+  size: 58, 83
+  orig: 58, 87
+  offset: 0, 2
+  index: -1
+fl2_paigx
+  rotate: false
+  xy: 110, 57
+  size: 38, 223
+  orig: 38, 223
+  offset: 0, 0
+  index: -1
+fl2_paigx_blue
+  rotate: false
+  xy: 150, 57
+  size: 38, 223
+  orig: 38, 223
+  offset: 0, 0
+  index: -1
+glow_00
+  rotate: true
+  xy: 2, 2
+  size: 44, 182
+  orig: 50, 200
+  offset: 2, 17
+  index: -1
+mjfl2zc_tx3
+  rotate: false
+  xy: 2, 48
+  size: 14, 232
+  orig: 20, 232
+  offset: 3, 0
+  index: -1
+mjfl2zc_tx3_blue
+  rotate: false
+  xy: 96, 56
+  size: 12, 224
+  orig: 20, 232
+  offset: 4, 8
+  index: -1
+mjpaiguang
+  rotate: false
+  xy: 18, 51
+  size: 76, 229
+  orig: 89, 230
+  offset: 13, 1
+  index: -1
+mjpaiguang_blue
+  rotate: false
+  xy: 190, 5
+  size: 76, 215
+  orig: 89, 230
+  offset: 13, 15
+  index: -1

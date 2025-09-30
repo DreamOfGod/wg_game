@@ -1,0 +1,26 @@
+jiting.png
+size: 408,408
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+fx-1
+  rotate: false
+  xy: 246, 246
+  size: 157, 157
+  orig: 157, 157
+  offset: 0, 0
+  index: -1
+fx-2
+  rotate: false
+  xy: 123, 282
+  size: 121, 121
+  orig: 157, 157
+  offset: 17, 19
+  index: -1
+fx-3
+  rotate: false
+  xy: 2, 285
+  size: 119, 118
+  orig: 157, 157
+  offset: 18, 20
+  index: -1

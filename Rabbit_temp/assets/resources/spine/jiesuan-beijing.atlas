@@ -1,0 +1,313 @@
+jiesuan-beijing.png
+size: 2004,2004
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bw_bg_glow
+  rotate: false
+  xy: 2, 26
+  size: 324, 366
+  orig: 324, 576
+  offset: 0, 112
+  index: -1
+bw_coin
+  rotate: false
+  xy: 1435, 1660
+  size: 541, 176
+  orig: 542, 176
+  offset: 0, 0
+  index: -1
+bw_impact_a
+  rotate: false
+  xy: 612, 251
+  size: 140, 141
+  orig: 338, 338
+  offset: 99, 99
+  index: -1
+bw_impact_b
+  rotate: true
+  xy: 1502, 736
+  size: 140, 139
+  orig: 148, 148
+  offset: 4, 4
+  index: -1
+bw_pattern_a
+  rotate: false
+  xy: 718, 695
+  size: 629, 240
+  orig: 629, 244
+  offset: 0, 1
+  index: -1
+bw_pattern_b
+  rotate: false
+  xy: 2, 406
+  size: 613, 131
+  orig: 613, 131
+  offset: 0, 0
+  index: -1
+bw_pattern_c_1
+  rotate: false
+  xy: 2, 539
+  size: 614, 224
+  orig: 677, 240
+  offset: 49, 11
+  index: -1
+bw_pattern_c_2
+  rotate: false
+  xy: 2, 1142
+  size: 650, 255
+  orig: 677, 332
+  offset: 23, 50
+  index: -1
+bw_pattern_d_1
+  rotate: false
+  xy: 1643, 63
+  size: 104, 106
+  orig: 171, 163
+  offset: 25, 33
+  index: -1
+bw_pattern_d_2
+  rotate: false
+  xy: 478, 245
+  size: 132, 159
+  orig: 158, 212
+  offset: 15, 22
+  index: -1
+bw_pattern_d_3
+  rotate: true
+  xy: 1349, 776
+  size: 100, 140
+  orig: 167, 182
+  offset: 35, 21
+  index: -1
+bw_pattern_glow_a
+  rotate: false
+  xy: 1643, 171
+  size: 308, 121
+  orig: 310, 121
+  offset: 1, 0
+  index: -1
+bw_pattern_glow_b
+  rotate: true
+  xy: 651, 745
+  size: 306, 65
+  orig: 306, 65
+  offset: 0, 0
+  index: -1
+bw_shine_b
+  rotate: false
+  xy: 1643, 471
+  size: 320, 316
+  orig: 332, 328
+  offset: 6, 6
+  index: -1
+coin_A_01
+  rotate: false
+  xy: 1371, 1252
+  size: 58, 58
+  orig: 60, 60
+  offset: 1, 1
+  index: -1
+coin_A_02
+  rotate: true
+  xy: 1371, 1202
+  size: 48, 58
+  orig: 60, 60
+  offset: 6, 1
+  index: -1
+coin_A_03
+  rotate: false
+  xy: 1978, 1778
+  size: 24, 58
+  orig: 60, 60
+  offset: 18, 1
+  index: -1
+coin_A_04
+  rotate: false
+  xy: 1978, 1718
+  size: 24, 58
+  orig: 60, 60
+  offset: 18, 1
+  index: -1
+coin_A_05
+  rotate: true
+  xy: 1371, 1152
+  size: 48, 58
+  orig: 60, 60
+  offset: 6, 1
+  index: -1
+mw_bg_glow
+  rotate: false
+  xy: 1433, 1085
+  size: 538, 573
+  orig: 621, 681
+  offset: 48, 46
+  index: -1
+mw_coin
+  rotate: false
+  xy: 730, 1312
+  size: 701, 492
+  orig: 701, 558
+  offset: 0, 65
+  index: -1
+mw_pattern_a
+  rotate: false
+  xy: 2, 1532
+  size: 701, 175
+  orig: 703, 179
+  offset: 1, 1
+  index: -1
+mw_pattern_b
+  rotate: false
+  xy: 2, 1399
+  size: 695, 131
+  orig: 695, 133
+  offset: 0, 1
+  index: -1
+mw_pattern_c_1
+  rotate: false
+  xy: 1365, 878
+  size: 637, 205
+  orig: 647, 211
+  offset: 5, 0
+  index: -1
+mw_pattern_c_2
+  rotate: false
+  xy: 1068, 64
+  size: 573, 205
+  orig: 647, 254
+  offset: 37, 27
+  index: -1
+mw_pattern_d_1
+  rotate: false
+  xy: 1335, 523
+  size: 155, 170
+  orig: 190, 206
+  offset: 8, 10
+  index: -1
+mw_pattern_d_2
+  rotate: false
+  xy: 1502, 359
+  size: 127, 186
+  orig: 216, 248
+  offset: 45, 20
+  index: -1
+mw_pattern_d_3
+  rotate: true
+  xy: 1749, 65
+  size: 104, 204
+  orig: 211, 252
+  offset: 59, 32
+  index: -1
+mw_pattern_glow_a
+  rotate: false
+  xy: 1643, 789
+  size: 351, 87
+  orig: 352, 90
+  offset: 1, 1
+  index: -1
+mw_pattern_glow_b
+  rotate: true
+  xy: 654, 1053
+  size: 344, 66
+  orig: 347, 67
+  offset: 2, 0
+  index: -1
+num_glow
+  rotate: false
+  xy: 478, 13
+  size: 588, 230
+  orig: 611, 257
+  offset: 10, 12
+  index: -1
+pmd_glow_c
+  rotate: false
+  xy: 2, 1058
+  size: 648, 82
+  orig: 648, 86
+  offset: 0, 2
+  index: -1
+smw_bg_glow
+  rotate: true
+  xy: 754, 271
+  size: 422, 579
+  orig: 535, 667
+  offset: 49, 48
+  index: -1
+smw_coin
+  rotate: false
+  xy: 2, 765
+  size: 647, 291
+  orig: 647, 292
+  offset: 0, 0
+  index: -1
+smw_pattern_a
+  rotate: false
+  xy: 2, 1709
+  size: 726, 293
+  orig: 726, 295
+  offset: 0, 1
+  index: -1
+smw_pattern_b
+  rotate: false
+  xy: 730, 1806
+  size: 703, 196
+  orig: 703, 197
+  offset: 0, 0
+  index: -1
+smw_pattern_c_1
+  rotate: false
+  xy: 722, 1104
+  size: 647, 206
+  orig: 648, 235
+  offset: 1, 23
+  index: -1
+smw_pattern_c_2
+  rotate: false
+  xy: 722, 937
+  size: 641, 165
+  orig: 648, 194
+  offset: 7, 8
+  index: -1
+smw_pattern_d_1
+  rotate: false
+  xy: 1502, 547
+  size: 129, 187
+  orig: 243, 236
+  offset: 40, 12
+  index: -1
+smw_pattern_d_2
+  rotate: true
+  xy: 1631, 294
+  size: 175, 173
+  orig: 199, 245
+  offset: 24, 28
+  index: -1
+smw_pattern_d_3
+  rotate: false
+  xy: 1435, 1838
+  size: 546, 164
+  orig: 580, 212
+  offset: 16, 25
+  index: -1
+smw_pattern_glow_a
+  rotate: true
+  xy: 328, 36
+  size: 356, 148
+  orig: 363, 148
+  offset: 4, 0
+  index: -1
+smw_pattern_glow_b
+  rotate: true
+  xy: 618, 394
+  size: 349, 98
+  orig: 352, 99
+  offset: 2, 0
+  index: -1
+smw_yuanbao
+  rotate: true
+  xy: 1335, 272
+  size: 197, 165
+  orig: 197, 165
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,215 @@
+icon-fan.png
+size: 904,904
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: false
+  xy: 731, 40
+  size: 151, 151
+  orig: 151, 151
+  offset: 0, 0
+  index: -1
+1048
+  rotate: false
+  xy: 407, 345
+  size: 63, 63
+  orig: 63, 63
+  offset: 0, 0
+  index: -1
+Fan01
+  rotate: true
+  xy: 206, 39
+  size: 92, 159
+  orig: 139, 169
+  offset: 20, 0
+  index: -1
+Fan01_mh
+  rotate: false
+  xy: 803, 583
+  size: 86, 136
+  orig: 108, 206
+  offset: 11, 35
+  index: -1
+Fan01lg
+  rotate: false
+  xy: 809, 756
+  size: 93, 146
+  orig: 106, 176
+  offset: 0, 0
+  index: -1
+Fan2
+  rotate: false
+  xy: 793, 365
+  size: 62, 26
+  orig: 62, 26
+  offset: 0, 0
+  index: -1
+FanSD
+  rotate: true
+  xy: 393, 18
+  size: 118, 141
+  orig: 120, 142
+  offset: 1, 1
+  index: -1
+Glow_Star_green
+  rotate: false
+  xy: 493, 457
+  size: 56, 56
+  orig: 64, 64
+  offset: 4, 4
+  index: -1
+bufss_05
+  rotate: true
+  xy: 407, 410
+  size: 100, 84
+  orig: 134, 87
+  offset: 20, 2
+  index: -1
+dian
+  rotate: false
+  xy: 186, 111
+  size: 8, 8
+  orig: 10, 10
+  offset: 1, 1
+  index: -1
+kuang_c_00
+  rotate: false
+  xy: 732, 193
+  size: 154, 169
+  orig: 213, 213
+  offset: 8, 22
+  index: -1
+kuang_c_01
+  rotate: true
+  xy: 555, 65
+  size: 131, 174
+  orig: 213, 213
+  offset: 18, 17
+  index: -1
+kuang_c_02
+  rotate: false
+  xy: 555, 198
+  size: 175, 164
+  orig: 213, 213
+  offset: 13, 26
+  index: -1
+kuang_c_03
+  rotate: true
+  xy: 614, 546
+  size: 173, 187
+  orig: 213, 213
+  offset: 17, 18
+  index: -1
+kuang_c_04
+  rotate: false
+  xy: 206, 133
+  size: 185, 181
+  orig: 213, 213
+  offset: 18, 14
+  index: -1
+kuang_c_05
+  rotate: false
+  xy: 614, 721
+  size: 193, 181
+  orig: 213, 213
+  offset: 10, 11
+  index: -1
+kuang_c_06
+  rotate: false
+  xy: 606, 364
+  size: 185, 180
+  orig: 213, 213
+  offset: 18, 19
+  index: -1
+kuang_c_07
+  rotate: false
+  xy: 393, 138
+  size: 160, 176
+  orig: 213, 213
+  offset: 28, 18
+  index: -1
+lizi_green
+  rotate: false
+  xy: 551, 461
+  size: 52, 52
+  orig: 58, 58
+  offset: 2, 1
+  index: -1
+symble_L_green
+  rotate: false
+  xy: 410, 515
+  size: 194, 191
+  orig: 194, 191
+  offset: 0, 0
+  index: -1
+wzk_00
+  rotate: false
+  xy: 2, 121
+  size: 202, 193
+  orig: 213, 204
+  offset: 6, 5
+  index: -1
+wzk_01
+  rotate: false
+  xy: 206, 316
+  size: 199, 194
+  orig: 213, 204
+  offset: 6, 5
+  index: -1
+wzk_02
+  rotate: false
+  xy: 2, 708
+  size: 202, 194
+  orig: 213, 204
+  offset: 6, 5
+  index: -1
+wzk_03
+  rotate: false
+  xy: 2, 512
+  size: 202, 194
+  orig: 213, 204
+  offset: 6, 5
+  index: -1
+wzk_04
+  rotate: false
+  xy: 206, 708
+  size: 202, 194
+  orig: 213, 204
+  offset: 6, 5
+  index: -1
+wzk_05
+  rotate: false
+  xy: 2, 316
+  size: 202, 194
+  orig: 213, 204
+  offset: 6, 5
+  index: -1
+wzk_06
+  rotate: false
+  xy: 206, 512
+  size: 202, 194
+  orig: 213, 204
+  offset: 6, 5
+  index: -1
+wzk_07
+  rotate: false
+  xy: 410, 708
+  size: 202, 194
+  orig: 213, 204
+  offset: 6, 5
+  index: -1
+xx1
+  rotate: true
+  xy: 793, 393
+  size: 151, 87
+  orig: 162, 99
+  offset: 3, 6
+  index: -1
+xx22
+  rotate: false
+  xy: 2, 35
+  size: 182, 84
+  orig: 192, 94
+  offset: 6, 6
+  index: -1

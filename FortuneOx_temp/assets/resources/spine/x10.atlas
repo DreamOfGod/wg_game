@@ -1,0 +1,61 @@
+x10.png
+size: 504,504
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Glow_Star
+  rotate: false
+  xy: 265, 125
+  size: 47, 47
+  orig: 51, 51
+  offset: 2, 2
+  index: -1
+Glow_Star2
+  rotate: false
+  xy: 351, 200
+  size: 56, 56
+  orig: 64, 64
+  offset: 4, 4
+  index: -1
+guanxiao
+  rotate: true
+  xy: 214, 104
+  size: 68, 49
+  orig: 76, 53
+  offset: 4, 2
+  index: -1
+guanxiao_pirple
+  rotate: true
+  xy: 351, 121
+  size: 77, 49
+  orig: 86, 53
+  offset: 5, 2
+  index: -1
+light2
+  rotate: false
+  xy: 2, 86
+  size: 210, 170
+  orig: 234, 189
+  offset: 17, 4
+  index: -1
+x10_Zi
+  rotate: false
+  xy: 2, 258
+  size: 499, 243
+  orig: 517, 244
+  offset: 9, 0
+  index: -1
+x10_Zi_guang
+  rotate: false
+  xy: 214, 174
+  size: 135, 82
+  orig: 151, 83
+  offset: 8, 0
+  index: -1
+xl_tx8_2
+  rotate: false
+  xy: 265, 83
+  size: 40, 40
+  orig: 51, 52
+  offset: 6, 6
+  index: -1

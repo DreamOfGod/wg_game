@@ -1,0 +1,19 @@
+tsyx-guangxiao1.png
+size: 136,136
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+fg2
+  rotate: false
+  xy: 2, 16
+  size: 82, 117
+  orig: 89, 119
+  offset: 3, 2
+  index: -1
+pmd3_xg8b
+  rotate: true
+  xy: 2, 2
+  size: 12, 16
+  orig: 42, 40
+  offset: 15, 10
+  index: -1

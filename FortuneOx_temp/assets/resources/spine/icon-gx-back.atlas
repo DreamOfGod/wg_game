@@ -1,0 +1,54 @@
+icon-gx-back.png
+size: 812,540
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Di_Di
+  rotate: false
+  xy: 130, 9
+  size: 142, 114
+  orig: 142, 114
+  offset: 0, 0
+  index: -1
+Di_F
+  rotate: false
+  xy: 589, 42
+  size: 154, 127
+  orig: 155, 128
+  offset: 0, 1
+  index: -1
+Di_O
+  rotate: true
+  xy: 274, 24
+  size: 99, 100
+  orig: 101, 102
+  offset: 1, 1
+  index: -1
+LBG
+  rotate: false
+  xy: 2, 2
+  size: 126, 121
+  orig: 130, 125
+  offset: 2, 2
+  index: -1
+guangxian_a
+  rotate: true
+  xy: 446, 171
+  size: 367, 362
+  orig: 393, 389
+  offset: 13, 16
+  index: -1
+ssg_14
+  rotate: false
+  xy: 2, 125
+  size: 442, 413
+  orig: 480, 470
+  offset: 17, 26
+  index: -1
+symble_L_v2
+  rotate: false
+  xy: 446, 28
+  size: 141, 141
+  orig: 145, 145
+  offset: 2, 2
+  index: -1

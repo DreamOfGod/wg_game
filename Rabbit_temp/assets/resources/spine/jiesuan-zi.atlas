@@ -1,0 +1,34 @@
+
+jiesuan-zi.png
+size: 500,500
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Glow_Star
+  rotate: false
+  xy: 2, 460
+  size: 36, 36
+  orig: 38, 38
+  offset: 1, 1
+  index: -1
+bw_text
+  rotate: false
+  xy: 40, 401
+  size: 411, 95
+  orig: 411, 95
+  offset: 0, 0
+  index: -1
+mw_text
+  rotate: false
+  xy: 2, 304
+  size: 485, 95
+  orig: 485, 95
+  offset: 0, 0
+  index: -1
+smw_text
+  rotate: false
+  xy: 2, 115
+  size: 494, 187
+  orig: 494, 187
+  offset: 0, 0
+  index: -1

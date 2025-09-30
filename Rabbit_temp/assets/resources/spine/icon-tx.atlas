@@ -1,0 +1,181 @@
+
+icon-tx.png
+size: 892,892
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Glow_Star
+  rotate: false
+  xy: 815, 772
+  size: 56, 56
+  orig: 64, 64
+  offset: 4, 4
+  index: -1
+guangxian_a
+  rotate: false
+  xy: 446, 528
+  size: 367, 362
+  orig: 393, 389
+  offset: 13, 16
+  index: -1
+jqtdgqg/jqtdigqg01
+  rotate: false
+  xy: 2, 4
+  size: 120, 120
+  orig: 120, 120
+  offset: 0, 0
+  index: -1
+jqtdgqg/jqtdigqg02
+  rotate: false
+  xy: 124, 4
+  size: 120, 120
+  orig: 120, 120
+  offset: 0, 0
+  index: -1
+jqtdgqg/jqtdigqg03
+  rotate: false
+  xy: 770, 173
+  size: 120, 120
+  orig: 120, 120
+  offset: 0, 0
+  index: -1
+jqtdgqg/jqtdigqg04
+  rotate: false
+  xy: 770, 51
+  size: 120, 120
+  orig: 120, 120
+  offset: 0, 0
+  index: -1
+light_Di2b
+  rotate: false
+  xy: 446, 323
+  size: 232, 203
+  orig: 232, 203
+  offset: 0, 0
+  index: -1
+light_Di3c
+  rotate: true
+  xy: 680, 295
+  size: 231, 204
+  orig: 231, 204
+  offset: 0, 0
+  index: -1
+light_Di4e
+  rotate: true
+  xy: 402, 136
+  size: 157, 146
+  orig: 157, 146
+  offset: 0, 0
+  index: -1
+lizi
+  rotate: false
+  xy: 852, 750
+  size: 20, 20
+  orig: 24, 24
+  offset: 2, 2
+  index: -1
+ssg_14
+  rotate: false
+  xy: 2, 477
+  size: 442, 413
+  orig: 480, 470
+  offset: 17, 26
+  index: -1
+symble_L_v2
+  rotate: false
+  xy: 627, 29
+  size: 141, 141
+  orig: 145, 145
+  offset: 2, 2
+  index: -1
+win_lizi/win_lizi_00
+  rotate: false
+  xy: 815, 739
+  size: 35, 31
+  orig: 240, 206
+  offset: 103, 92
+  index: -1
+win_lizi/win_lizi_01
+  rotate: true
+  xy: 815, 830
+  size: 60, 61
+  orig: 240, 206
+  offset: 92, 76
+  index: -1
+win_lizi/win_lizi_02
+  rotate: true
+  xy: 227, 394
+  size: 81, 79
+  orig: 240, 206
+  offset: 81, 66
+  index: -1
+win_lizi/win_lizi_03
+  rotate: true
+  xy: 675, 191
+  size: 102, 93
+  orig: 240, 206
+  offset: 73, 58
+  index: -1
+win_lizi/win_lizi_04
+  rotate: true
+  xy: 121, 357
+  size: 118, 104
+  orig: 240, 206
+  offset: 66, 51
+  index: -1
+win_lizi/win_lizi_05
+  rotate: true
+  xy: 513, 3
+  size: 131, 112
+  orig: 240, 206
+  offset: 61, 46
+  index: -1
+win_lizi/win_lizi_06
+  rotate: true
+  xy: 2, 334
+  size: 141, 117
+  orig: 240, 206
+  offset: 57, 42
+  index: -1
+win_lizi/win_lizi_07
+  rotate: true
+  xy: 550, 172
+  size: 149, 123
+  orig: 240, 206
+  offset: 53, 40
+  index: -1
+win_lizi/win_lizi_08
+  rotate: false
+  xy: 355, 4
+  size: 156, 127
+  orig: 240, 206
+  offset: 50, 38
+  index: -1
+win_lizi/win_lizi_09
+  rotate: true
+  xy: 270, 133
+  size: 160, 130
+  orig: 240, 206
+  offset: 48, 36
+  index: -1
+win_lizi/win_lizi_10
+  rotate: true
+  xy: 2, 126
+  size: 167, 132
+  orig: 240, 206
+  offset: 45, 34
+  index: -1
+win_lizi/win_lizi_11
+  rotate: true
+  xy: 136, 133
+  size: 160, 132
+  orig: 240, 206
+  offset: 54, 33
+  index: -1
+win_lizi/win_lizi_12
+  rotate: true
+  xy: 246, 2
+  size: 129, 107
+  orig: 240, 206
+  offset: 52, 59
+  index: -1

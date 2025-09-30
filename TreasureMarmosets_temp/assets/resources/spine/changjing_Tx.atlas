@@ -1,0 +1,33 @@
+changjing_Tx.png
+size: 388,88
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/BG/L1
+  rotate: true
+  xy: 2, 6
+  size: 79, 91
+  orig: 79, 91
+  offset: 0, 0
+  index: -1
+images/BG/L2
+  rotate: true
+  xy: 188, 2
+  size: 83, 90
+  orig: 83, 90
+  offset: 0, 0
+  index: -1
+images/BG/R1
+  rotate: true
+  xy: 95, 2
+  size: 83, 91
+  orig: 83, 91
+  offset: 0, 0
+  index: -1
+images/BG/R2
+  rotate: true
+  xy: 280, 2
+  size: 83, 103
+  orig: 83, 103
+  offset: 0, 0
+  index: -1

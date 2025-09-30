@@ -1,0 +1,139 @@
+
+icon-fudai.png
+size: 364,364
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Luckybag
+  rotate: false
+  xy: 2, 225
+  size: 182, 137
+  orig: 182, 137
+  offset: 0, 0
+  index: -1
+Luckybag_Coin
+  rotate: false
+  xy: 186, 181
+  size: 94, 89
+  orig: 94, 89
+  offset: 0, 0
+  index: -1
+Luckybag_L
+  rotate: false
+  xy: 186, 272
+  size: 107, 90
+  orig: 112, 95
+  offset: 3, 2
+  index: -1
+Luckybag_back
+  rotate: false
+  xy: 2, 156
+  size: 153, 67
+  orig: 153, 67
+  offset: 0, 0
+  index: -1
+Luckybag_c1
+  rotate: false
+  xy: 212, 57
+  size: 74, 50
+  orig: 74, 50
+  offset: 0, 0
+  index: -1
+Luckybag_c2
+  rotate: false
+  xy: 295, 305
+  size: 67, 57
+  orig: 67, 57
+  offset: 0, 0
+  index: -1
+Luckybag_c3
+  rotate: false
+  xy: 2, 70
+  size: 113, 84
+  orig: 114, 84
+  offset: 0, 0
+  index: -1
+Luckybag_c4
+  rotate: false
+  xy: 2, 6
+  size: 130, 62
+  orig: 131, 62
+  offset: 0, 0
+  index: -1
+Luckybag_rope
+  rotate: true
+  xy: 117, 72
+  size: 82, 93
+  orig: 82, 94
+  offset: 0, 0
+  index: -1
+lizi_a
+  rotate: false
+  xy: 288, 70
+  size: 50, 50
+  orig: 60, 58
+  offset: 4, 4
+  index: -1
+luckybagAE/luckybagAE_00000
+  rotate: false
+  xy: 320, 133
+  size: 26, 47
+  orig: 80, 65
+  offset: 0, 7
+  index: -1
+luckybagAE/luckybagAE_00001
+  rotate: true
+  xy: 209, 12
+  size: 43, 65
+  orig: 80, 65
+  offset: 0, 0
+  index: -1
+luckybagAE/luckybagAE_00002
+  rotate: true
+  xy: 295, 246
+  size: 57, 65
+  orig: 80, 65
+  offset: 0, 0
+  index: -1
+luckybagAE/luckybagAE_00003
+  rotate: true
+  xy: 212, 109
+  size: 70, 65
+  orig: 80, 65
+  offset: 0, 0
+  index: -1
+luckybagAE/luckybagAE_00004
+  rotate: false
+  xy: 134, 5
+  size: 73, 65
+  orig: 80, 65
+  offset: 6, 0
+  index: -1
+luckybagAE/luckybagAE_00005
+  rotate: false
+  xy: 282, 182
+  size: 60, 62
+  orig: 80, 65
+  offset: 20, 1
+  index: -1
+luckybagAE/luckybagAE_00006
+  rotate: false
+  xy: 279, 122
+  size: 39, 57
+  orig: 80, 65
+  offset: 41, 3
+  index: -1
+luckybagAE/luckybagAE_00007
+  rotate: false
+  xy: 157, 174
+  size: 26, 49
+  orig: 80, 65
+  offset: 54, 5
+  index: -1
+luckybagAE/luckybagAE_00008
+  rotate: false
+  xy: 276, 26
+  size: 10, 29
+  orig: 80, 65
+  offset: 70, 10
+  index: -1

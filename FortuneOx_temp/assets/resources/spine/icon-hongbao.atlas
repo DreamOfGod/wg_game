@@ -1,0 +1,89 @@
+icon-hongbao.png
+size: 488,168
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Redenvelope_1
+  rotate: true
+  xy: 388, 72
+  size: 93, 98
+  orig: 94, 98
+  offset: 0, 0
+  index: -1
+Redenvelope_2
+  rotate: false
+  xy: 107, 24
+  size: 94, 141
+  orig: 94, 142
+  offset: 0, 0
+  index: -1
+Redenvelope_L
+  rotate: false
+  xy: 203, 54
+  size: 91, 111
+  orig: 91, 111
+  offset: 0, 0
+  index: -1
+Redenvelope_R
+  rotate: false
+  xy: 296, 54
+  size: 90, 111
+  orig: 90, 111
+  offset: 0, 0
+  index: -1
+Redenvelope_SD
+  rotate: true
+  xy: 2, 9
+  size: 156, 103
+  orig: 158, 107
+  offset: 1, 2
+  index: -1
+Redenvelope_accessories
+  rotate: true
+  xy: 432, 2
+  size: 24, 49
+  orig: 24, 49
+  offset: 0, 0
+  index: -1
+Redenvelope_accessories_SD
+  rotate: true
+  xy: 255, 2
+  size: 50, 45
+  orig: 87, 46
+  offset: 22, 1
+  index: -1
+Redenvelope_coin1
+  rotate: false
+  xy: 346, 9
+  size: 38, 43
+  orig: 38, 43
+  offset: 0, 0
+  index: -1
+Redenvelope_coin2
+  rotate: false
+  xy: 388, 27
+  size: 42, 43
+  orig: 42, 43
+  offset: 0, 0
+  index: -1
+Redenvelope_coin3
+  rotate: false
+  xy: 432, 28
+  size: 42, 42
+  orig: 42, 42
+  offset: 0, 0
+  index: -1
+Redenvelope_coin4
+  rotate: false
+  xy: 302, 10
+  size: 42, 42
+  orig: 42, 42
+  offset: 0, 0
+  index: -1
+lizi_a
+  rotate: false
+  xy: 203, 2
+  size: 50, 50
+  orig: 60, 58
+  offset: 4, 4
+  index: -1

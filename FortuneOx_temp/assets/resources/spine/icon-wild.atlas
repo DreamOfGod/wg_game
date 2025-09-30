@@ -1,0 +1,397 @@
+icon-wild.png
+size: 996,1012
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Di_Di
+  rotate: true
+  xy: 715, 176
+  size: 142, 114
+  orig: 142, 114
+  offset: 0, 0
+  index: -1
+Di_F
+  rotate: true
+  xy: 405, 2
+  size: 154, 127
+  orig: 155, 128
+  offset: 0, 1
+  index: -1
+Di_O
+  rotate: false
+  xy: 895, 910
+  size: 99, 100
+  orig: 101, 102
+  offset: 1, 1
+  index: -1
+Glow_Star
+  rotate: false
+  xy: 936, 138
+  size: 56, 56
+  orig: 64, 64
+  offset: 4, 4
+  index: -1
+LBG
+  rotate: true
+  xy: 873, 553
+  size: 126, 121
+  orig: 130, 125
+  offset: 2, 2
+  index: -1
+arm_l
+  rotate: false
+  xy: 895, 799
+  size: 81, 109
+  orig: 82, 110
+  offset: 0, 0
+  index: -1
+arm_r_1
+  rotate: false
+  xy: 910, 462
+  size: 84, 89
+  orig: 84, 89
+  offset: 0, 0
+  index: -1
+arm_r_2
+  rotate: true
+  xy: 914, 6
+  size: 62, 70
+  orig: 62, 70
+  offset: 0, 0
+  index: -1
+body
+  rotate: true
+  xy: 590, 153
+  size: 165, 123
+  orig: 166, 123
+  offset: 0, 0
+  index: -1
+ear_l
+  rotate: false
+  xy: 873, 526
+  size: 23, 25
+  orig: 23, 25
+  offset: 0, 0
+  index: -1
+ear_r
+  rotate: true
+  xy: 641, 582
+  size: 37, 22
+  orig: 37, 22
+  offset: 0, 0
+  index: -1
+earring_1
+  rotate: true
+  xy: 534, 2
+  size: 7, 10
+  orig: 7, 10
+  offset: 0, 0
+  index: -1
+earring_2
+  rotate: true
+  xy: 775, 320
+  size: 7, 12
+  orig: 7, 12
+  offset: 0, 0
+  index: -1
+eye
+  rotate: false
+  xy: 68, 14
+  size: 38, 20
+  orig: 38, 20
+  offset: 0, 0
+  index: -1
+guangxian_a
+  rotate: false
+  xy: 2, 233
+  size: 367, 362
+  orig: 393, 389
+  offset: 13, 16
+  index: -1
+hand_l
+  rotate: true
+  xy: 961, 276
+  size: 51, 33
+  orig: 51, 34
+  offset: 0, 0
+  index: -1
+hand_r
+  rotate: false
+  xy: 910, 388
+  size: 66, 72
+  orig: 66, 72
+  offset: 0, 0
+  index: -1
+head
+  rotate: false
+  xy: 679, 46
+  size: 104, 105
+  orig: 104, 106
+  offset: 0, 0
+  index: -1
+lizi
+  rotate: false
+  xy: 371, 256
+  size: 20, 20
+  orig: 24, 24
+  offset: 2, 2
+  index: -1
+lizi_a
+  rotate: false
+  xy: 641, 463
+  size: 50, 50
+  orig: 60, 58
+  offset: 4, 4
+  index: -1
+nose_ring
+  rotate: false
+  xy: 675, 789
+  size: 19, 14
+  orig: 19, 14
+  offset: 0, 0
+  index: -1
+ssg_14
+  rotate: false
+  xy: 2, 597
+  size: 442, 413
+  orig: 480, 470
+  offset: 17, 26
+  index: -1
+sunglass
+  rotate: false
+  xy: 2, 9
+  size: 64, 25
+  orig: 65, 26
+  offset: 1, 1
+  index: -1
+symble_L_v2
+  rotate: false
+  xy: 632, 320
+  size: 141, 141
+  orig: 145, 145
+  offset: 2, 2
+  index: -1
+wild_bg
+  rotate: false
+  xy: 446, 621
+  size: 227, 182
+  orig: 227, 182
+  offset: 0, 0
+  index: -1
+wild_collect/wild_collect_00
+  rotate: false
+  xy: 443, 320
+  size: 187, 141
+  orig: 322, 238
+  offset: 68, 46
+  index: -1
+wild_collect/wild_collect_01
+  rotate: false
+  xy: 446, 463
+  size: 193, 156
+  orig: 322, 238
+  offset: 64, 40
+  index: -1
+wild_collect/wild_collect_02
+  rotate: true
+  xy: 243, 35
+  size: 196, 160
+  orig: 322, 238
+  offset: 63, 39
+  index: -1
+wild_collect/wild_collect_03
+  rotate: false
+  xy: 696, 681
+  size: 197, 163
+  orig: 322, 238
+  offset: 62, 37
+  index: -1
+wild_collect/wild_collect_04
+  rotate: false
+  xy: 696, 846
+  size: 197, 164
+  orig: 322, 238
+  offset: 62, 37
+  index: -1
+wild_collect/wild_collect_05
+  rotate: false
+  xy: 675, 515
+  size: 196, 164
+  orig: 322, 238
+  offset: 63, 37
+  index: -1
+wild_collect/wild_collect_06
+  rotate: false
+  xy: 405, 158
+  size: 183, 160
+  orig: 322, 238
+  offset: 70, 39
+  index: -1
+wild_collect/wild_collect_07
+  rotate: true
+  xy: 831, 196
+  size: 131, 128
+  orig: 322, 238
+  offset: 96, 55
+  index: -1
+wild_collect/wild_collect_08
+  rotate: false
+  xy: 926, 70
+  size: 66, 66
+  orig: 322, 238
+  offset: 128, 86
+  index: -1
+wild_collect/wild_collect_09
+  rotate: true
+  xy: 715, 153
+  size: 21, 22
+  orig: 322, 238
+  offset: 151, 108
+  index: -1
+wild_glow
+  rotate: false
+  xy: 2, 36
+  size: 239, 195
+  orig: 322, 238
+  offset: 42, 21
+  index: -1
+wild_shad
+  rotate: false
+  xy: 446, 805
+  size: 248, 205
+  orig: 254, 214
+  offset: 3, 6
+  index: -1
+wild_shine
+  rotate: false
+  xy: 775, 380
+  size: 133, 133
+  orig: 139, 140
+  offset: 3, 3
+  index: -1
+wild_shine_b
+  rotate: false
+  xy: 534, 11
+  size: 143, 140
+  orig: 237, 175
+  offset: 50, 13
+  index: -1
+wild_text_en
+  rotate: true
+  xy: 371, 383
+  size: 212, 70
+  orig: 212, 70
+  offset: 0, 0
+  index: -1
+wild_text_en_sweep/wild_text_en_sweep_00
+  rotate: true
+  xy: 2, 2
+  size: 5, 15
+  orig: 222, 78
+  offset: 43, 21
+  index: -1
+wild_text_en_sweep/wild_text_en_sweep_01
+  rotate: false
+  xy: 371, 278
+  size: 28, 40
+  orig: 222, 78
+  offset: 40, 20
+  index: -1
+wild_text_en_sweep/wild_text_en_sweep_02
+  rotate: true
+  xy: 679, 3
+  size: 41, 47
+  orig: 222, 78
+  offset: 38, 15
+  index: -1
+wild_text_en_sweep/wild_text_en_sweep_03
+  rotate: true
+  xy: 371, 320
+  size: 61, 49
+  orig: 222, 78
+  offset: 37, 14
+  index: -1
+wild_text_en_sweep/wild_text_en_sweep_04
+  rotate: false
+  xy: 903, 329
+  size: 82, 49
+  orig: 222, 78
+  offset: 37, 14
+  index: -1
+wild_text_en_sweep/wild_text_en_sweep_05
+  rotate: false
+  xy: 836, 146
+  size: 98, 48
+  orig: 222, 78
+  offset: 38, 15
+  index: -1
+wild_text_en_sweep/wild_text_en_sweep_06
+  rotate: true
+  xy: 946, 688
+  size: 109, 48
+  orig: 222, 78
+  offset: 40, 15
+  index: -1
+wild_text_en_sweep/wild_text_en_sweep_07
+  rotate: false
+  xy: 775, 329
+  size: 126, 49
+  orig: 222, 78
+  offset: 42, 15
+  index: -1
+wild_text_en_sweep/wild_text_en_sweep_08
+  rotate: true
+  xy: 895, 682
+  size: 115, 49
+  orig: 222, 78
+  offset: 62, 15
+  index: -1
+wild_text_en_sweep/wild_text_en_sweep_09
+  rotate: true
+  xy: 785, 72
+  size: 102, 49
+  orig: 222, 78
+  offset: 80, 15
+  index: -1
+wild_text_en_sweep/wild_text_en_sweep_10
+  rotate: false
+  xy: 836, 95
+  size: 88, 49
+  orig: 222, 78
+  offset: 95, 15
+  index: -1
+wild_text_en_sweep/wild_text_en_sweep_11
+  rotate: false
+  xy: 693, 465
+  size: 77, 48
+  orig: 222, 78
+  offset: 108, 16
+  index: -1
+wild_text_en_sweep/wild_text_en_sweep_12
+  rotate: true
+  xy: 785, 11
+  size: 59, 43
+  orig: 222, 78
+  offset: 126, 21
+  index: -1
+wild_text_en_sweep/wild_text_en_sweep_13
+  rotate: false
+  xy: 728, 5
+  size: 38, 39
+  orig: 222, 78
+  offset: 145, 24
+  index: -1
+wild_text_en_sweep/wild_text_en_sweep_14
+  rotate: false
+  xy: 961, 250
+  size: 24, 24
+  orig: 222, 78
+  offset: 158, 37
+  index: -1
+wild_yuanbao
+  rotate: false
+  xy: 836, 40
+  size: 76, 53
+  orig: 76, 53
+  offset: 0, 0
+  index: -1

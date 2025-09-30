@@ -1,0 +1,68 @@
+win2.png
+size: 408,92
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+coin_A_01
+  rotate: false
+  xy: 275, 40
+  size: 47, 48
+  orig: 47, 48
+  offset: 0, 0
+  index: -1
+coin_A_02
+  rotate: false
+  xy: 324, 40
+  size: 39, 48
+  orig: 47, 48
+  offset: 4, 0
+  index: -1
+coin_A_03
+  rotate: true
+  xy: 275, 17
+  size: 21, 48
+  orig: 47, 48
+  offset: 13, 0
+  index: -1
+coin_A_04
+  rotate: true
+  xy: 325, 17
+  size: 21, 48
+  orig: 47, 48
+  offset: 13, 0
+  index: -1
+coin_A_05
+  rotate: false
+  xy: 365, 40
+  size: 39, 48
+  orig: 47, 48
+  offset: 4, 0
+  index: -1
+ss_01
+  rotate: true
+  xy: 375, 12
+  size: 26, 27
+  orig: 31, 30
+  offset: 3, 2
+  index: -1
+ssg_14
+  rotate: false
+  xy: 2, 2
+  size: 89, 86
+  orig: 90, 88
+  offset: 0, 2
+  index: -1
+ssg_15
+  rotate: false
+  xy: 93, 2
+  size: 89, 86
+  orig: 90, 88
+  offset: 0, 2
+  index: -1
+yuanguang_4
+  rotate: true
+  xy: 184, 2
+  size: 86, 89
+  orig: 94, 97
+  offset: 4, 4
+  index: -1

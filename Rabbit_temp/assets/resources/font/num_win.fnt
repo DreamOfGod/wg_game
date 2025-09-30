@@ -1,0 +1,17 @@
+info face="Arial" size=84 bold=0 italic=0 charset="" unicode=0 stretchH=100 smooth=1 aa=1 padding=0,0,0,0 spacing=2,2
+common lineHeight=84 base=10 scaleW=640 scaleH=84 pages=1 packed=0
+page id=0 file="num_win.png"
+chars count=13
+char id=44 x=0 y=0 width=24 height=84 xoffset=0 yoffset=0 xadvance=24 page=0 chnl=0 page=0 letter=","
+char id=46 x=24 y=0 width=26 height=84 xoffset=0 yoffset=0 xadvance=26 page=0 chnl=0 page=0 letter="."
+char id=48 x=50 y=0 width=57 height=84 xoffset=0 yoffset=0 xadvance=57 page=0 chnl=0 page=0 letter="0"
+char id=49 x=107 y=0 width=37 height=84 xoffset=0 yoffset=0 xadvance=37 page=0 chnl=0 page=0 letter="1"
+char id=50 x=144 y=0 width=53 height=84 xoffset=0 yoffset=0 xadvance=53 page=0 chnl=0 page=0 letter="2"
+char id=51 x=197 y=0 width=57 height=84 xoffset=0 yoffset=0 xadvance=57 page=0 chnl=0 page=0 letter="3"
+char id=52 x=254 y=0 width=57 height=84 xoffset=0 yoffset=0 xadvance=57 page=0 chnl=0 page=0 letter="4"
+char id=53 x=311 y=0 width=56 height=84 xoffset=0 yoffset=0 xadvance=56 page=0 chnl=0 page=0 letter="5"
+char id=54 x=367 y=0 width=57 height=84 xoffset=0 yoffset=0 xadvance=57 page=0 chnl=0 page=0 letter="6"
+char id=55 x=424 y=0 width=50 height=84 xoffset=0 yoffset=0 xadvance=50 page=0 chnl=0 page=0 letter="7"
+char id=56 x=474 y=0 width=52 height=84 xoffset=0 yoffset=0 xadvance=52 page=0 chnl=0 page=0 letter="8"
+char id=57 x=526 y=0 width=57 height=84 xoffset=0 yoffset=0 xadvance=57 page=0 chnl=0 page=0 letter="9"
+char id=32 x=583 y=0 width=57 height=84 xoffset=0 yoffset=0 xadvance=57 page=0 chnl=0 page=0 letter="space"

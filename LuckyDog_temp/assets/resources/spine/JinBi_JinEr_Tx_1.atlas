@@ -1,0 +1,26 @@
+JinBi_JinEr_Tx_1.png
+size: 428,284
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+QuanC_006
+  rotate: true
+  xy: 2, 2
+  size: 279, 286
+  orig: 287, 287
+  offset: 3, 0
+  index: -1
+beiguang1
+  rotate: false
+  xy: 290, 145
+  size: 136, 136
+  orig: 142, 142
+  offset: 3, 3
+  index: -1
+guang_BG
+  rotate: false
+  xy: 290, 37
+  size: 106, 106
+  orig: 106, 106
+  offset: 0, 0
+  index: -1

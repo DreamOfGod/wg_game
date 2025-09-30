@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "05ef4c3b-adeb-437e-bc6b-0e5419e88d56",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 216,
+  "height": 216,
+  "platformSettings": {},
+  "subMetas": {
+    "icon-luobo": {
+      "ver": "1.0.6",
+      "uuid": "f8f97a6d-e340-43bf-a36d-efd8401d2894",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "05ef4c3b-adeb-437e-bc6b-0e5419e88d56",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": -5.5,
+      "trimX": 2,
+      "trimY": 13,
+      "width": 212,
+      "height": 201,
+      "rawWidth": 216,
+      "rawHeight": 216,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

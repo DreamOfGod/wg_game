@@ -1,0 +1,23 @@
+info face="Arial" size=85 bold=0 italic=0 charset="" unicode=0 stretchH=100 smooth=1 aa=1 padding=0,0,0,0 spacing=2,2
+common lineHeight=85 base=10 scaleW=1089 scaleH=85 pages=1 packed=0
+page id=0 file="marquee_Num.png"
+chars count=19
+char id=44 x=0 y=0 width=29 height=85 xoffset=0 yoffset=0 xadvance=29 page=0 chnl=0 page=0 letter=","
+char id=46 x=29 y=0 width=30 height=85 xoffset=0 yoffset=0 xadvance=30 page=0 chnl=0 page=0 letter="."
+char id=45 x=59 y=0 width=51 height=85 xoffset=0 yoffset=0 xadvance=51 page=0 chnl=0 page=0 letter="-"
+char id=43 x=110 y=0 width=57 height=85 xoffset=0 yoffset=0 xadvance=57 page=0 chnl=0 page=0 letter="+"
+char id=48 x=167 y=0 width=51 height=85 xoffset=0 yoffset=0 xadvance=51 page=0 chnl=0 page=0 letter="0"
+char id=49 x=218 y=0 width=37 height=85 xoffset=0 yoffset=0 xadvance=37 page=0 chnl=0 page=0 letter="1"
+char id=50 x=255 y=0 width=63 height=85 xoffset=0 yoffset=0 xadvance=63 page=0 chnl=0 page=0 letter="2"
+char id=51 x=318 y=0 width=55 height=85 xoffset=0 yoffset=0 xadvance=55 page=0 chnl=0 page=0 letter="3"
+char id=52 x=373 y=0 width=72 height=85 xoffset=0 yoffset=0 xadvance=72 page=0 chnl=0 page=0 letter="4"
+char id=53 x=445 y=0 width=66 height=85 xoffset=0 yoffset=0 xadvance=66 page=0 chnl=0 page=0 letter="5"
+char id=54 x=511 y=0 width=53 height=85 xoffset=0 yoffset=0 xadvance=53 page=0 chnl=0 page=0 letter="6"
+char id=55 x=564 y=0 width=62 height=85 xoffset=0 yoffset=0 xadvance=62 page=0 chnl=0 page=0 letter="7"
+char id=56 x=626 y=0 width=56 height=85 xoffset=0 yoffset=0 xadvance=56 page=0 chnl=0 page=0 letter="8"
+char id=57 x=682 y=0 width=61 height=85 xoffset=0 yoffset=0 xadvance=61 page=0 chnl=0 page=0 letter="9"
+char id=105 x=743 y=0 width=33 height=85 xoffset=0 yoffset=0 xadvance=33 page=0 chnl=0 page=0 letter="i"
+char id=110 x=776 y=0 width=67 height=85 xoffset=0 yoffset=0 xadvance=67 page=0 chnl=0 page=0 letter="n"
+char id=119 x=843 y=0 width=87 height=85 xoffset=0 yoffset=0 xadvance=87 page=0 chnl=0 page=0 letter="w"
+char id=120 x=930 y=0 width=72 height=85 xoffset=0 yoffset=0 xadvance=72 page=0 chnl=0 page=0 letter="x"
+char id=32 x=1002 y=0 width=87 height=85 xoffset=0 yoffset=0 xadvance=87 page=0 chnl=0 page=0 letter="space"

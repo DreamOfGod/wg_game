@@ -1,0 +1,278 @@
+icon-gourd.png
+size: 904,904
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: false
+  xy: 731, 40
+  size: 151, 151
+  orig: 151, 151
+  offset: 0, 0
+  index: -1
+Glow_Star
+  rotate: false
+  xy: 664, 7
+  size: 56, 56
+  orig: 64, 64
+  offset: 4, 4
+  index: -1
+Gourd1
+  rotate: false
+  xy: 876, 728
+  size: 23, 42
+  orig: 23, 42
+  offset: 0, 0
+  index: -1
+Gourd1b
+  rotate: false
+  xy: 870, 593
+  size: 29, 47
+  orig: 34, 50
+  offset: 3, 2
+  index: -1
+Gourd2
+  rotate: false
+  xy: 809, 772
+  size: 90, 130
+  orig: 90, 130
+  offset: 0, 0
+  index: -1
+Gourd2Blue
+  rotate: false
+  xy: 489, 407
+  size: 82, 106
+  orig: 82, 108
+  offset: 0, 2
+  index: -1
+Gourd2byk_00009
+  rotate: true
+  xy: 2, 5
+  size: 114, 168
+  orig: 127, 182
+  offset: 3, 9
+  index: -1
+Gourd2byk_00010
+  rotate: true
+  xy: 312, 4
+  size: 127, 182
+  orig: 127, 182
+  offset: 0, 0
+  index: -1
+Gourd2lg_00000
+  rotate: false
+  xy: 206, 2
+  size: 104, 129
+  orig: 118, 151
+  offset: 7, 11
+  index: -1
+GourdSD
+  rotate: true
+  xy: 496, 26
+  size: 110, 55
+  orig: 118, 58
+  offset: 2, 0
+  index: -1
+Gourd_light/Gourd_L_00000
+  rotate: false
+  xy: 172, 68
+  size: 26, 51
+  orig: 80, 114
+  offset: 0, 6
+  index: -1
+Gourd_light/Gourd_L_00001
+  rotate: true
+  xy: 809, 721
+  size: 49, 65
+  orig: 80, 114
+  offset: 0, 4
+  index: -1
+Gourd_light/Gourd_L_00002
+  rotate: false
+  xy: 803, 550
+  size: 65, 90
+  orig: 80, 114
+  offset: 0, 3
+  index: -1
+Gourd_light/Gourd_L_00003
+  rotate: true
+  xy: 803, 642
+  size: 77, 99
+  orig: 80, 114
+  offset: 0, 3
+  index: -1
+Gourd_light/Gourd_L_00004
+  rotate: false
+  xy: 407, 399
+  size: 80, 111
+  orig: 80, 114
+  offset: 0, 3
+  index: -1
+Gourd_light/Gourd_L_00005
+  rotate: true
+  xy: 407, 321
+  size: 76, 110
+  orig: 80, 114
+  offset: 4, 4
+  index: -1
+Gourd_light/Gourd_L_00006
+  rotate: true
+  xy: 553, 5
+  size: 58, 109
+  orig: 80, 114
+  offset: 22, 5
+  index: -1
+Gourd_light/Gourd_L_00007
+  rotate: false
+  xy: 830, 459
+  size: 40, 89
+  orig: 80, 114
+  offset: 40, 25
+  index: -1
+Gourd_light/Gourd_L_00008
+  rotate: true
+  xy: 496, 4
+  size: 20, 50
+  orig: 80, 114
+  offset: 60, 64
+  index: -1
+dian
+  rotate: false
+  xy: 793, 380
+  size: 8, 8
+  orig: 10, 10
+  offset: 1, 1
+  index: -1
+gx123
+  rotate: false
+  xy: 793, 390
+  size: 35, 154
+  orig: 42, 182
+  offset: 4, 14
+  index: -1
+kuang_c_00
+  rotate: false
+  xy: 732, 193
+  size: 154, 169
+  orig: 213, 213
+  offset: 8, 22
+  index: -1
+kuang_c_01
+  rotate: true
+  xy: 555, 65
+  size: 131, 174
+  orig: 213, 213
+  offset: 18, 17
+  index: -1
+kuang_c_02
+  rotate: false
+  xy: 555, 198
+  size: 175, 164
+  orig: 213, 213
+  offset: 13, 26
+  index: -1
+kuang_c_03
+  rotate: true
+  xy: 614, 546
+  size: 173, 187
+  orig: 213, 213
+  offset: 17, 18
+  index: -1
+kuang_c_04
+  rotate: false
+  xy: 206, 133
+  size: 185, 181
+  orig: 213, 213
+  offset: 18, 14
+  index: -1
+kuang_c_05
+  rotate: false
+  xy: 614, 721
+  size: 193, 181
+  orig: 213, 213
+  offset: 10, 11
+  index: -1
+kuang_c_06
+  rotate: false
+  xy: 606, 364
+  size: 185, 180
+  orig: 213, 213
+  offset: 18, 19
+  index: -1
+kuang_c_07
+  rotate: false
+  xy: 393, 138
+  size: 160, 176
+  orig: 213, 213
+  offset: 28, 18
+  index: -1
+lizi_a
+  rotate: false
+  xy: 830, 407
+  size: 50, 50
+  orig: 60, 58
+  offset: 4, 4
+  index: -1
+symble_L_v2
+  rotate: false
+  xy: 410, 515
+  size: 194, 191
+  orig: 194, 191
+  offset: 0, 0
+  index: -1
+wzk_00
+  rotate: false
+  xy: 2, 121
+  size: 202, 193
+  orig: 213, 204
+  offset: 6, 5
+  index: -1
+wzk_01
+  rotate: false
+  xy: 206, 316
+  size: 199, 194
+  orig: 213, 204
+  offset: 6, 5
+  index: -1
+wzk_02
+  rotate: false
+  xy: 2, 708
+  size: 202, 194
+  orig: 213, 204
+  offset: 6, 5
+  index: -1
+wzk_03
+  rotate: false
+  xy: 2, 512
+  size: 202, 194
+  orig: 213, 204
+  offset: 6, 5
+  index: -1
+wzk_04
+  rotate: false
+  xy: 206, 708
+  size: 202, 194
+  orig: 213, 204
+  offset: 6, 5
+  index: -1
+wzk_05
+  rotate: false
+  xy: 2, 316
+  size: 202, 194
+  orig: 213, 204
+  offset: 6, 5
+  index: -1
+wzk_06
+  rotate: false
+  xy: 206, 512
+  size: 202, 194
+  orig: 213, 204
+  offset: 6, 5
+  index: -1
+wzk_07
+  rotate: false
+  xy: 410, 708
+  size: 202, 194
+  orig: 213, 204
+  offset: 6, 5
+  index: -1

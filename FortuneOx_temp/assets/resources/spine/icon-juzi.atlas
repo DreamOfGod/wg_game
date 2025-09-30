@@ -1,0 +1,68 @@
+icon-juzi.png
+size: 284,272
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+lizi_a
+  rotate: false
+  xy: 120, 29
+  size: 50, 50
+  orig: 60, 58
+  offset: 4, 4
+  index: -1
+orange1
+  rotate: false
+  xy: 2, 63
+  size: 116, 108
+  orig: 116, 108
+  offset: 0, 0
+  index: -1
+orange2
+  rotate: false
+  xy: 188, 2
+  size: 94, 83
+  orig: 94, 83
+  offset: 0, 0
+  index: -1
+orange_0
+  rotate: true
+  xy: 120, 81
+  size: 90, 66
+  orig: 90, 66
+  offset: 0, 0
+  index: -1
+orange_SD1
+  rotate: false
+  xy: 105, 11
+  size: 38, 16
+  orig: 47, 22
+  offset: 6, 3
+  index: -1
+orange_SD2
+  rotate: true
+  xy: 190, 87
+  size: 180, 92
+  orig: 196, 100
+  offset: 8, 4
+  index: -1
+orange_leaf
+  rotate: false
+  xy: 2, 26
+  size: 58, 35
+  orig: 58, 35
+  offset: 0, 0
+  index: -1
+orange_leaf2
+  rotate: false
+  xy: 62, 27
+  size: 41, 34
+  orig: 42, 34
+  offset: 0, 0
+  index: -1
+orange_plate
+  rotate: false
+  xy: 2, 173
+  size: 186, 94
+  orig: 199, 102
+  offset: 7, 1
+  index: -1

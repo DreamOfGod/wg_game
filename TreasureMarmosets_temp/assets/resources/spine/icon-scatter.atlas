@@ -1,0 +1,187 @@
+icon-scatter.png
+size: 948,360
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+B1
+  rotate: false
+  xy: 920, 126
+  size: 20, 20
+  orig: 22, 22
+  offset: 1, 1
+  index: -1
+Dust
+  rotate: false
+  xy: 891, 11
+  size: 30, 30
+  orig: 34, 34
+  offset: 2, 2
+  index: -1
+Glow_Star2
+  rotate: false
+  xy: 858, 147
+  size: 42, 42
+  orig: 48, 48
+  offset: 3, 3
+  index: -1
+scatter01
+  rotate: true
+  xy: 836, 111
+  size: 108, 20
+  orig: 108, 20
+  offset: 0, 0
+  index: -1
+scatter01B
+  rotate: false
+  xy: 491, 10
+  size: 112, 20
+  orig: 112, 20
+  offset: 0, 0
+  index: -1
+scatter02
+  rotate: false
+  xy: 605, 9
+  size: 107, 21
+  orig: 107, 21
+  offset: 0, 0
+  index: -1
+scatter_L1
+  rotate: false
+  xy: 863, 3
+  size: 16, 14
+  orig: 17, 14
+  offset: 1, 0
+  index: -1
+scatter_L2
+  rotate: false
+  xy: 886, 113
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+scatter_L3
+  rotate: true
+  xy: 925, 222
+  size: 34, 21
+  orig: 34, 21
+  offset: 0, 0
+  index: -1
+scatter_L4
+  rotate: false
+  xy: 912, 186
+  size: 34, 34
+  orig: 34, 34
+  offset: 0, 0
+  index: -1
+scatter_L5
+  rotate: true
+  xy: 858, 111
+  size: 34, 26
+  orig: 34, 26
+  offset: 0, 0
+  index: -1
+scatter_L6
+  rotate: true
+  xy: 891, 76
+  size: 35, 29
+  orig: 35, 29
+  offset: 0, 0
+  index: -1
+scatter_L7
+  rotate: false
+  xy: 902, 148
+  size: 35, 36
+  orig: 35, 36
+  offset: 0, 0
+  index: -1
+scatter_L8
+  rotate: true
+  xy: 825, 4
+  size: 13, 17
+  orig: 13, 17
+  offset: 0, 0
+  index: -1
+scatter_L9
+  rotate: false
+  xy: 844, 3
+  size: 17, 14
+  orig: 17, 14
+  offset: 0, 0
+  index: -1
+scatter_banner
+  rotate: false
+  xy: 376, 2
+  size: 113, 28
+  orig: 115, 29
+  offset: 1, 1
+  index: -1
+scatter_body
+  rotate: true
+  xy: 825, 19
+  size: 90, 64
+  orig: 95, 65
+  offset: 0, 1
+  index: -1
+scatter_cover
+  rotate: false
+  xy: 725, 111
+  size: 109, 108
+  orig: 109, 108
+  offset: 0, 0
+  index: -1
+scatter_fx
+  rotate: false
+  xy: 725, 221
+  size: 132, 137
+  orig: 136, 141
+  offset: 2, 2
+  index: -1
+scatter_green
+  rotate: true
+  xy: 725, 12
+  size: 97, 98
+  orig: 97, 98
+  offset: 0, 0
+  index: -1
+scatter_hand1
+  rotate: true
+  xy: 859, 191
+  size: 32, 51
+  orig: 32, 68
+  offset: 0, 17
+  index: -1
+scatter_hand2
+  rotate: true
+  xy: 859, 225
+  size: 31, 64
+  orig: 31, 65
+  offset: 0, 1
+  index: -1
+scatter_head
+  rotate: false
+  xy: 859, 258
+  size: 80, 100
+  orig: 80, 100
+  offset: 0, 0
+  index: -1
+ss_01
+  rotate: false
+  xy: 891, 43
+  size: 29, 31
+  orig: 38, 39
+  offset: 5, 4
+  index: -1
+ssg_14
+  rotate: false
+  xy: 376, 32
+  size: 347, 326
+  orig: 360, 353
+  offset: 4, 11
+  index: -1
+yuanguang_4
+  rotate: true
+  xy: 2, 10
+  size: 348, 372
+  orig: 374, 388
+  offset: 13, 8
+  index: -1

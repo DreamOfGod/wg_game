@@ -1,0 +1,96 @@
+icon-baoxiang.png
+size: 152,412
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+lizi_a
+  rotate: false
+  xy: 95, 145
+  size: 50, 50
+  orig: 60, 58
+  offset: 4, 4
+  index: -1
+xinguang01
+  rotate: false
+  xy: 95, 145
+  size: 50, 50
+  orig: 60, 58
+  offset: 4, 4
+  index: -1
+treasure
+  rotate: true
+  xy: 2, 197
+  size: 156, 105
+  orig: 156, 105
+  offset: 0, 0
+  index: -1
+treasure_SD
+  rotate: true
+  xy: 2, 2
+  size: 193, 91
+  orig: 198, 100
+  offset: 1, 1
+  index: -1
+treasure_coin1
+  rotate: true
+  xy: 95, 34
+  size: 26, 43
+  orig: 26, 43
+  offset: 0, 0
+  index: -1
+treasure_coin2
+  rotate: false
+  xy: 95, 101
+  size: 49, 42
+  orig: 49, 42
+  offset: 0, 0
+  index: -1
+treasure_coin3
+  rotate: true
+  xy: 109, 246
+  size: 49, 38
+  orig: 49, 38
+  offset: 0, 0
+  index: -1
+treasure_coin4
+  rotate: true
+  xy: 109, 197
+  size: 47, 38
+  orig: 47, 38
+  offset: 0, 0
+  index: -1
+treasure_coin5
+  rotate: false
+  xy: 95, 62
+  size: 44, 37
+  orig: 44, 37
+  offset: 0, 0
+  index: -1
+treasure_coin6
+  rotate: false
+  xy: 95, 14
+  size: 36, 18
+  orig: 36, 18
+  offset: 0, 0
+  index: -1
+treasure_coin7
+  rotate: false
+  xy: 109, 297
+  size: 39, 30
+  orig: 39, 30
+  offset: 0, 0
+  index: -1
+treasure_coin8
+  rotate: false
+  xy: 109, 329
+  size: 41, 24
+  orig: 41, 24
+  offset: 0, 0
+  index: -1
+treasure_coins
+  rotate: false
+  xy: 2, 355
+  size: 139, 52
+  orig: 139, 52
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,26 @@
+Fei_TX.png
+size: 121, 80
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+Fx_N_PopUp_012
+  rotate: false
+  xy: 79, 2
+  size: 34, 34
+  orig: 51, 51
+  offset: 9, 8
+  index: -1
+YuanGuang
+  rotate: false
+  xy: 2, 3
+  size: 75, 75
+  orig: 80, 81
+  offset: 2, 3
+  index: -1
+xl_tx8
+  rotate: false
+  xy: 79, 38
+  size: 40, 40
+  orig: 51, 52
+  offset: 6, 6
+  index: -1

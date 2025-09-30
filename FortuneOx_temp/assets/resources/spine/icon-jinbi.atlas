@@ -1,0 +1,96 @@
+icon-jinbi.png
+size: 280,320
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+lizi_a
+  rotate: false
+  xy: 172, 228
+  size: 50, 50
+  orig: 60, 58
+  offset: 4, 4
+  index: -1
+luckybag
+  rotate: true
+  xy: 139, 2
+  size: 134, 138
+  orig: 134, 138
+  offset: 0, 0
+  index: -1
+luckybag1
+  rotate: false
+  xy: 80, 282
+  size: 109, 33
+  orig: 110, 33
+  offset: 0, 0
+  index: -1
+luckybag_SD
+  rotate: false
+  xy: 78, 138
+  size: 191, 88
+  orig: 194, 91
+  offset: 1, 2
+  index: -1
+luckybag_coin1
+  rotate: false
+  xy: 116, 234
+  size: 54, 46
+  orig: 54, 46
+  offset: 0, 0
+  index: -1
+luckybag_coin2
+  rotate: false
+  xy: 60, 238
+  size: 54, 42
+  orig: 54, 42
+  offset: 0, 0
+  index: -1
+luckybag_coin3
+  rotate: false
+  xy: 2, 244
+  size: 56, 37
+  orig: 62, 37
+  offset: 6, 0
+  index: -1
+luckybag_coin4
+  rotate: false
+  xy: 233, 277
+  size: 41, 38
+  orig: 41, 38
+  offset: 0, 0
+  index: -1
+luckybag_coin5
+  rotate: false
+  xy: 2, 287
+  size: 42, 28
+  orig: 42, 28
+  offset: 0, 0
+  index: -1
+luckybag_coin6
+  rotate: false
+  xy: 191, 280
+  size: 40, 35
+  orig: 40, 35
+  offset: 0, 0
+  index: -1
+luckybag_coin7
+  rotate: false
+  xy: 46, 283
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+luckybag_line
+  rotate: false
+  xy: 2, 166
+  size: 74, 70
+  orig: 74, 70
+  offset: 0, 0
+  index: -1
+luckybag_topSD
+  rotate: true
+  xy: 2, 5
+  size: 131, 135
+  orig: 134, 138
+  offset: 2, 0
+  index: -1

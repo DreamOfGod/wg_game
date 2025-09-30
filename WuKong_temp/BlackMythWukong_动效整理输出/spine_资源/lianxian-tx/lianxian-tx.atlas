@@ -1,0 +1,61 @@
+lianxian-tx.png
+size: 1220,748
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+guan23g
+  rotate: false
+  xy: 653, 653
+  size: 410, 91
+  orig: 410, 91
+  offset: 0, 0
+  index: -1
+line01
+  rotate: false
+  xy: 2, 737
+  size: 649, 7
+  orig: 649, 9
+  offset: 0, 1
+  index: -1
+line02
+  rotate: false
+  xy: 2, 33
+  size: 649, 264
+  orig: 649, 266
+  offset: 0, 1
+  index: -1
+line03
+  rotate: true
+  xy: 653, 2
+  size: 649, 278
+  orig: 649, 280
+  offset: 0, 1
+  index: -1
+line04
+  rotate: false
+  xy: 2, 593
+  size: 649, 142
+  orig: 649, 144
+  offset: 0, 1
+  index: -1
+line05
+  rotate: false
+  xy: 2, 299
+  size: 649, 146
+  orig: 649, 148
+  offset: 0, 1
+  index: -1
+line06
+  rotate: true
+  xy: 933, 2
+  size: 649, 285
+  orig: 649, 287
+  offset: 0, 1
+  index: -1
+line07
+  rotate: false
+  xy: 2, 447
+  size: 649, 144
+  orig: 649, 146
+  offset: 0, 1
+  index: -1

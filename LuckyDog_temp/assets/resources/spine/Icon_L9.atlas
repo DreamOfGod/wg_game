@@ -1,0 +1,153 @@
+
+Icon_L9.png
+size: 652,652
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ColorBG_Light
+  rotate: false
+  xy: 351, 193
+  size: 192, 197
+  orig: 193, 199
+  offset: 1, 1
+  index: -1
+Dust
+  rotate: true
+  xy: 404, 8
+  size: 29, 31
+  orig: 38, 39
+  offset: 5, 4
+  index: -1
+Frame
+  rotate: false
+  xy: 366, 39
+  size: 170, 152
+  orig: 170, 152
+  offset: 0, 0
+  index: -1
+Glow_Star
+  rotate: false
+  xy: 366, 2
+  size: 36, 35
+  orig: 38, 38
+  offset: 1, 2
+  index: -1
+L7_4
+  rotate: false
+  xy: 437, 14
+  size: 23, 23
+  orig: 23, 23
+  offset: 0, 0
+  index: -1
+LL
+  rotate: false
+  xy: 538, 107
+  size: 84, 84
+  orig: 88, 88
+  offset: 2, 2
+  index: -1
+X2cookie
+  rotate: true
+  xy: 545, 316
+  size: 74, 73
+  orig: 74, 73
+  offset: 0, 0
+  index: -1
+X5
+  rotate: false
+  xy: 538, 37
+  size: 97, 68
+  orig: 99, 70
+  offset: 1, 1
+  index: -1
+gb_icon_xz_glow
+  rotate: false
+  xy: 178, 19
+  size: 186, 172
+  orig: 240, 240
+  offset: 27, 23
+  index: -1
+gb_icon_z
+  rotate: false
+  xy: 351, 392
+  size: 212, 258
+  orig: 223, 262
+  offset: 1, 2
+  index: -1
+green_cookie
+  rotate: false
+  xy: 545, 251
+  size: 61, 63
+  orig: 62, 63
+  offset: 1, 0
+  index: -1
+reund_light_01
+  rotate: false
+  xy: 2, 149
+  size: 174, 173
+  orig: 214, 205
+  offset: 20, 16
+  index: -1
+ssg_14
+  rotate: false
+  xy: 2, 324
+  size: 347, 326
+  orig: 360, 353
+  offset: 4, 11
+  index: -1
+x5body
+  rotate: true
+  xy: 565, 521
+  size: 129, 66
+  orig: 129, 67
+  offset: 0, 0
+  index: -1
+x5handL
+  rotate: true
+  xy: 545, 211
+  size: 38, 50
+  orig: 38, 50
+  offset: 0, 0
+  index: -1
+x5handR
+  rotate: true
+  xy: 565, 403
+  size: 38, 52
+  orig: 38, 52
+  offset: 0, 0
+  index: -1
+x5head
+  rotate: false
+  xy: 178, 206
+  size: 156, 116
+  orig: 164, 121
+  offset: 0, 0
+  index: -1
+x5nose
+  rotate: true
+  xy: 565, 443
+  size: 76, 48
+  orig: 76, 48
+  offset: 0, 0
+  index: -1
+x5orange
+  rotate: false
+  xy: 2, 7
+  size: 163, 140
+  orig: 163, 140
+  offset: 0, 0
+  index: -1
+x5teeth
+  rotate: true
+  xy: 336, 290
+  size: 32, 13
+  orig: 32, 13
+  offset: 0, 0
+  index: -1
+x5tongue
+  rotate: false
+  xy: 462, 16
+  size: 25, 21
+  orig: 25, 22
+  offset: 0, 1
+  index: -1

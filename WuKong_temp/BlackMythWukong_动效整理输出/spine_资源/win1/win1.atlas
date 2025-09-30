@@ -1,0 +1,61 @@
+win1.png
+size: 256,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Fx_N_PopUp_012
+  rotate: false
+  xy: 122, 182
+  size: 26, 26
+  orig: 38, 38
+  offset: 6, 6
+  index: -1
+coin_A_01
+  rotate: false
+  xy: 62, 124
+  size: 58, 58
+  orig: 60, 60
+  offset: 1, 1
+  index: -1
+coin_A_02
+  rotate: true
+  xy: 150, 160
+  size: 48, 58
+  orig: 60, 60
+  offset: 6, 1
+  index: -1
+coin_A_03
+  rotate: true
+  xy: 2, 184
+  size: 24, 58
+  orig: 60, 60
+  offset: 18, 1
+  index: -1
+coin_A_04
+  rotate: true
+  xy: 62, 184
+  size: 24, 58
+  orig: 60, 60
+  offset: 18, 1
+  index: -1
+coin_A_05
+  rotate: true
+  xy: 2, 134
+  size: 48, 58
+  orig: 60, 60
+  offset: 6, 1
+  index: -1
+gu23ang1
+  rotate: false
+  xy: 122, 74
+  size: 84, 84
+  orig: 88, 88
+  offset: 2, 2
+  index: -1
+yuanguang_4
+  rotate: true
+  xy: 2, 36
+  size: 86, 89
+  orig: 94, 97
+  offset: 4, 4
+  index: -1

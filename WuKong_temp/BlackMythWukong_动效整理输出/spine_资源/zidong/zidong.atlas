@@ -1,0 +1,26 @@
+zidong.png
+size: 212,212
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+zidong_01
+  rotate: true
+  xy: 162, 148
+  size: 16, 22
+  orig: 16, 22
+  offset: 0, 0
+  index: -1
+zidong_02
+  rotate: false
+  xy: 162, 166
+  size: 48, 44
+  orig: 52, 52
+  offset: 2, 4
+  index: -1
+zidong_03
+  rotate: false
+  xy: 2, 148
+  size: 158, 62
+  orig: 158, 62
+  offset: 0, 0
+  index: -1

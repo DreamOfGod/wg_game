@@ -1,0 +1,19 @@
+lianxian-tx.png
+size: 792,792
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+01
+  rotate: false
+  xy: 2, 329
+  size: 786, 220
+  orig: 790, 222
+  offset: 2, 1
+  index: -1
+02
+  rotate: false
+  xy: 2, 551
+  size: 786, 237
+  orig: 790, 239
+  offset: 2, 1
+  index: -1

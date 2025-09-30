@@ -1,0 +1,47 @@
+broadcast-ordinary.png
+size: 868,116
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+L1_1
+  rotate: false
+  xy: 805, 40
+  size: 34, 72
+  orig: 34, 72
+  offset: 0, 0
+  index: -1
+L1_1_SD
+  rotate: false
+  xy: 841, 30
+  size: 23, 82
+  orig: 23, 86
+  offset: 0, 0
+  index: -1
+L1_2
+  rotate: true
+  xy: 805, 10
+  size: 28, 18
+  orig: 28, 18
+  offset: 0, 0
+  index: -1
+L1_3
+  rotate: true
+  xy: 775, 5
+  size: 107, 28
+  orig: 107, 28
+  offset: 0, 0
+  index: -1
+L1_4
+  rotate: false
+  xy: 2, 2
+  size: 120, 110
+  orig: 120, 110
+  offset: 0, 0
+  index: -1
+changjing_mudan_diban
+  rotate: false
+  xy: 124, 11
+  size: 649, 101
+  orig: 649, 118
+  offset: 0, 17
+  index: -1

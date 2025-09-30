@@ -1,0 +1,47 @@
+icon-dragonfruit.png
+size: 872,352
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Drachenfrucht
+  rotate: false
+  xy: 704, 90
+  size: 101, 97
+  orig: 101, 97
+  offset: 0, 0
+  index: -1
+Drachenfrucht_SD
+  rotate: false
+  xy: 807, 140
+  size: 50, 47
+  orig: 50, 47
+  offset: 0, 0
+  index: -1
+Drachenfrucht_fx
+  rotate: false
+  xy: 704, 189
+  size: 166, 161
+  orig: 174, 169
+  offset: 8, 0
+  index: -1
+ss_01
+  rotate: true
+  xy: 807, 109
+  size: 29, 31
+  orig: 38, 39
+  offset: 5, 4
+  index: -1
+ssg_14
+  rotate: true
+  xy: 376, 3
+  size: 347, 326
+  orig: 360, 353
+  offset: 4, 11
+  index: -1
+yuanguang_4
+  rotate: true
+  xy: 2, 2
+  size: 348, 372
+  orig: 374, 388
+  offset: 13, 8
+  index: -1

@@ -1,0 +1,47 @@
+frame.png
+size: 624, 96
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+Bar_top
+  rotate: false
+  xy: 2, 2
+  size: 385, 92
+  orig: 385, 92
+  offset: 0, 0
+  index: -1
+Glow_Star2
+  rotate: false
+  xy: 577, 52
+  size: 42, 42
+  orig: 48, 48
+  offset: 3, 3
+  index: -1
+LL
+  rotate: false
+  xy: 422, 10
+  size: 84, 84
+  orig: 88, 88
+  offset: 2, 2
+  index: -1
+bar_wild
+  rotate: true
+  xy: 389, 9
+  size: 85, 31
+  orig: 85, 31
+  offset: 0, 0
+  index: -1
+ssg_05
+  rotate: true
+  xy: 508, 25
+  size: 69, 67
+  orig: 77, 77
+  offset: 4, 6
+  index: -1
+xl_tx8
+  rotate: false
+  xy: 577, 19
+  size: 29, 31
+  orig: 38, 39
+  offset: 5, 4
+  index: -1

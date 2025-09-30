@@ -1,0 +1,47 @@
+icon-lipao.png
+size: 196,164
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+firecracker1
+  rotate: true
+  xy: 2, 91
+  size: 71, 122
+  orig: 71, 122
+  offset: 0, 0
+  index: -1
+firecracker2
+  rotate: true
+  xy: 2, 2
+  size: 87, 105
+  orig: 87, 106
+  offset: 0, 0
+  index: -1
+firecracker_SD
+  rotate: true
+  xy: 126, 68
+  size: 94, 40
+  orig: 96, 42
+  offset: 0, 2
+  index: -1
+firecracker_line
+  rotate: false
+  xy: 161, 10
+  size: 33, 56
+  orig: 34, 56
+  offset: 0, 0
+  index: -1
+firecracker_line2
+  rotate: false
+  xy: 168, 109
+  size: 24, 53
+  orig: 24, 53
+  offset: 0, 0
+  index: -1
+lizi_a
+  rotate: false
+  xy: 109, 16
+  size: 50, 50
+  orig: 60, 58
+  offset: 4, 4
+  index: -1

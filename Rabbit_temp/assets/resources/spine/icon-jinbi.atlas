@@ -1,0 +1,160 @@
+
+icon-jinbi.png
+size: 348,348
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Coin1
+  rotate: false
+  xy: 2, 237
+  size: 117, 109
+  orig: 117, 109
+  offset: 0, 0
+  index: -1
+Coin2
+  rotate: false
+  xy: 2, 137
+  size: 105, 98
+  orig: 105, 98
+  offset: 0, 0
+  index: -1
+Coin_L
+  rotate: false
+  xy: 121, 264
+  size: 111, 82
+  orig: 118, 85
+  offset: 3, 2
+  index: -1
+coin1AE/coin1AE_00000
+  rotate: true
+  xy: 223, 17
+  size: 19, 37
+  orig: 80, 74
+  offset: 0, 34
+  index: -1
+coin1AE/coin1AE_00001
+  rotate: true
+  xy: 161, 4
+  size: 41, 60
+  orig: 80, 74
+  offset: 0, 14
+  index: -1
+coin1AE/coin1AE_00002
+  rotate: false
+  xy: 235, 38
+  size: 59, 71
+  orig: 80, 74
+  offset: 0, 3
+  index: -1
+coin1AE/coin1AE_00003
+  rotate: false
+  xy: 203, 188
+  size: 74, 74
+  orig: 80, 74
+  offset: 0, 0
+  index: -1
+coin1AE/coin1AE_00004
+  rotate: false
+  xy: 121, 188
+  size: 80, 74
+  orig: 80, 74
+  offset: 0, 0
+  index: -1
+coin1AE/coin1AE_00005
+  rotate: false
+  xy: 109, 112
+  size: 76, 74
+  orig: 80, 74
+  offset: 4, 0
+  index: -1
+coin1AE/coin1AE_00006
+  rotate: true
+  xy: 161, 47
+  size: 62, 72
+  orig: 80, 74
+  offset: 18, 0
+  index: -1
+coin1AE/coin1AE_00007
+  rotate: false
+  xy: 296, 77
+  size: 45, 64
+  orig: 80, 74
+  offset: 35, 0
+  index: -1
+coin1AE/coin1AE_00008
+  rotate: true
+  xy: 76, 14
+  size: 24, 46
+  orig: 80, 74
+  offset: 56, 2
+  index: -1
+coin2AE/coin2AE_00000
+  rotate: false
+  xy: 279, 161
+  size: 15, 32
+  orig: 80, 75
+  offset: 0, 30
+  index: -1
+coin2AE/coin2AE_00001
+  rotate: false
+  xy: 296, 11
+  size: 42, 64
+  orig: 80, 75
+  offset: 0, 11
+  index: -1
+coin2AE/coin2AE_00002
+  rotate: false
+  xy: 279, 195
+  size: 61, 74
+  orig: 80, 75
+  offset: 0, 1
+  index: -1
+coin2AE/coin2AE_00003
+  rotate: false
+  xy: 187, 111
+  size: 75, 75
+  orig: 80, 75
+  offset: 0, 0
+  index: -1
+coin2AE/coin2AE_00004
+  rotate: false
+  xy: 2, 60
+  size: 80, 75
+  orig: 80, 75
+  offset: 0, 0
+  index: -1
+coin2AE/coin2AE_00005
+  rotate: false
+  xy: 234, 271
+  size: 80, 75
+  orig: 80, 75
+  offset: 0, 0
+  index: -1
+coin2AE/coin2AE_00006
+  rotate: true
+  xy: 84, 40
+  size: 70, 75
+  orig: 80, 75
+  offset: 10, 0
+  index: -1
+coin2AE/coin2AE_00007
+  rotate: true
+  xy: 2, 7
+  size: 51, 72
+  orig: 80, 75
+  offset: 29, 0
+  index: -1
+coin2AE/coin2AE_00008
+  rotate: false
+  xy: 316, 293
+  size: 29, 53
+  orig: 80, 75
+  offset: 51, 3
+  index: -1
+lizi_a
+  rotate: false
+  xy: 296, 143
+  size: 50, 50
+  orig: 60, 58
+  offset: 4, 4
+  index: -1

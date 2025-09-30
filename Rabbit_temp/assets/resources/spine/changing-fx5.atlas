@@ -1,0 +1,13 @@
+
+changing-fx5.png
+size: 264,68
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+rabbit
+  rotate: false
+  xy: 2, 2
+  size: 258, 62
+  orig: 260, 62
+  offset: 2, 0
+  index: -1
