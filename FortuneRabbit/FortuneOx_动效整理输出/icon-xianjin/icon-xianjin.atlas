@@ -1,0 +1,97 @@
+
+icon-xianjin.png
+size: 959,637
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Glow_Star
+  rotate: false
+  xy: 882, 339
+  size: 56, 56
+  orig: 64, 64
+  offset: 4, 4
+  index: -1
+LBG
+  rotate: false
+  xy: 786, 516
+  size: 126, 119
+  orig: 130, 125
+  offset: 2, 3
+  index: -1
+bob
+  rotate: false
+  xy: 786, 301
+  size: 94, 94
+  orig: 94, 94
+  offset: 0, 0
+  index: -1
+cash_a
+  rotate: false
+  xy: 2, 16
+  size: 235, 175
+  orig: 235, 175
+  offset: 0, 0
+  index: -1
+cash_b
+  rotate: false
+  xy: 716, 153
+  size: 237, 118
+  orig: 237, 118
+  offset: 0, 0
+  index: -1
+glow_a2
+  rotate: false
+  xy: 417, 3
+  size: 297, 268
+  orig: 297, 268
+  offset: 0, 0
+  index: -1
+guangxian_a
+  rotate: false
+  xy: 417, 273
+  size: 367, 362
+  orig: 393, 389
+  offset: 13, 16
+  index: -1
+light_Di
+  rotate: true
+  xy: 867, 24
+  size: 127, 90
+  orig: 127, 90
+  offset: 0, 0
+  index: -1
+light_F
+  rotate: false
+  xy: 239, 80
+  size: 149, 111
+  orig: 162, 119
+  offset: 6, 4
+  index: -1
+lizi
+  rotate: false
+  xy: 867, 2
+  size: 19, 20
+  orig: 24, 24
+  offset: 2, 2
+  index: -1
+shine_a
+  rotate: false
+  xy: 716, 2
+  size: 149, 149
+  orig: 237, 175
+  offset: 44, 13
+  index: -1
+shine_b
+  rotate: false
+  xy: 786, 397
+  size: 117, 117
+  orig: 237, 175
+  offset: 60, 29
+  index: -1
+ssg_14
+  rotate: true
+  xy: 2, 193
+  size: 442, 413
+  orig: 480, 470
+  offset: 17, 26
+  index: -1

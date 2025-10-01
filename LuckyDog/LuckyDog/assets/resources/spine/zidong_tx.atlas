@@ -1,54 +1,55 @@
+
 zidong_tx.png
-size: 92,80
+size: 512,128
 format: RGBA8888
 filter: Linear,Linear
 repeat: none
+JFN_ZiDong_Anniu
+  rotate: false
+  xy: 0, 47
+  size: 219, 81
+  orig: 219, 81
+  offset: 0, 0
+  index: -1
+JFN_ZiDong_Anniu_Tx
+  rotate: false
+  xy: 49, 17
+  size: 62, 28
+  orig: 64, 32
+  offset: 0, 3
+  index: -1
 JFN_ZiDong_Circle_Icon
-  rotate: true
+  rotate: false
   xy: 0, 0
-  size: 37, 34
-  orig: 37, 34
+  size: 47, 45
+  orig: 47, 45
   offset: 0, 0
   index: -1
 JFN_ZiDong_Play_Icon
   rotate: true
-  xy: 58, 3
-  size: 13, 17
-  orig: 13, 17
+  xy: 49, 0
+  size: 15, 22
+  orig: 15, 22
   offset: 0, 0
-  index: -1
-LL2
-  rotate: false
-  xy: 77, 3
-  size: 13, 13
-  orig: 13, 13
-  offset: 0, 0
-  index: -1
-ZiDong_Anniu_Tx
-  rotate: false
-  xy: 43, 18
-  size: 47, 22
-  orig: 48, 24
-  offset: 0, 1
   index: -1
 ZiDong_Circle_Tx copy
-  rotate: false
-  xy: 43, 42
-  size: 39, 38
-  orig: 41, 40
+  rotate: true
+  xy: 221, 75
+  size: 53, 51
+  orig: 55, 53
   offset: 1, 1
   index: -1
 ZiDong_KongGe
   rotate: false
-  xy: 0, 39
-  size: 41, 41
-  orig: 41, 41
+  xy: 221, 20
+  size: 51, 53
+  orig: 51, 53
   offset: 0, 0
   index: -1
 ZiDong_Play_Tx copy
-  rotate: true
-  xy: 36, 1
-  size: 15, 20
-  orig: 17, 22
+  rotate: false
+  xy: 113, 17
+  size: 21, 28
+  orig: 23, 30
   offset: 1, 1
   index: -1

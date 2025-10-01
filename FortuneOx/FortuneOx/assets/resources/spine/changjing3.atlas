@@ -1,0 +1,19 @@
+changjing3.png
+size: 824,824
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+sbjncj_yun1
+  rotate: false
+  xy: 2, 2
+  size: 672, 281
+  orig: 697, 291
+  offset: 22, 10
+  index: -1
+sbjncj_yun2
+  rotate: false
+  xy: 2, 285
+  size: 687, 534
+  orig: 708, 548
+  offset: 3, 4
+  index: -1

@@ -1,0 +1,69 @@
+
+changing-fx.png
+size: 965,566
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Fx_N_PopUp_013
+  rotate: false
+  xy: 660, 11
+  size: 45, 45
+  orig: 51, 51
+  offset: 3, 3
+  index: -1
+Glow_Star
+  rotate: false
+  xy: 730, 70
+  size: 56, 56
+  orig: 64, 64
+  offset: 4, 4
+  index: -1
+bannerlight_2
+  rotate: false
+  xy: 660, 128
+  size: 303, 436
+  orig: 303, 436
+  offset: 0, 0
+  index: -1
+bgl1
+  rotate: false
+  xy: 2, 2
+  size: 218, 469
+  orig: 218, 469
+  offset: 0, 0
+  index: -1
+bgl2
+  rotate: false
+  xy: 222, 2
+  size: 219, 469
+  orig: 219, 469
+  offset: 0, 0
+  index: -1
+bgl3
+  rotate: false
+  xy: 443, 2
+  size: 215, 469
+  orig: 215, 469
+  offset: 0, 0
+  index: -1
+lizi
+  rotate: false
+  xy: 627, 544
+  size: 20, 20
+  orig: 24, 24
+  offset: 2, 2
+  index: -1
+ll
+  rotate: false
+  xy: 660, 58
+  size: 68, 68
+  orig: 70, 70
+  offset: 1, 1
+  index: -1
+number_bar
+  rotate: true
+  xy: 2, 473
+  size: 91, 623
+  orig: 158, 680
+  offset: 33, 29
+  index: -1

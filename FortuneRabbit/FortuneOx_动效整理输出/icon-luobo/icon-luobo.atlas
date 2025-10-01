@@ -1,0 +1,41 @@
+
+icon-luobo.png
+size: 419,110
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Carrot1
+  rotate: true
+  xy: 300, 31
+  size: 77, 65
+  orig: 77, 65
+  offset: 0, 0
+  index: -1
+Carrot2
+  rotate: false
+  xy: 206, 14
+  size: 92, 94
+  orig: 92, 94
+  offset: 0, 0
+  index: -1
+Carrot3
+  rotate: false
+  xy: 2, 2
+  size: 115, 106
+  orig: 115, 106
+  offset: 0, 0
+  index: -1
+Carrot_L
+  rotate: true
+  xy: 119, 13
+  size: 95, 85
+  orig: 99, 90
+  offset: 1, 3
+  index: -1
+lizi_a
+  rotate: false
+  xy: 367, 58
+  size: 50, 50
+  orig: 60, 58
+  offset: 4, 4
+  index: -1

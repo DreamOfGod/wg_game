@@ -1,0 +1,341 @@
+sbjn-spin-export.png
+size: 760,760
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+F_Glow_014
+  rotate: false
+  xy: 545, 371
+  size: 116, 116
+  orig: 130, 130
+  offset: 7, 7
+  index: -1
+QuanC_006
+  rotate: false
+  xy: 439, 615
+  size: 137, 143
+  orig: 144, 144
+  offset: 4, 0
+  index: -1
+beiguang1
+  rotate: false
+  xy: 578, 622
+  size: 136, 136
+  orig: 142, 142
+  offset: 3, 3
+  index: -1
+bk_wipes_01
+  rotate: false
+  xy: 198, 293
+  size: 87, 87
+  orig: 143, 120
+  offset: 28, 17
+  index: -1
+bk_wipes_02
+  rotate: false
+  xy: 663, 521
+  size: 95, 95
+  orig: 143, 120
+  offset: 24, 13
+  index: -1
+bk_wipes_03
+  rotate: false
+  xy: 398, 3
+  size: 99, 99
+  orig: 143, 120
+  offset: 22, 11
+  index: -1
+bk_wipes_04
+  rotate: false
+  xy: 511, 19
+  size: 103, 103
+  orig: 143, 120
+  offset: 20, 7
+  index: -1
+bk_wipes_05
+  rotate: false
+  xy: 556, 264
+  size: 111, 105
+  orig: 143, 120
+  offset: 16, 4
+  index: -1
+bk_wipes_06
+  rotate: true
+  xy: 616, 145
+  size: 117, 104
+  orig: 143, 120
+  offset: 13, 3
+  index: -1
+bk_wipes_07
+  rotate: true
+  xy: 511, 124
+  size: 123, 103
+  orig: 143, 120
+  offset: 10, 3
+  index: -1
+bk_wipes_08
+  rotate: false
+  xy: 421, 249
+  size: 129, 102
+  orig: 143, 120
+  offset: 7, 3
+  index: -1
+bk_wipes_09
+  rotate: false
+  xy: 287, 357
+  size: 135, 102
+  orig: 143, 120
+  offset: 4, 4
+  index: -1
+bk_wipes_10
+  rotate: true
+  xy: 144, 38
+  size: 138, 102
+  orig: 143, 120
+  offset: 2, 8
+  index: -1
+bk_wipes_11
+  rotate: true
+  xy: 716, 618
+  size: 140, 39
+  orig: 143, 120
+  offset: 1, 71
+  index: -1
+bk_wipes_12
+  rotate: false
+  xy: 2, 2
+  size: 140, 34
+  orig: 143, 120
+  offset: 1, 76
+  index: -1
+bk_wipes_13
+  rotate: true
+  xy: 169, 205
+  size: 138, 27
+  orig: 143, 120
+  offset: 2, 81
+  index: -1
+bk_wipes_14
+  rotate: false
+  xy: 424, 353
+  size: 130, 16
+  orig: 143, 120
+  offset: 6, 88
+  index: -1
+glow
+  rotate: true
+  xy: 191, 382
+  size: 167, 94
+  orig: 169, 98
+  offset: 1, 4
+  index: -1
+horns_l
+  rotate: false
+  xy: 248, 2
+  size: 73, 97
+  orig: 77, 99
+  offset: 2, 2
+  index: -1
+horns_r
+  rotate: false
+  xy: 323, 2
+  size: 73, 97
+  orig: 77, 99
+  offset: 2, 2
+  index: -1
+hw_01
+  rotate: false
+  xy: 663, 429
+  size: 93, 90
+  orig: 104, 104
+  offset: 5, 7
+  index: -1
+logo_wg
+  rotate: true
+  xy: 722, 221
+  size: 70, 36
+  orig: 71, 36
+  offset: 0, 0
+  index: -1
+logo_wg_zhihui
+  rotate: true
+  xy: 722, 149
+  size: 70, 36
+  orig: 71, 36
+  offset: 0, 0
+  index: -1
+round
+  rotate: false
+  xy: 272, 593
+  size: 165, 165
+  orig: 165, 165
+  offset: 0, 0
+  index: -1
+round_bk_glow
+  rotate: false
+  xy: 287, 461
+  size: 131, 130
+  orig: 131, 130
+  offset: 0, 0
+  index: -1
+round_bk_glow_00
+  rotate: false
+  xy: 2, 38
+  size: 140, 138
+  orig: 144, 144
+  offset: 2, 3
+  index: -1
+round_glow_light
+  rotate: false
+  xy: 248, 101
+  size: 128, 127
+  orig: 128, 127
+  offset: 0, 0
+  index: -1
+round_wipes_01
+  rotate: false
+  xy: 170, 6
+  size: 21, 30
+  orig: 99, 102
+  offset: 9, 53
+  index: -1
+round_wipes_02
+  rotate: true
+  xy: 669, 264
+  size: 27, 44
+  orig: 99, 102
+  offset: 8, 42
+  index: -1
+round_wipes_03
+  rotate: false
+  xy: 572, 497
+  size: 43, 59
+  orig: 99, 102
+  offset: 6, 30
+  index: -1
+round_wipes_04
+  rotate: true
+  xy: 198, 234
+  size: 57, 71
+  orig: 99, 102
+  offset: 6, 20
+  index: -1
+round_wipes_05
+  rotate: false
+  xy: 691, 64
+  size: 66, 79
+  orig: 99, 102
+  offset: 8, 12
+  index: -1
+round_wipes_06
+  rotate: false
+  xy: 616, 61
+  size: 73, 82
+  orig: 99, 102
+  offset: 11, 7
+  index: -1
+round_wipes_07
+  rotate: false
+  xy: 669, 293
+  size: 69, 81
+  orig: 99, 102
+  offset: 19, 5
+  index: -1
+round_wipes_08
+  rotate: true
+  xy: 578, 558
+  size: 62, 75
+  orig: 99, 102
+  offset: 29, 4
+  index: -1
+round_wipes_09
+  rotate: true
+  xy: 616, 11
+  size: 48, 63
+  orig: 99, 102
+  offset: 44, 6
+  index: -1
+round_wipes_10
+  rotate: true
+  xy: 198, 199
+  size: 33, 48
+  orig: 99, 102
+  offset: 58, 8
+  index: -1
+round_wipes_11
+  rotate: false
+  xy: 144, 2
+  size: 24, 34
+  orig: 99, 102
+  offset: 66, 11
+  index: -1
+round_zhihui
+  rotate: false
+  xy: 2, 178
+  size: 165, 165
+  orig: 165, 165
+  offset: 0, 0
+  index: -1
+spin_zhihui
+  rotate: false
+  xy: 2, 551
+  size: 268, 207
+  orig: 273, 273
+  offset: 3, 21
+  index: -1
+ssg_14
+  rotate: false
+  xy: 424, 371
+  size: 119, 116
+  orig: 120, 118
+  offset: 0, 2
+  index: -1
+wg_glow
+  rotate: false
+  xy: 663, 376
+  size: 89, 51
+  orig: 101, 63
+  offset: 6, 6
+  index: -1
+xl_tx8
+  rotate: false
+  xy: 681, 18
+  size: 41, 41
+  orig: 53, 53
+  offset: 6, 6
+  index: -1
+xl_tx9
+  rotate: false
+  xy: 617, 514
+  size: 40, 42
+  orig: 46, 46
+  offset: 2, 2
+  index: -1
+xz_icon
+  rotate: false
+  xy: 287, 230
+  size: 132, 125
+  orig: 136, 129
+  offset: 2, 3
+  index: -1
+xz_icon_mh
+  rotate: false
+  xy: 378, 104
+  size: 131, 124
+  orig: 152, 152
+  offset: 13, 15
+  index: -1
+xz_icon_mh_zhihui
+  rotate: false
+  xy: 439, 489
+  size: 131, 124
+  orig: 152, 152
+  offset: 13, 15
+  index: -1
+yellow_bk
+  rotate: false
+  xy: 2, 345
+  size: 187, 204
+  orig: 190, 205
+  offset: 1, 1
+  index: -1

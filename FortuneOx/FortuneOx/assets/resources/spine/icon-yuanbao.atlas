@@ -1,0 +1,75 @@
+icon-yuanbao.png
+size: 464,280
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Yuanbao
+  rotate: false
+  xy: 309, 13
+  size: 129, 87
+  orig: 129, 87
+  offset: 0, 0
+  index: -1
+Yuanbao_Di
+  rotate: true
+  xy: 195, 102
+  size: 174, 114
+  orig: 174, 114
+  offset: 0, 0
+  index: -1
+Yuanbao_L
+  rotate: true
+  xy: 118, 17
+  size: 99, 66
+  orig: 100, 66
+  offset: 0, 0
+  index: -1
+Yuanbao_R
+  rotate: true
+  xy: 393, 178
+  size: 98, 66
+  orig: 98, 66
+  offset: 0, 0
+  index: -1
+Yuanbao_SD
+  rotate: true
+  xy: 311, 105
+  size: 171, 80
+  orig: 182, 91
+  offset: 4, 6
+  index: -1
+Yuanbao_U
+  rotate: false
+  xy: 2, 118
+  size: 191, 158
+  orig: 199, 166
+  offset: 4, 4
+  index: -1
+Yuanbao_top
+  rotate: false
+  xy: 2, 2
+  size: 114, 114
+  orig: 114, 116
+  offset: 0, 0
+  index: -1
+Yuanbao_topSD
+  rotate: false
+  xy: 186, 5
+  size: 121, 95
+  orig: 124, 98
+  offset: 2, 2
+  index: -1
+lizi_a
+  rotate: false
+  xy: 393, 126
+  size: 50, 50
+  orig: 60, 58
+  offset: 4, 4
+  index: -1
+xinguang01
+  rotate: false
+  xy: 393, 126
+  size: 50, 50
+  orig: 60, 58
+  offset: 4, 4
+  index: -1

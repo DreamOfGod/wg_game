@@ -1,0 +1,97 @@
+
+icon-yuanbao.png
+size: 364,364
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Yuanbao
+  rotate: false
+  xy: 2, 174
+  size: 221, 186
+  orig: 222, 186
+  offset: 0, 0
+  index: -1
+Yuanbao_L
+  rotate: false
+  xy: 184, 70
+  size: 118, 102
+  orig: 122, 106
+  offset: 2, 2
+  index: -1
+lizi_a
+  rotate: false
+  xy: 294, 181
+  size: 50, 50
+  orig: 60, 58
+  offset: 4, 4
+  index: -1
+yuanbaoAE/yuanbaoAE_00000
+  rotate: true
+  xy: 289, 43
+  size: 25, 46
+  orig: 80, 67
+  offset: 0, 19
+  index: -1
+yuanbaoAE/yuanbaoAE_00001
+  rotate: true
+  xy: 184, 30
+  size: 38, 58
+  orig: 80, 67
+  offset: 0, 9
+  index: -1
+yuanbaoAE/yuanbaoAE_00002
+  rotate: false
+  xy: 294, 233
+  size: 55, 65
+  orig: 80, 67
+  offset: 0, 2
+  index: -1
+yuanbaoAE/yuanbaoAE_00003
+  rotate: true
+  xy: 293, 300
+  size: 60, 67
+  orig: 80, 67
+  offset: 0, 0
+  index: -1
+yuanbaoAE/yuanbaoAE_00004
+  rotate: false
+  xy: 225, 293
+  size: 66, 67
+  orig: 80, 67
+  offset: 7, 0
+  index: -1
+yuanbaoAE/yuanbaoAE_00005
+  rotate: true
+  xy: 225, 230
+  size: 61, 67
+  orig: 80, 67
+  offset: 19, 0
+  index: -1
+yuanbaoAE/yuanbaoAE_00006
+  rotate: true
+  xy: 225, 180
+  size: 48, 61
+  orig: 80, 67
+  offset: 32, 0
+  index: -1
+yuanbaoAE/yuanbaoAE_00007
+  rotate: true
+  xy: 244, 35
+  size: 33, 43
+  orig: 80, 67
+  offset: 47, 0
+  index: -1
+yuanbaoAE/yuanbaoAE_00008
+  rotate: true
+  xy: 289, 25
+  size: 16, 32
+  orig: 80, 67
+  offset: 64, 8
+  index: -1
+yuanbao_glow
+  rotate: false
+  xy: 2, 15
+  size: 180, 157
+  orig: 220, 185
+  offset: 20, 14
+  index: -1

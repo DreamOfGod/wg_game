@@ -1,0 +1,195 @@
+
+jiesuan-juese.png
+size: 2017,522
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bw_body
+  rotate: false
+  xy: 266, 23
+  size: 248, 316
+  orig: 252, 343
+  offset: 4, 27
+  index: -1
+bw_ear_a
+  rotate: true
+  xy: 1321, 80
+  size: 112, 176
+  orig: 112, 176
+  offset: 0, 0
+  index: -1
+bw_ear_b
+  rotate: false
+  xy: 729, 7
+  size: 178, 102
+  orig: 179, 113
+  offset: 0, 11
+  index: -1
+bw_hand
+  rotate: false
+  xy: 1394, 377
+  size: 244, 143
+  orig: 244, 143
+  offset: 0, 0
+  index: -1
+bw_hat
+  rotate: true
+  xy: 1870, 156
+  size: 144, 112
+  orig: 144, 112
+  offset: 0, 0
+  index: -1
+bw_head
+  rotate: false
+  xy: 909, 191
+  size: 224, 202
+  orig: 224, 202
+  offset: 0, 0
+  index: -1
+bw_jacket
+  rotate: false
+  xy: 1759, 27
+  size: 103, 119
+  orig: 103, 119
+  offset: 0, 0
+  index: -1
+mw_arm_a
+  rotate: true
+  xy: 1145, 389
+  size: 131, 247
+  orig: 134, 250
+  offset: 0, 0
+  index: -1
+mw_arm_b
+  rotate: true
+  xy: 869, 395
+  size: 125, 274
+  orig: 125, 274
+  offset: 0, 0
+  index: -1
+mw_body
+  rotate: true
+  xy: 1545, 142
+  size: 168, 169
+  orig: 168, 169
+  offset: 0, 0
+  index: -1
+mw_ear_a
+  rotate: false
+  xy: 752, 111
+  size: 155, 225
+  orig: 155, 225
+  offset: 0, 0
+  index: -1
+mw_ear_b
+  rotate: false
+  xy: 516, 20
+  size: 211, 98
+  orig: 211, 98
+  offset: 0, 0
+  index: -1
+mw_hat
+  rotate: true
+  xy: 1499, 14
+  size: 126, 138
+  orig: 126, 138
+  offset: 0, 0
+  index: -1
+mw_head
+  rotate: false
+  xy: 516, 120
+  size: 234, 216
+  orig: 234, 216
+  offset: 0, 0
+  index: -1
+mw_jacket
+  rotate: false
+  xy: 1135, 220
+  size: 215, 167
+  orig: 215, 167
+  offset: 0, 0
+  index: -1
+mw_leg
+  rotate: false
+  xy: 2, 341
+  size: 550, 179
+  orig: 550, 179
+  offset: 0, 0
+  index: -1
+smw_arm_a
+  rotate: false
+  xy: 909, 25
+  size: 184, 164
+  orig: 184, 170
+  offset: 0, 6
+  index: -1
+smw_arm_b
+  rotate: true
+  xy: 1873, 302
+  size: 218, 139
+  orig: 218, 139
+  offset: 0, 0
+  index: -1
+smw_body
+  rotate: false
+  xy: 2, 2
+  size: 262, 337
+  orig: 269, 362
+  offset: 4, 24
+  index: -1
+smw_ear_a
+  rotate: true
+  xy: 1135, 104
+  size: 114, 184
+  orig: 116, 184
+  offset: 1, 0
+  index: -1
+smw_ear_b
+  rotate: false
+  xy: 1352, 194
+  size: 191, 181
+  orig: 193, 181
+  offset: 0, 0
+  index: -1
+smw_hat
+  rotate: true
+  xy: 1639, 19
+  size: 121, 118
+  orig: 121, 118
+  offset: 0, 0
+  index: -1
+smw_head
+  rotate: false
+  xy: 1640, 312
+  size: 231, 208
+  orig: 231, 208
+  offset: 0, 0
+  index: -1
+smw_jacket_a
+  rotate: false
+  xy: 1984, 239
+  size: 31, 61
+  orig: 31, 61
+  offset: 0, 0
+  index: -1
+smw_jacket_b
+  rotate: true
+  xy: 869, 338
+  size: 55, 34
+  orig: 55, 34
+  offset: 0, 0
+  index: -1
+smw_leg
+  rotate: false
+  xy: 1716, 148
+  size: 152, 162
+  orig: 152, 162
+  offset: 0, 0
+  index: -1
+smw_skateboard
+  rotate: false
+  xy: 554, 338
+  size: 313, 182
+  orig: 313, 182
+  offset: 0, 0
+  index: -1

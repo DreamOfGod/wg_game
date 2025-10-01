@@ -1,0 +1,187 @@
+CaiJinChi_Diban_Tx.png
+size: 932,588
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+CJC_vfx_00
+  rotate: false
+  xy: 689, 350
+  size: 225, 75
+  orig: 396, 96
+  offset: 0, 11
+  index: -1
+CJC_vfx_01
+  rotate: true
+  xy: 158, 26
+  size: 256, 76
+  orig: 396, 96
+  offset: 2, 12
+  index: -1
+CJC_vfx_02
+  rotate: false
+  xy: 600, 165
+  size: 312, 72
+  orig: 396, 96
+  offset: 1, 13
+  index: -1
+CJC_vfx_03
+  rotate: false
+  xy: 236, 165
+  size: 362, 72
+  orig: 396, 96
+  offset: 7, 14
+  index: -1
+CJC_vfx_04
+  rotate: false
+  xy: 306, 300
+  size: 380, 59
+  orig: 396, 96
+  offset: 9, 27
+  index: -1
+CJC_vfx_05
+  rotate: false
+  xy: 236, 86
+  size: 347, 77
+  orig: 396, 96
+  offset: 42, 8
+  index: -1
+CJC_vfx_06
+  rotate: false
+  xy: 585, 9
+  size: 292, 77
+  orig: 396, 96
+  offset: 97, 9
+  index: -1
+CJC_vfx_07
+  rotate: false
+  xy: 689, 427
+  size: 238, 77
+  orig: 396, 96
+  offset: 153, 7
+  index: -1
+CJC_vfx_08
+  rotate: false
+  xy: 699, 506
+  size: 231, 80
+  orig: 396, 96
+  offset: 161, 3
+  index: -1
+CJC_vfx_09
+  rotate: true
+  xy: 2, 2
+  size: 280, 77
+  orig: 396, 96
+  offset: 106, 3
+  index: -1
+CJC_vfx_10
+  rotate: false
+  xy: 236, 6
+  size: 335, 78
+  orig: 396, 96
+  offset: 50, 2
+  index: -1
+CJC_vfx_11
+  rotate: false
+  xy: 306, 361
+  size: 381, 68
+  orig: 396, 96
+  offset: 3, 9
+  index: -1
+CJC_vfx_12
+  rotate: false
+  xy: 306, 431
+  size: 381, 75
+  orig: 396, 96
+  offset: 1, 9
+  index: -1
+CJC_vfx_13
+  rotate: false
+  xy: 585, 88
+  size: 333, 75
+  orig: 396, 96
+  offset: 1, 9
+  index: -1
+CJC_vfx_14
+  rotate: true
+  xy: 81, 3
+  size: 279, 75
+  orig: 396, 96
+  offset: 1, 10
+  index: -1
+Fx_N_PopUp_012
+  rotate: false
+  xy: 236, 239
+  size: 43, 43
+  orig: 51, 51
+  offset: 4, 4
+  index: -1
+Glow_Star
+  rotate: false
+  xy: 786, 276
+  size: 47, 47
+  orig: 51, 51
+  offset: 2, 2
+  index: -1
+cjc_bg
+  rotate: false
+  xy: 306, 239
+  size: 370, 59
+  orig: 370, 59
+  offset: 0, 0
+  index: -1
+cjc_bg_bk
+  rotate: false
+  xy: 306, 508
+  size: 391, 78
+  orig: 392, 82
+  offset: 0, 2
+  index: -1
+cjc_glow
+  rotate: false
+  xy: 688, 327
+  size: 98, 21
+  orig: 98, 21
+  offset: 0, 0
+  index: -1
+coin_A_01
+  rotate: false
+  xy: 688, 273
+  size: 52, 52
+  orig: 80, 80
+  offset: 14, 14
+  index: -1
+coin_A_02
+  rotate: false
+  xy: 879, 34
+  size: 46, 52
+  orig: 80, 80
+  offset: 17, 14
+  index: -1
+coin_A_03
+  rotate: true
+  xy: 788, 325
+  size: 23, 52
+  orig: 80, 80
+  offset: 29, 14
+  index: -1
+coin_A_04
+  rotate: true
+  xy: 158, 5
+  size: 19, 52
+  orig: 80, 80
+  offset: 31, 14
+  index: -1
+coin_A_05
+  rotate: false
+  xy: 742, 273
+  size: 42, 52
+  orig: 80, 80
+  offset: 20, 14
+  index: -1
+xzg_01
+  rotate: false
+  xy: 2, 284
+  size: 302, 302
+  orig: 315, 315
+  offset: 6, 7
+  index: -1

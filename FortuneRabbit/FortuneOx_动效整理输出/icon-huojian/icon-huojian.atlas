@@ -1,0 +1,62 @@
+
+icon-huojian.png
+size: 267,173
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Rocket_Blue
+  rotate: true
+  xy: 2, 79
+  size: 92, 154
+  orig: 92, 154
+  offset: 0, 0
+  index: -1
+Rocket_Blue_fire
+  rotate: false
+  xy: 160, 39
+  size: 13, 13
+  orig: 15, 14
+  offset: 1, 0
+  index: -1
+Rocket_Blue_rope
+  rotate: false
+  xy: 108, 62
+  size: 23, 15
+  orig: 23, 15
+  offset: 0, 0
+  index: -1
+Rocket_Green
+  rotate: false
+  xy: 158, 54
+  size: 107, 117
+  orig: 107, 117
+  offset: 0, 0
+  index: -1
+Rocket_Green_fire
+  rotate: false
+  xy: 175, 39
+  size: 13, 13
+  orig: 15, 15
+  offset: 1, 1
+  index: -1
+Rocket_Green_rope
+  rotate: true
+  xy: 133, 62
+  size: 15, 18
+  orig: 15, 19
+  offset: 0, 0
+  index: -1
+Rocket_L1
+  rotate: true
+  xy: 2, 4
+  size: 73, 104
+  orig: 73, 104
+  offset: 0, 0
+  index: -1
+lizi_a
+  rotate: false
+  xy: 108, 2
+  size: 50, 50
+  orig: 60, 58
+  offset: 4, 4
+  index: -1

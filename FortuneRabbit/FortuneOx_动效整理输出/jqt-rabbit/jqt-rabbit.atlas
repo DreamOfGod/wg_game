@@ -1,0 +1,663 @@
+
+jqt-rabbit.png
+size: 1902,1975
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bunny_pose02_shouji_01
+  rotate: true
+  xy: 1409, 628
+  size: 281, 392
+  orig: 281, 570
+  offset: 0, 177
+  index: -1
+bunny_pose02_shouji_03
+  rotate: true
+  xy: 1111, 284
+  size: 282, 391
+  orig: 284, 569
+  offset: 1, 177
+  index: -1
+idle_rabbit_see_01
+  rotate: false
+  xy: 546, 349
+  size: 278, 396
+  orig: 279, 575
+  offset: 0, 179
+  index: -1
+idle_rabbit_see_02
+  rotate: false
+  xy: 551, 1155
+  size: 261, 402
+  orig: 262, 584
+  offset: 1, 182
+  index: -1
+idle_rabbit_see_03
+  rotate: false
+  xy: 1110, 1562
+  size: 251, 411
+  orig: 252, 596
+  offset: 0, 185
+  index: -1
+idle_rabbit_see_04
+  rotate: false
+  xy: 539, 1559
+  size: 250, 414
+  orig: 250, 601
+  offset: 0, 187
+  index: -1
+idle_rabbit_see_06
+  rotate: false
+  xy: 2, 1128
+  size: 277, 421
+  orig: 284, 609
+  offset: 1, 188
+  index: -1
+idle_rabbit_see_07
+  rotate: false
+  xy: 253, 718
+  size: 279, 408
+  orig: 286, 592
+  offset: 1, 184
+  index: -1
+idle_rabbit_see_08
+  rotate: false
+  xy: 814, 1156
+  size: 257, 402
+  orig: 264, 583
+  offset: 1, 181
+  index: -1
+idle_rabbit_see_l_04
+  rotate: true
+  xy: 1475, 911
+  size: 241, 399
+  orig: 241, 577
+  offset: 0, 178
+  index: -1
+idle_rabbit_see_l_05
+  rotate: false
+  xy: 2, 295
+  size: 247, 411
+  orig: 247, 592
+  offset: 0, 180
+  index: -1
+idle_rabbit_see_r_01
+  rotate: false
+  xy: 2, 1551
+  size: 279, 422
+  orig: 280, 595
+  offset: 0, 172
+  index: -1
+idle_rabbit_see_r_02
+  rotate: false
+  xy: 1619, 1563
+  size: 281, 410
+  orig: 282, 571
+  offset: 1, 160
+  index: -1
+idle_rabbit_see_r_03
+  rotate: false
+  xy: 1363, 1562
+  size: 254, 411
+  orig: 255, 598
+  offset: 0, 186
+  index: -1
+idle_rabbit_see_r_04
+  rotate: false
+  xy: 283, 1555
+  size: 254, 418
+  orig: 254, 609
+  offset: 0, 190
+  index: -1
+tingpai_fail_02
+  rotate: false
+  xy: 534, 747
+  size: 312, 397
+  orig: 312, 574
+  offset: 0, 177
+  index: -1
+tingpai_fail_03
+  rotate: false
+  xy: 1520, 1154
+  size: 298, 406
+  orig: 299, 584
+  offset: 1, 177
+  index: -1
+tingpai_fail_04
+  rotate: false
+  xy: 826, 350
+  size: 283, 395
+  orig: 284, 572
+  offset: 1, 177
+  index: -1
+tingpai_start_01
+  rotate: true
+  xy: 414, 2
+  size: 296, 398
+  orig: 297, 576
+  offset: 0, 178
+  index: -1
+tingpai_start_02
+  rotate: false
+  xy: 791, 1560
+  size: 317, 413
+  orig: 318, 589
+  offset: 0, 176
+  index: -1
+tingpai_start_03
+  rotate: true
+  xy: 1110, 1243
+  size: 317, 408
+  orig: 317, 586
+  offset: 0, 178
+  index: -1
+tingpai_start_04
+  rotate: false
+  xy: 1111, 568
+  size: 296, 394
+  orig: 297, 572
+  offset: 0, 178
+  index: -1
+tsyx_end_04
+  rotate: false
+  xy: 251, 300
+  size: 293, 406
+  orig: 295, 583
+  offset: 1, 177
+  index: -1
+win_01_02
+  rotate: false
+  xy: 281, 1146
+  size: 268, 403
+  orig: 269, 605
+  offset: 1, 202
+  index: -1
+win_01_05
+  rotate: false
+  xy: 1504, 236
+  size: 304, 390
+  orig: 305, 619
+  offset: 0, 229
+  index: -1
+win_02_02
+  rotate: false
+  xy: 2, 708
+  size: 249, 418
+  orig: 251, 590
+  offset: 1, 172
+  index: -1
+win_02_03
+  rotate: true
+  xy: 1073, 964
+  size: 277, 400
+  orig: 277, 577
+  offset: 0, 177
+  index: -1
+win_02_04
+  rotate: true
+  xy: 2, 18
+  size: 275, 410
+  orig: 276, 587
+  offset: 1, 177
+  index: -1
+
+jqt-rabbit2.png
+size: 2017,1730
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bunny_pose02_shouji_02
+  rotate: false
+  xy: 249, 949
+  size: 278, 387
+  orig: 278, 565
+  offset: 0, 177
+  index: -1
+bunny_pose02_shouji_04
+  rotate: false
+  xy: 259, 170
+  size: 306, 385
+  orig: 308, 563
+  offset: 1, 177
+  index: -1
+bunny_pose02_shouji_05
+  rotate: true
+  xy: 1518, 850
+  size: 286, 347
+  orig: 325, 562
+  offset: 0, 0
+  index: -1
+bunny_pose02_shouji_05_face
+  rotate: true
+  xy: 1435, 5
+  size: 217, 256
+  orig: 217, 256
+  offset: 0, 0
+  index: -1
+bunny_pose02_shouji_05_hat
+  rotate: true
+  xy: 1942, 176
+  size: 103, 60
+  orig: 103, 60
+  offset: 0, 0
+  index: -1
+bunny_pose02_shouji_06
+  rotate: false
+  xy: 2, 557
+  size: 327, 388
+  orig: 328, 565
+  offset: 0, 177
+  index: -1
+bunny_pose02_shouji_07
+  rotate: false
+  xy: 620, 569
+  size: 317, 383
+  orig: 319, 561
+  offset: 1, 177
+  index: -1
+bunny_pose02_shouji_08
+  rotate: false
+  xy: 842, 193
+  size: 297, 374
+  orig: 299, 553
+  offset: 1, 178
+  index: -1
+bunny_pose02_shouji_09
+  rotate: false
+  xy: 1149, 977
+  size: 283, 372
+  orig: 283, 551
+  offset: 0, 178
+  index: -1
+idle_arm_l
+  rotate: true
+  xy: 1845, 30
+  size: 85, 80
+  orig: 88, 82
+  offset: 0, 1
+  index: -1
+idle_body
+  rotate: false
+  xy: 872, 31
+  size: 118, 160
+  orig: 118, 160
+  offset: 0, 0
+  index: -1
+idle_diaozui_l
+  rotate: false
+  xy: 1803, 192
+  size: 20, 32
+  orig: 20, 32
+  offset: 0, 0
+  index: -1
+idle_diaozui_r
+  rotate: false
+  xy: 1825, 165
+  size: 17, 32
+  orig: 17, 32
+  offset: 0, 0
+  index: -1
+idle_ear_l
+  rotate: false
+  xy: 1919, 1481
+  size: 85, 116
+  orig: 85, 116
+  offset: 0, 0
+  index: -1
+idle_ear_r
+  rotate: true
+  xy: 992, 7
+  size: 72, 139
+  orig: 72, 139
+  offset: 0, 0
+  index: -1
+idle_eye
+  rotate: false
+  xy: 1919, 1437
+  size: 94, 42
+  orig: 94, 42
+  offset: 0, 0
+  index: -1
+idle_eyebrow_l
+  rotate: true
+  xy: 2004, 541
+  size: 17, 11
+  orig: 19, 13
+  offset: 1, 1
+  index: -1
+idle_eyebrow_r
+  rotate: false
+  xy: 976, 569
+  size: 14, 13
+  orig: 16, 15
+  offset: 1, 1
+  index: -1
+idle_face
+  rotate: true
+  xy: 1867, 662
+  size: 166, 143
+  orig: 166, 143
+  offset: 0, 0
+  index: -1
+idle_hand_l
+  rotate: false
+  xy: 1825, 199
+  size: 115, 80
+  orig: 115, 93
+  offset: 0, 0
+  index: -1
+idle_hand_r
+  rotate: true
+  xy: 992, 81
+  size: 110, 146
+  orig: 110, 146
+  offset: 0, 0
+  index: -1
+idle_hand_sz_l
+  rotate: true
+  xy: 1516, 1142
+  size: 28, 33
+  orig: 28, 33
+  offset: 0, 0
+  index: -1
+idle_hat
+  rotate: true
+  xy: 1775, 45
+  size: 93, 68
+  orig: 93, 70
+  offset: 0, 2
+  index: -1
+idle_hat_d
+  rotate: false
+  xy: 1149, 959
+  size: 28, 16
+  orig: 28, 17
+  offset: 0, 1
+  index: -1
+idle_rabbit_see_05
+  rotate: false
+  xy: 1276, 1359
+  size: 274, 369
+  orig: 274, 605
+  offset: 0, 0
+  index: -1
+idle_rabbit_see_05_face
+  rotate: true
+  xy: 1141, 4
+  size: 218, 292
+  orig: 218, 292
+  offset: 0, 0
+  index: -1
+idle_rabbit_see_05_hat
+  rotate: true
+  xy: 1693, 44
+  size: 94, 80
+  orig: 94, 80
+  offset: 0, 0
+  index: -1
+idle_rabbit_see_09
+  rotate: false
+  xy: 2, 947
+  size: 245, 389
+  orig: 247, 569
+  offset: 1, 180
+  index: -1
+idle_rabbit_see_l_01
+  rotate: false
+  xy: 331, 562
+  size: 287, 385
+  orig: 287, 563
+  offset: 0, 178
+  index: -1
+idle_rabbit_see_l_02
+  rotate: false
+  xy: 567, 176
+  size: 273, 384
+  orig: 273, 566
+  offset: 0, 181
+  index: -1
+idle_rabbit_see_l_03
+  rotate: false
+  xy: 2, 169
+  size: 255, 386
+  orig: 256, 566
+  offset: 0, 179
+  index: -1
+idle_rabbit_see_l_body
+  rotate: true
+  xy: 259, 2
+  size: 166, 348
+  orig: 166, 348
+  offset: 0, 0
+  index: -1
+idle_rabbit_see_l_face
+  rotate: true
+  xy: 1662, 281
+  size: 260, 296
+  orig: 260, 296
+  offset: 0, 0
+  index: -1
+idle_rabbit_see_l_hand
+  rotate: true
+  xy: 1919, 1599
+  size: 129, 95
+  orig: 129, 95
+  offset: 0, 0
+  index: -1
+idle_rabbit_see_l_hat
+  rotate: false
+  xy: 1845, 117
+  size: 93, 80
+  orig: 93, 82
+  offset: 0, 1
+  index: -1
+idle_yf_hat
+  rotate: false
+  xy: 1960, 421
+  size: 52, 34
+  orig: 52, 34
+  offset: 0, 0
+  index: -1
+idle_yf_l
+  rotate: true
+  xy: 1662, 226
+  size: 53, 161
+  orig: 53, 161
+  offset: 0, 0
+  index: -1
+idle_yf_r
+  rotate: false
+  xy: 1434, 1187
+  size: 109, 170
+  orig: 109, 170
+  offset: 0, 0
+  index: -1
+tingpai_arm_l
+  rotate: false
+  xy: 1908, 1150
+  size: 106, 91
+  orig: 106, 91
+  offset: 0, 0
+  index: -1
+tingpai_arm_r
+  rotate: false
+  xy: 1693, 140
+  size: 108, 84
+  orig: 108, 88
+  offset: 0, 0
+  index: -1
+tingpai_body
+  rotate: false
+  xy: 1867, 830
+  size: 143, 306
+  orig: 170, 306
+  offset: 27, 0
+  index: -1
+tingpai_ear_l
+  rotate: true
+  xy: 1867, 560
+  size: 100, 148
+  orig: 100, 148
+  offset: 0, 0
+  index: -1
+tingpai_ear_r
+  rotate: false
+  xy: 1434, 1028
+  size: 80, 157
+  orig: 80, 157
+  offset: 0, 0
+  index: -1
+tingpai_eye
+  rotate: true
+  xy: 1960, 457
+  size: 101, 42
+  orig: 101, 42
+  offset: 0, 0
+  index: -1
+tingpai_face
+  rotate: false
+  xy: 2, 13
+  size: 176, 154
+  orig: 176, 154
+  offset: 0, 0
+  index: -1
+tingpai_fail_01
+  rotate: false
+  xy: 376, 1341
+  size: 297, 387
+  orig: 298, 565
+  offset: 1, 177
+  index: -1
+tingpai_hand_l
+  rotate: false
+  xy: 1940, 109
+  size: 67, 65
+  orig: 67, 65
+  offset: 0, 0
+  index: -1
+tingpai_hand_r
+  rotate: false
+  xy: 180, 5
+  size: 67, 61
+  orig: 67, 61
+  offset: 0, 0
+  index: -1
+tingpai_hat
+  rotate: true
+  xy: 180, 68
+  size: 99, 76
+  orig: 99, 77
+  offset: 0, 0
+  index: -1
+tingpai_yilin
+  rotate: true
+  xy: 1908, 1243
+  size: 168, 106
+  orig: 168, 106
+  offset: 0, 0
+  index: -1
+tingpai_yl_l
+  rotate: true
+  xy: 1516, 1172
+  size: 13, 34
+  orig: 13, 34
+  offset: 0, 0
+  index: -1
+tingpai_yl_r
+  rotate: true
+  xy: 939, 569
+  size: 13, 35
+  orig: 13, 35
+  offset: 0, 0
+  index: -1
+tsyx_end_01
+  rotate: false
+  xy: 609, 5
+  size: 261, 169
+  orig: 392, 466
+  offset: 0, 297
+  index: -1
+tsyx_end_02
+  rotate: true
+  xy: 1429, 224
+  size: 317, 231
+  orig: 362, 506
+  offset: 0, 275
+  index: -1
+tsyx_end_03
+  rotate: false
+  xy: 939, 584
+  size: 293, 373
+  orig: 295, 556
+  offset: 1, 183
+  index: -1
+win_01_01
+  rotate: false
+  xy: 865, 959
+  size: 282, 382
+  orig: 283, 566
+  offset: 0, 184
+  index: -1
+win_01_03
+  rotate: false
+  xy: 529, 954
+  size: 334, 385
+  orig: 336, 605
+  offset: 1, 220
+  index: -1
+win_01_04
+  rotate: false
+  xy: 960, 1351
+  size: 314, 377
+  orig: 315, 605
+  offset: 1, 228
+  index: -1
+win_01_06
+  rotate: true
+  xy: 1552, 1413
+  size: 315, 365
+  orig: 316, 586
+  offset: 0, 221
+  index: -1
+win_01_07
+  rotate: true
+  xy: 1518, 543
+  size: 305, 347
+  orig: 305, 557
+  offset: 0, 210
+  index: -1
+win_01_08
+  rotate: true
+  xy: 1552, 1138
+  size: 273, 354
+  orig: 274, 544
+  offset: 0, 189
+  index: -1
+win_02_01
+  rotate: false
+  xy: 675, 1343
+  size: 283, 385
+  orig: 284, 563
+  offset: 1, 178
+  index: -1
+win_02_05
+  rotate: false
+  xy: 2, 1338
+  size: 372, 390
+  orig: 373, 567
+  offset: 1, 177
+  index: -1
+win_02_06
+  rotate: false
+  xy: 1141, 229
+  size: 286, 353
+  orig: 287, 530
+  offset: 0, 177
+  index: -1
+win_02_07_end
+  rotate: false
+  xy: 1234, 623
+  size: 282, 352
+  orig: 283, 537
+  offset: 0, 185
+  index: -1

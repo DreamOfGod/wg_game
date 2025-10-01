@@ -301,7 +301,7 @@
   },
   {
     "__type__": "cc.Node",
-    "_name": "spine-win",
+    "_name": "win2",
     "_objFlags": 0,
     "_parent": {
       "__id__": 1
@@ -326,8 +326,8 @@
     },
     "_contentSize": {
       "__type__": "cc.Size",
-      "width": 356.7478942871094,
-      "height": 356.7478332519531
+      "width": 1146.52294921875,
+      "height": 2635.30517578125
     },
     "_anchorPoint": {
       "__type__": "cc.Vec2",
@@ -339,7 +339,7 @@
       "ctor": "Float64Array",
       "array": [
         0,
-        0,
+        -190.886,
         0,
         0,
         0,
@@ -378,7 +378,7 @@
     ],
     "paused": false,
     "defaultSkin": "default",
-    "defaultAnimation": "once-lv2",
+    "defaultAnimation": "Level_1_2_Loop",
     "_preCacheMode": 0,
     "_cacheMode": 0,
     "loop": true,
@@ -389,13 +389,13 @@
     "_frameCache": null,
     "_curFrame": null,
     "_skeletonCache": null,
-    "_animationName": "once-lv2",
+    "_animationName": "Level_1_2_Loop",
     "_animationQueue": [],
     "_headAniInfo": null,
     "_playTimes": 0,
     "_isAniComplete": true,
     "_N$skeletonData": {
-      "__uuid__": "47f2657f-54c9-46d8-9934-28ea7494ef9e"
+      "__uuid__": "42d3b947-3178-46ad-8d16-94e9efe5fd63"
     },
     "_N$_defaultCacheMode": 0,
     "_N$debugSlots": false,
@@ -418,7 +418,7 @@
   },
   {
     "__type__": "cc.Node",
-    "_name": "spine-gold",
+    "_name": "win1",
     "_objFlags": 0,
     "_parent": {
       "__id__": 1
@@ -443,8 +443,8 @@
     },
     "_contentSize": {
       "__type__": "cc.Size",
-      "width": 4913.80029296875,
-      "height": 4898.73828125
+      "width": 879.1334228515625,
+      "height": 885.705078125
     },
     "_anchorPoint": {
       "__type__": "cc.Vec2",
@@ -456,7 +456,7 @@
       "ctor": "Float64Array",
       "array": [
         0,
-        0,
+        -190.886,
         0,
         0,
         0,
@@ -495,7 +495,7 @@
     ],
     "paused": false,
     "defaultSkin": "default",
-    "defaultAnimation": "loop-lv1",
+    "defaultAnimation": "Level_1_2_Loop",
     "_preCacheMode": 0,
     "_cacheMode": 0,
     "loop": true,
@@ -506,13 +506,13 @@
     "_frameCache": null,
     "_curFrame": null,
     "_skeletonCache": null,
-    "_animationName": "loop-lv1",
+    "_animationName": "Level_1_2_Loop",
     "_animationQueue": [],
     "_headAniInfo": null,
     "_playTimes": 0,
     "_isAniComplete": true,
     "_N$skeletonData": {
-      "__uuid__": "42d3b947-3178-46ad-8d16-94e9efe5fd63"
+      "__uuid__": "47f2657f-54c9-46d8-9934-28ea7494ef9e"
     },
     "_N$_defaultCacheMode": 0,
     "_N$debugSlots": false,
@@ -535,7 +535,7 @@
   },
   {
     "__type__": "cc.Node",
-    "_name": "spine-monkey",
+    "_name": "win",
     "_objFlags": 0,
     "_parent": {
       "__id__": 1
@@ -560,8 +560,8 @@
     },
     "_contentSize": {
       "__type__": "cc.Size",
-      "width": 1322.9248046875,
-      "height": 1829.4603271484375
+      "width": 1082,
+      "height": 881.5899658203125
     },
     "_anchorPoint": {
       "__type__": "cc.Vec2",
@@ -573,7 +573,7 @@
       "ctor": "Float64Array",
       "array": [
         0,
-        181.2,
+        -9.686,
         0,
         0,
         0,
@@ -612,7 +612,7 @@
     ],
     "paused": false,
     "defaultSkin": "default",
-    "defaultAnimation": "loop-lv1",
+    "defaultAnimation": "Level_1_2_Loop",
     "_preCacheMode": 0,
     "_cacheMode": 0,
     "loop": true,
@@ -623,7 +623,7 @@
     "_frameCache": null,
     "_curFrame": null,
     "_skeletonCache": null,
-    "_animationName": "loop-lv1",
+    "_animationName": "Level_1_2_Loop",
     "_animationQueue": [],
     "_headAniInfo": null,
     "_playTimes": 0,
@@ -677,8 +677,8 @@
     },
     "_contentSize": {
       "__type__": "cc.Size",
-      "width": 1000,
-      "height": 150
+      "width": 511,
+      "height": 205
     },
     "_anchorPoint": {
       "__type__": "cc.Vec2",
@@ -689,15 +689,15 @@
       "__type__": "TypedArray",
       "ctor": "Float64Array",
       "array": [
-        0,
-        -190,
+        5,
+        475.73,
         0,
         0,
         0,
         0,
         1,
-        1,
-        1,
+        2,
+        2,
         1
       ]
     },
@@ -731,11 +731,11 @@
     "_dstBlendFactor": 771,
     "_string": "+0.00",
     "_N$string": "+0.00",
-    "_fontSize": 200,
-    "_lineHeight": 200,
+    "_fontSize": 120,
+    "_lineHeight": 150,
     "_enableWrapText": false,
     "_N$file": {
-      "__uuid__": "ad51e651-a481-4895-9dc1-169d67c9bcf8"
+      "__uuid__": "17ece6e3-f7aa-4cb0-b9fd-5f93bcb7de3c"
     },
     "_isSystemFontUsed": false,
     "_spacingX": 0,

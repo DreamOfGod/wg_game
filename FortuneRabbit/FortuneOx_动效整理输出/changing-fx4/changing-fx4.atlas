@@ -1,0 +1,27 @@
+
+changing-fx4.png
+size: 243,82
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ll
+  rotate: false
+  xy: 173, 12
+  size: 68, 68
+  orig: 70, 70
+  offset: 1, 1
+  index: -1
+redF
+  rotate: true
+  xy: 2, 2
+  size: 78, 105
+  orig: 78, 106
+  offset: 0, 0
+  index: -1
+yunbao
+  rotate: false
+  xy: 109, 9
+  size: 62, 71
+  orig: 63, 72
+  offset: 1, 0
+  index: -1

@@ -1,0 +1,33 @@
+czdyj-zi.png
+size: 316,316
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+fg2
+  rotate: false
+  xy: 196, 81
+  size: 82, 117
+  orig: 89, 119
+  offset: 3, 2
+  index: -1
+gx
+  rotate: false
+  xy: 2, 7
+  size: 192, 191
+  orig: 205, 205
+  offset: 7, 7
+  index: -1
+gx3
+  rotate: false
+  xy: 196, 71
+  size: 104, 8
+  orig: 104, 9
+  offset: 0, 0
+  index: -1
+sbjn_czdzj_en
+  rotate: false
+  xy: 2, 200
+  size: 309, 111
+  orig: 309, 112
+  offset: 0, 1
+  index: -1

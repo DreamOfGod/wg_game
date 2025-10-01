@@ -1,0 +1,26 @@
+icon-gx-front.png
+size: 432,368
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Glow_Star
+  rotate: false
+  xy: 371, 308
+  size: 56, 56
+  orig: 64, 64
+  offset: 4, 4
+  index: -1
+guangxian_a
+  rotate: false
+  xy: 2, 2
+  size: 367, 362
+  orig: 393, 389
+  offset: 13, 16
+  index: -1
+lizi
+  rotate: false
+  xy: 371, 286
+  size: 20, 20
+  orig: 24, 24
+  offset: 2, 2
+  index: -1

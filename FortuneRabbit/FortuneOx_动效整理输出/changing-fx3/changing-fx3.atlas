@@ -1,0 +1,27 @@
+
+changing-fx3.png
+size: 230,89
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ll
+  rotate: false
+  xy: 160, 19
+  size: 68, 68
+  orig: 70, 70
+  offset: 1, 1
+  index: -1
+red
+  rotate: false
+  xy: 109, 2
+  size: 49, 85
+  orig: 50, 86
+  offset: 1, 1
+  index: -1
+redF
+  rotate: true
+  xy: 2, 9
+  size: 78, 105
+  orig: 78, 106
+  offset: 0, 0
+  index: -1

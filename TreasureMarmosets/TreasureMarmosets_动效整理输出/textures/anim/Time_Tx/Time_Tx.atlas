@@ -1,0 +1,26 @@
+Time_Tx.png
+size: 144,44
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+hong
+  rotate: false
+  xy: 2, 2
+  size: 110, 40
+  orig: 110, 40
+  offset: 0, 0
+  index: -1
+time_fz
+  rotate: false
+  xy: 114, 4
+  size: 4, 10
+  orig: 4, 10
+  offset: 0, 0
+  index: -1
+time_z
+  rotate: false
+  xy: 114, 16
+  size: 26, 26
+  orig: 26, 26
+  offset: 0, 0
+  index: -1

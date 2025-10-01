@@ -1,0 +1,194 @@
+                    jiesuan-juese.png
+                    size: 1028,1028
+                    format: RGBA8888
+                    filter: Linear,Linear
+                    repeat: none
+                    bw_body
+                      rotate: false
+                      xy: 2, 526
+                      size: 248, 316
+                      orig: 252, 343
+                      offset: 4, 27
+                      index: -1
+                    bw_ear_a
+                      rotate: false
+                      xy: 836, 178
+                      size: 112, 175
+                      orig: 112, 176
+                      offset: 0, 0
+                      index: -1
+                    bw_ear_b
+                      rotate: false
+                      xy: 696, 4
+                      size: 179, 102
+                      orig: 179, 113
+                      offset: 0, 11
+                      index: -1
+                    bw_hand
+                      rotate: false
+                      xy: 777, 541
+                      size: 244, 143
+                      orig: 244, 143
+                      offset: 0, 0
+                      index: -1
+                    bw_hat
+                      rotate: true
+                      xy: 877, 32
+                      size: 144, 112
+                      orig: 144, 112
+                      offset: 0, 0
+                      index: -1
+                    bw_head
+                      rotate: true
+                      xy: 220, 276
+                      size: 224, 202
+                      orig: 224, 202
+                      offset: 0, 0
+                      index: -1
+                    bw_jacket
+                      rotate: true
+                      xy: 129, 2
+                      size: 103, 119
+                      orig: 103, 119
+                      offset: 0, 0
+                      index: -1
+                    mw_arm_a
+                      rotate: true
+                      xy: 565, 320
+                      size: 131, 246
+                      orig: 134, 250
+                      offset: 0, 0
+                      index: -1
+                    mw_arm_b
+                      rotate: false
+                      xy: 2, 15
+                      size: 125, 273
+                      orig: 125, 274
+                      offset: 0, 0
+                      index: -1
+                    mw_body
+                      rotate: true
+                      xy: 565, 150
+                      size: 168, 169
+                      orig: 168, 169
+                      offset: 0, 0
+                      index: -1
+                    mw_ear_a
+                      rotate: true
+                      xy: 252, 687
+                      size: 155, 225
+                      orig: 155, 225
+                      offset: 0, 0
+                      index: -1
+                    mw_ear_b
+                      rotate: true
+                      xy: 736, 108
+                      size: 210, 98
+                      orig: 211, 98
+                      offset: 0, 0
+                      index: -1
+                    mw_hat
+                      rotate: true
+                      xy: 818, 704
+                      size: 126, 138
+                      orig: 126, 138
+                      offset: 0, 0
+                      index: -1
+                    mw_head
+                      rotate: true
+                      xy: 2, 290
+                      size: 234, 216
+                      orig: 234, 216
+                      offset: 0, 0
+                      index: -1
+                    mw_jacket
+                      rotate: false
+                      xy: 129, 107
+                      size: 215, 167
+                      orig: 215, 167
+                      offset: 0, 0
+                      index: -1
+                    mw_leg
+                      rotate: false
+                      xy: 2, 844
+                      size: 550, 179
+                      orig: 550, 179
+                      offset: 0, 0
+                      index: -1
+                    smw_arm_a
+                      rotate: true
+                      xy: 813, 355
+                      size: 184, 164
+                      orig: 184, 170
+                      offset: 0, 6
+                      index: -1
+                    smw_arm_b
+                      rotate: true
+                      xy: 424, 282
+                      size: 218, 139
+                      orig: 218, 139
+                      offset: 0, 0
+                      index: -1
+                    smw_body
+                      rotate: false
+                      xy: 554, 686
+                      size: 262, 337
+                      orig: 269, 362
+                      offset: 4, 25
+                      index: -1
+                    smw_ear_a
+                      rotate: true
+                      xy: 510, 34
+                      size: 114, 184
+                      orig: 116, 184
+                      offset: 1, 0
+                      index: -1
+                    smw_ear_b
+                      rotate: true
+                      xy: 818, 832
+                      size: 191, 181
+                      orig: 193, 181
+                      offset: 0, 0
+                      index: -1
+                    smw_hat
+                      rotate: true
+                      xy: 424, 159
+                      size: 121, 118
+                      orig: 121, 118
+                      offset: 0, 0
+                      index: -1
+                    smw_head
+                      rotate: true
+                      xy: 567, 453
+                      size: 231, 208
+                      orig: 231, 208
+                      offset: 0, 0
+                      index: -1
+                    smw_jacket_a
+                      rotate: false
+                      xy: 479, 724
+                      size: 31, 61
+                      orig: 31, 61
+                      offset: 0, 0
+                      index: -1
+                    smw_jacket_b
+                      rotate: true
+                      xy: 479, 787
+                      size: 55, 34
+                      orig: 55, 34
+                      offset: 0, 0
+                      index: -1
+                    smw_leg
+                      rotate: true
+                      xy: 346, 5
+                      size: 152, 162
+                      orig: 152, 162
+                      offset: 0, 0
+                      index: -1
+                    smw_skateboard
+                      rotate: false
+                      xy: 252, 502
+                      size: 313, 182
+                      orig: 313, 182
+                      offset: 0, 0
+                      index: -1
