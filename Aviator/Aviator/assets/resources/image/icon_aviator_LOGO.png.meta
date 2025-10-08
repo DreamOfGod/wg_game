@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "72b3e480-a907-4a64-b15d-e88fd667b253",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 273,
+  "height": 71,
+  "platformSettings": {},
+  "subMetas": {
+    "icon_aviator_LOGO": {
+      "ver": "1.0.6",
+      "uuid": "19fa5d0b-d408-4e24-a707-9e5ce0802ec7",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "72b3e480-a907-4a64-b15d-e88fd667b253",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 273,
+      "height": 71,
+      "rawWidth": 273,
+      "rawHeight": 71,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

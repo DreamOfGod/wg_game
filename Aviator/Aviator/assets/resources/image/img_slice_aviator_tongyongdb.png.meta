@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "3f7bfcee-9273-4249-a1b1-d4b1f87cbec7",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 117,
+  "height": 168,
+  "platformSettings": {},
+  "subMetas": {
+    "img_slice_aviator_tongyongdb": {
+      "ver": "1.0.6",
+      "uuid": "5646ef8f-8e53-4437-819c-39f4c1de0802",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "3f7bfcee-9273-4249-a1b1-d4b1f87cbec7",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 117,
+      "height": 168,
+      "rawWidth": 117,
+      "rawHeight": 168,
+      "borderTop": 104,
+      "borderBottom": 58,
+      "borderLeft": 55,
+      "borderRight": 54,
+      "subMetas": {}
+    }
+  }
+}

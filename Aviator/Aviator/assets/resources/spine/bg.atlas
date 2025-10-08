@@ -1,0 +1,12 @@
+bg.png
+size: 816,872
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bg_stripe
+  rotate: false
+  xy: 2, 2
+  size: 811, 865
+  orig: 811, 865
+  offset: 0, 0
+  index: -1

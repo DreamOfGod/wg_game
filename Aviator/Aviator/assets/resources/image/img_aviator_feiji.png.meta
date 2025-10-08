@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "bc0ee77c-c6ad-44b2-817c-2caf90de146f",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 259,
+  "height": 126,
+  "platformSettings": {},
+  "subMetas": {
+    "img_aviator_feiji": {
+      "ver": "1.0.6",
+      "uuid": "6d7964e6-a24f-4cb4-83b1-d48d48ffa293",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "bc0ee77c-c6ad-44b2-817c-2caf90de146f",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 259,
+      "height": 126,
+      "rawWidth": 259,
+      "rawHeight": 126,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

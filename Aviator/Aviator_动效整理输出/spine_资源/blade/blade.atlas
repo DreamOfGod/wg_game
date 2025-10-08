@@ -1,0 +1,12 @@
+blade.png
+size: 28,60
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+img_aviator_lxj1
+  rotate: false
+  xy: 2, 2
+  size: 23, 53
+  orig: 23, 53
+  offset: 0, 0
+  index: -1
