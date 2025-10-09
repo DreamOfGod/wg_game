@@ -1,0 +1,187 @@
+win2.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Fx_N_PopUp_007
+  rotate: false
+  xy: 370, 198
+  size: 65, 72
+  orig: 77, 77
+  offset: 6, 2
+  index: -1
+Glow_Star
+  rotate: false
+  xy: 217, 2
+  size: 34, 33
+  orig: 38, 38
+  offset: 2, 3
+  index: -1
+coin_A_01
+  rotate: false
+  xy: 197, 362
+  size: 58, 58
+  orig: 60, 60
+  offset: 1, 1
+  index: -1
+coin_A_02
+  rotate: false
+  xy: 257, 362
+  size: 48, 58
+  orig: 60, 60
+  offset: 6, 1
+  index: -1
+coin_A_03
+  rotate: true
+  xy: 97, 6
+  size: 24, 58
+  orig: 60, 60
+  offset: 18, 1
+  index: -1
+coin_A_04
+  rotate: true
+  xy: 157, 6
+  size: 24, 58
+  orig: 60, 60
+  offset: 18, 1
+  index: -1
+coin_A_05
+  rotate: false
+  xy: 307, 362
+  size: 48, 58
+  orig: 60, 60
+  offset: 6, 1
+  index: -1
+map_light_00
+  rotate: true
+  xy: 193, 37
+  size: 159, 86
+  orig: 162, 127
+  offset: 3, 36
+  index: -1
+map_light_01
+  rotate: true
+  xy: 101, 359
+  size: 151, 94
+  orig: 162, 127
+  offset: 11, 28
+  index: -1
+map_light_02
+  rotate: true
+  xy: 281, 42
+  size: 154, 88
+  orig: 162, 127
+  offset: 8, 34
+  index: -1
+map_light_03
+  rotate: true
+  xy: 98, 189
+  size: 160, 91
+  orig: 162, 127
+  offset: 2, 31
+  index: -1
+map_light_04
+  rotate: true
+  xy: 97, 32
+  size: 155, 94
+  orig: 162, 127
+  offset: 2, 28
+  index: -1
+map_light_05
+  rotate: true
+  xy: 2, 189
+  size: 160, 94
+  orig: 162, 127
+  offset: 2, 28
+  index: -1
+map_light_06
+  rotate: true
+  xy: 2, 351
+  size: 159, 97
+  orig: 162, 127
+  offset: 3, 25
+  index: -1
+map_light_07
+  rotate: true
+  xy: 191, 198
+  size: 159, 89
+  orig: 162, 127
+  offset: 3, 33
+  index: -1
+map_light_08
+  rotate: true
+  xy: 370, 272
+  size: 152, 86
+  orig: 162, 127
+  offset: 10, 36
+  index: -1
+map_light_09
+  rotate: true
+  xy: 371, 39
+  size: 157, 83
+  orig: 162, 127
+  offset: 5, 39
+  index: -1
+map_light_10
+  rotate: true
+  xy: 456, 113
+  size: 157, 79
+  orig: 162, 127
+  offset: 5, 43
+  index: -1
+map_light_11
+  rotate: false
+  xy: 197, 422
+  size: 160, 88
+  orig: 162, 127
+  offset: 2, 34
+  index: -1
+map_light_12
+  rotate: true
+  xy: 2, 27
+  size: 160, 93
+  orig: 162, 127
+  offset: 2, 29
+  index: -1
+map_light_13
+  rotate: true
+  xy: 282, 203
+  size: 157, 86
+  orig: 162, 127
+  offset: 5, 36
+  index: -1
+map_light_14
+  rotate: false
+  xy: 359, 426
+  size: 160, 84
+  orig: 162, 127
+  offset: 2, 38
+  index: -1
+ssg_14
+  rotate: true
+  xy: 456, 22
+  size: 89, 86
+  orig: 90, 88
+  offset: 0, 2
+  index: -1
+ssg_15
+  rotate: true
+  xy: 537, 244
+  size: 89, 85
+  orig: 90, 88
+  offset: 0, 3
+  index: -1
+xl_tx8
+  rotate: false
+  xy: 2, 4
+  size: 21, 21
+  orig: 24, 24
+  offset: 2, 2
+  index: -1
+yuanguang_4
+  rotate: false
+  xy: 458, 335
+  size: 86, 89
+  orig: 94, 97
+  offset: 4, 4
+  index: -1

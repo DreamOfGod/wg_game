@@ -1,0 +1,173 @@
+sjddj-tp2.png
+size: 892,892
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+sjddj_tp2g1
+  rotate: false
+  xy: 438, 314
+  size: 438, 239
+  orig: 438, 242
+  offset: 0, 1
+  index: -1
+sjddj_tp2g2
+  rotate: false
+  xy: 2, 815
+  size: 311, 74
+  orig: 329, 82
+  offset: 10, 8
+  index: -1
+sjddj_tp2g4
+  rotate: false
+  xy: 438, 68
+  size: 438, 244
+  orig: 438, 293
+  offset: 0, 45
+  index: -1
+sjddj_tp2g5
+  rotate: false
+  xy: 2, 76
+  size: 434, 243
+  orig: 434, 271
+  offset: 0, 28
+  index: -1
+sjddj_tp2g6
+  rotate: false
+  xy: 2, 321
+  size: 434, 232
+  orig: 434, 271
+  offset: 0, 39
+  index: -1
+sjddjtp2g/tp2g_01
+  rotate: true
+  xy: 315, 807
+  size: 82, 159
+  orig: 82, 159
+  offset: 0, 0
+  index: -1
+sjddjtp2g/tp2g_02
+  rotate: true
+  xy: 476, 807
+  size: 82, 159
+  orig: 82, 159
+  offset: 0, 0
+  index: -1
+sjddjtp2g/tp2g_03
+  rotate: true
+  xy: 637, 807
+  size: 82, 159
+  orig: 82, 159
+  offset: 0, 0
+  index: -1
+sjddjtp2g/tp2g_04
+  rotate: true
+  xy: 2, 731
+  size: 82, 159
+  orig: 82, 159
+  offset: 0, 0
+  index: -1
+sjddjtp2g/tp2g_05
+  rotate: false
+  xy: 798, 730
+  size: 82, 159
+  orig: 82, 159
+  offset: 0, 0
+  index: -1
+sjddjtp2g/tp2g_06
+  rotate: true
+  xy: 163, 723
+  size: 82, 159
+  orig: 82, 159
+  offset: 0, 0
+  index: -1
+sjddjtp2g/tp2g_07
+  rotate: true
+  xy: 324, 723
+  size: 82, 159
+  orig: 82, 159
+  offset: 0, 0
+  index: -1
+sjddjtp2g/tp2g_08
+  rotate: true
+  xy: 485, 723
+  size: 82, 159
+  orig: 82, 159
+  offset: 0, 0
+  index: -1
+sjddjtp2g/tp2g_09
+  rotate: true
+  xy: 2, 647
+  size: 82, 159
+  orig: 82, 159
+  offset: 0, 0
+  index: -1
+sjddjtp2g/tp2g_10
+  rotate: true
+  xy: 646, 646
+  size: 82, 159
+  orig: 82, 159
+  offset: 0, 0
+  index: -1
+sjddjtp2g/tp2g_11
+  rotate: true
+  xy: 163, 639
+  size: 82, 159
+  orig: 82, 159
+  offset: 0, 0
+  index: -1
+sjddjtp2g/tp2g_12
+  rotate: true
+  xy: 324, 639
+  size: 82, 159
+  orig: 82, 159
+  offset: 0, 0
+  index: -1
+sjddjtp2g/tp2g_13
+  rotate: true
+  xy: 485, 639
+  size: 82, 159
+  orig: 82, 159
+  offset: 0, 0
+  index: -1
+sjddjtp2g/tp2g_14
+  rotate: false
+  xy: 807, 569
+  size: 82, 159
+  orig: 82, 159
+  offset: 0, 0
+  index: -1
+sjddjtp2g/tp2g_15
+  rotate: true
+  xy: 2, 563
+  size: 82, 159
+  orig: 82, 159
+  offset: 0, 0
+  index: -1
+sjddjtp2g/tp2g_16
+  rotate: true
+  xy: 646, 562
+  size: 82, 159
+  orig: 82, 159
+  offset: 0, 0
+  index: -1
+sjddjtp2g/tp2g_17
+  rotate: true
+  xy: 163, 555
+  size: 82, 159
+  orig: 82, 159
+  offset: 0, 0
+  index: -1
+sjddjtp2g/tp2g_18
+  rotate: true
+  xy: 324, 555
+  size: 82, 159
+  orig: 82, 159
+  offset: 0, 0
+  index: -1
+sjddjtp2g/tp2g_19
+  rotate: true
+  xy: 485, 555
+  size: 82, 159
+  orig: 82, 159
+  offset: 0, 0
+  index: -1

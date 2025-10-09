@@ -1,0 +1,320 @@
+icon-hongjiu.png
+size: 380,380
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+cup_b
+  rotate: true
+  xy: 59, 4
+  size: 59, 57
+  orig: 60, 68
+  offset: 1, 3
+  index: -1
+cup_f
+  rotate: true
+  xy: 154, 10
+  size: 53, 14
+  orig: 53, 14
+  offset: 0, 0
+  index: -1
+cup_f2
+  rotate: true
+  xy: 123, 325
+  size: 50, 30
+  orig: 50, 30
+  offset: 0, 0
+  index: -1
+cup_light/cup_light_00
+  rotate: false
+  xy: 278, 42
+  size: 25, 20
+  orig: 28, 28
+  offset: 3, 2
+  index: -1
+cup_light/cup_light_01
+  rotate: false
+  xy: 250, 68
+  size: 27, 22
+  orig: 28, 28
+  offset: 1, 1
+  index: -1
+cup_light/cup_light_02
+  rotate: false
+  xy: 123, 273
+  size: 27, 23
+  orig: 28, 28
+  offset: 1, 1
+  index: -1
+cup_light/cup_light_03
+  rotate: false
+  xy: 123, 298
+  size: 28, 25
+  orig: 28, 28
+  offset: 0, 0
+  index: -1
+cup_light/cup_light_04
+  rotate: false
+  xy: 197, 246
+  size: 28, 25
+  orig: 28, 28
+  offset: 0, 0
+  index: -1
+cup_light/cup_light_05
+  rotate: false
+  xy: 250, 92
+  size: 27, 25
+  orig: 28, 28
+  offset: 1, 0
+  index: -1
+cup_light/cup_light_06
+  rotate: true
+  xy: 244, 12
+  size: 26, 25
+  orig: 28, 28
+  offset: 1, 0
+  index: -1
+cup_light/cup_light_07
+  rotate: false
+  xy: 279, 64
+  size: 26, 26
+  orig: 28, 28
+  offset: 1, 0
+  index: -1
+cup_light/cup_light_08
+  rotate: true
+  xy: 163, 140
+  size: 27, 26
+  orig: 28, 28
+  offset: 1, 0
+  index: -1
+cup_light/cup_light_09
+  rotate: false
+  xy: 250, 40
+  size: 26, 26
+  orig: 28, 28
+  offset: 2, 0
+  index: -1
+cup_light/cup_light_10
+  rotate: false
+  xy: 191, 140
+  size: 26, 27
+  orig: 28, 28
+  offset: 2, 0
+  index: -1
+cup_light/cup_light_11
+  rotate: true
+  xy: 279, 92
+  size: 25, 27
+  orig: 28, 28
+  offset: 3, 0
+  index: -1
+cup_light/cup_light_12
+  rotate: false
+  xy: 271, 12
+  size: 25, 26
+  orig: 28, 28
+  offset: 3, 1
+  index: -1
+cup_light/cup_light_13
+  rotate: true
+  xy: 298, 14
+  size: 26, 25
+  orig: 28, 28
+  offset: 2, 1
+  index: -1
+cup_light/cup_light_14
+  rotate: false
+  xy: 197, 221
+  size: 26, 23
+  orig: 28, 28
+  offset: 2, 2
+  index: -1
+cup_light/cup_light_15
+  rotate: true
+  xy: 219, 141
+  size: 26, 23
+  orig: 28, 28
+  offset: 2, 2
+  index: -1
+ice1
+  rotate: true
+  xy: 227, 227
+  size: 24, 14
+  orig: 24, 14
+  offset: 0, 0
+  index: -1
+ice2
+  rotate: false
+  xy: 163, 120
+  size: 22, 18
+  orig: 22, 18
+  offset: 0, 0
+  index: -1
+ice3
+  rotate: false
+  xy: 187, 120
+  size: 21, 18
+  orig: 21, 18
+  offset: 0, 0
+  index: -1
+ice4
+  rotate: true
+  xy: 227, 253
+  size: 18, 15
+  orig: 18, 15
+  offset: 0, 0
+  index: -1
+papper
+  rotate: false
+  xy: 2, 2
+  size: 55, 61
+  orig: 55, 61
+  offset: 0, 0
+  index: -1
+sj_tubiaom_08
+  rotate: false
+  xy: 2, 213
+  size: 119, 162
+  orig: 121, 164
+  offset: 2, 2
+  index: -1
+water
+  rotate: true
+  xy: 118, 10
+  size: 53, 34
+  orig: 53, 34
+  offset: 0, 0
+  index: -1
+water2
+  rotate: true
+  xy: 104, 114
+  size: 97, 57
+  orig: 97, 57
+  offset: 0, 0
+  index: -1
+wine_b
+  rotate: false
+  xy: 2, 65
+  size: 100, 146
+  orig: 108, 160
+  offset: 4, 6
+  index: -1
+wine_light
+  rotate: true
+  xy: 210, 122
+  size: 16, 27
+  orig: 16, 28
+  offset: 0, 1
+  index: -1
+wine_light/wine_light_00
+  rotate: false
+  xy: 318, 84
+  size: 49, 69
+  orig: 50, 72
+  offset: 0, 3
+  index: -1
+wine_light/wine_light_01
+  rotate: true
+  xy: 163, 169
+  size: 50, 69
+  orig: 50, 72
+  offset: 0, 3
+  index: -1
+wine_light/wine_light_02
+  rotate: true
+  xy: 178, 67
+  size: 50, 70
+  orig: 50, 72
+  offset: 0, 2
+  index: -1
+wine_light/wine_light_03
+  rotate: true
+  xy: 170, 13
+  size: 50, 72
+  orig: 50, 72
+  offset: 0, 0
+  index: -1
+wine_light/wine_light_04
+  rotate: true
+  xy: 244, 325
+  size: 50, 72
+  orig: 50, 72
+  offset: 0, 0
+  index: -1
+wine_light/wine_light_05
+  rotate: true
+  xy: 163, 325
+  size: 50, 72
+  orig: 50, 72
+  offset: 0, 0
+  index: -1
+wine_light/wine_light_06
+  rotate: false
+  xy: 318, 303
+  size: 50, 72
+  orig: 50, 72
+  offset: 0, 0
+  index: -1
+wine_light/wine_light_07
+  rotate: true
+  xy: 244, 273
+  size: 50, 72
+  orig: 50, 72
+  offset: 0, 0
+  index: -1
+wine_light/wine_light_08
+  rotate: true
+  xy: 163, 273
+  size: 50, 72
+  orig: 50, 72
+  offset: 0, 0
+  index: -1
+wine_light/wine_light_09
+  rotate: true
+  xy: 123, 221
+  size: 50, 72
+  orig: 50, 72
+  offset: 0, 0
+  index: -1
+wine_light/wine_light_10
+  rotate: false
+  xy: 318, 229
+  size: 50, 72
+  orig: 50, 72
+  offset: 0, 0
+  index: -1
+wine_light/wine_light_11
+  rotate: true
+  xy: 244, 221
+  size: 50, 72
+  orig: 50, 72
+  offset: 0, 0
+  index: -1
+wine_light/wine_light_12
+  rotate: false
+  xy: 318, 155
+  size: 50, 72
+  orig: 50, 72
+  offset: 0, 0
+  index: -1
+wine_light/wine_light_13
+  rotate: true
+  xy: 244, 169
+  size: 50, 72
+  orig: 50, 72
+  offset: 0, 0
+  index: -1
+wine_light/wine_light_14
+  rotate: true
+  xy: 104, 65
+  size: 47, 72
+  orig: 50, 72
+  offset: 2, 0
+  index: -1
+wine_light/wine_light_15
+  rotate: true
+  xy: 244, 119
+  size: 48, 72
+  orig: 50, 72
+  offset: 2, 0
+  index: -1

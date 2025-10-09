@@ -1,0 +1,173 @@
+icon-peach.png
+size: 952,952
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: false
+  xy: 770, 54
+  size: 151, 151
+  orig: 151, 151
+  offset: 0, 0
+  index: -1
+Glow_Star
+  rotate: false
+  xy: 874, 894
+  size: 56, 56
+  orig: 64, 64
+  offset: 4, 4
+  index: -1
+Peach1
+  rotate: false
+  xy: 120, 41
+  size: 78, 82
+  orig: 78, 82
+  offset: 0, 0
+  index: -1
+Peach2
+  rotate: false
+  xy: 466, 537
+  size: 49, 21
+  orig: 49, 21
+  offset: 0, 0
+  index: -1
+Peach3
+  rotate: false
+  xy: 770, 24
+  size: 42, 28
+  orig: 44, 28
+  offset: 1, 0
+  index: -1
+PeachSD
+  rotate: false
+  xy: 2, 27
+  size: 116, 96
+  orig: 116, 96
+  offset: 0, 0
+  index: -1
+dian
+  rotate: false
+  xy: 942, 942
+  size: 8, 8
+  orig: 10, 10
+  offset: 1, 1
+  index: -1
+kuang_c_00
+  rotate: false
+  xy: 768, 207
+  size: 154, 169
+  orig: 213, 213
+  offset: 8, 22
+  index: -1
+kuang_c_01
+  rotate: true
+  xy: 410, 2
+  size: 131, 174
+  orig: 213, 213
+  offset: 18, 17
+  index: -1
+kuang_c_02
+  rotate: false
+  xy: 593, 23
+  size: 175, 164
+  orig: 213, 213
+  offset: 13, 26
+  index: -1
+kuang_c_03
+  rotate: false
+  xy: 593, 189
+  size: 173, 187
+  orig: 213, 213
+  offset: 17, 18
+  index: -1
+kuang_c_04
+  rotate: true
+  xy: 410, 135
+  size: 185, 181
+  orig: 213, 213
+  offset: 18, 14
+  index: -1
+kuang_c_05
+  rotate: true
+  xy: 410, 322
+  size: 193, 181
+  orig: 213, 213
+  offset: 10, 11
+  index: -1
+kuang_c_06
+  rotate: false
+  xy: 593, 378
+  size: 185, 180
+  orig: 213, 213
+  offset: 18, 19
+  index: -1
+kuang_c_07
+  rotate: false
+  xy: 780, 382
+  size: 160, 176
+  orig: 213, 213
+  offset: 28, 18
+  index: -1
+ssg_14
+  rotate: false
+  xy: 2, 517
+  size: 462, 433
+  orig: 480, 470
+  offset: 6, 15
+  index: -1
+wzk_00
+  rotate: false
+  xy: 206, 126
+  size: 202, 193
+  orig: 213, 204
+  offset: 6, 5
+  index: -1
+wzk_01
+  rotate: false
+  xy: 670, 560
+  size: 199, 194
+  orig: 213, 204
+  offset: 6, 5
+  index: -1
+wzk_02
+  rotate: false
+  xy: 2, 321
+  size: 202, 194
+  orig: 213, 204
+  offset: 6, 5
+  index: -1
+wzk_03
+  rotate: false
+  xy: 466, 756
+  size: 202, 194
+  orig: 213, 204
+  offset: 6, 5
+  index: -1
+wzk_04
+  rotate: false
+  xy: 2, 125
+  size: 202, 194
+  orig: 213, 204
+  offset: 6, 5
+  index: -1
+wzk_05
+  rotate: false
+  xy: 206, 321
+  size: 202, 194
+  orig: 213, 204
+  offset: 6, 5
+  index: -1
+wzk_06
+  rotate: false
+  xy: 466, 560
+  size: 202, 194
+  orig: 213, 204
+  offset: 6, 5
+  index: -1
+wzk_07
+  rotate: false
+  xy: 670, 756
+  size: 202, 194
+  orig: 213, 204
+  offset: 6, 5
+  index: -1

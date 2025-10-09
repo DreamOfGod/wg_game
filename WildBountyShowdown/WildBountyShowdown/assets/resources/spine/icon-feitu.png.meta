@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "0fda37a1-d22e-4c15-8571-37680fb8f62f",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 336,
+  "height": 336,
+  "platformSettings": {},
+  "subMetas": {
+    "icon-feitu": {
+      "ver": "1.0.6",
+      "uuid": "4a4a463d-4992-4e12-8610-3c858ee29e3f",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "0fda37a1-d22e-4c15-8571-37680fb8f62f",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": -7,
+      "trimX": 2,
+      "trimY": 16,
+      "width": 332,
+      "height": 318,
+      "rawWidth": 336,
+      "rawHeight": 336,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

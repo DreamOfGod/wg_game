@@ -1,0 +1,83 @@
+
+jisu-icon.png
+size: 168,168
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+jisu_01
+  rotate: true
+  xy: 33, 45
+  size: 46, 44
+  orig: 46, 44
+  offset: 0, 0
+  index: -1
+jisu_off
+  rotate: false
+  xy: 79, 47
+  size: 23, 30
+  orig: 23, 30
+  offset: 0, 0
+  index: -1
+jisu_on
+  rotate: false
+  xy: 104, 47
+  size: 23, 30
+  orig: 23, 30
+  offset: 0, 0
+  index: -1
+shandian_a_00
+  rotate: true
+  xy: 101, 2
+  size: 43, 27
+  orig: 83, 38
+  offset: 5, 2
+  index: -1
+shandian_a_01
+  rotate: false
+  xy: 80, 79
+  size: 74, 36
+  orig: 83, 38
+  offset: 2, 2
+  index: -1
+shandian_a_02
+  rotate: false
+  xy: 2, 93
+  size: 76, 29
+  orig: 83, 38
+  offset: 5, 7
+  index: -1
+shandian_a_03
+  rotate: true
+  xy: 130, 10
+  size: 67, 14
+  orig: 83, 38
+  offset: 14, 16
+  index: -1
+shandian_b_01
+  rotate: false
+  xy: 2, 124
+  size: 79, 42
+  orig: 88, 49
+  offset: 5, 7
+  index: -1
+shandian_b_02
+  rotate: true
+  xy: 2, 3
+  size: 74, 29
+  orig: 88, 49
+  offset: 8, 12
+  index: -1
+shandian_b_03
+  rotate: false
+  xy: 83, 117
+  size: 77, 49
+  orig: 88, 49
+  offset: 1, 0
+  index: -1
+shandian_b_04
+  rotate: false
+  xy: 33, 7
+  size: 66, 36
+  orig: 88, 49
+  offset: 1, 6
+  index: -1

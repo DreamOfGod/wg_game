@@ -1,0 +1,89 @@
+gunzhou.png
+size: 1012,428
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+HH_xg2
+  rotate: false
+  xy: 973, 157
+  size: 34, 268
+  orig: 38, 300
+  offset: 2, 17
+  index: -1
+X_guangxiao1
+  rotate: true
+  xy: 2, 65
+  size: 47, 415
+  orig: 65, 433
+  offset: 10, 7
+  index: -1
+X_guangxiao2
+  rotate: true
+  xy: 2, 2
+  size: 4, 433
+  orig: 4, 433
+  offset: 0, 0
+  index: -1
+b_lg_00
+  rotate: true
+  xy: 2, 39
+  size: 24, 300
+  orig: 30, 300
+  offset: 4, 0
+  index: -1
+bianxian1
+  rotate: true
+  xy: 2, 13
+  size: 10, 440
+  orig: 12, 442
+  offset: 1, 1
+  index: -1
+di
+  rotate: true
+  xy: 2, 225
+  size: 200, 508
+  orig: 216, 523
+  offset: 8, 7
+  index: -1
+diguang
+  rotate: true
+  xy: 512, 273
+  size: 152, 459
+  orig: 158, 465
+  offset: 3, 3
+  index: -1
+guangdian
+  rotate: true
+  xy: 897, 57
+  size: 90, 92
+  orig: 102, 102
+  offset: 5, 5
+  index: -1
+gx1
+  rotate: true
+  xy: 512, 149
+  size: 122, 433
+  orig: 122, 433
+  offset: 0, 0
+  index: -1
+shuxian
+  rotate: true
+  xy: 2, 114
+  size: 109, 433
+  orig: 112, 433
+  offset: 2, 0
+  index: -1
+ss
+  rotate: false
+  xy: 756, 8
+  size: 139, 139
+  orig: 139, 139
+  offset: 0, 0
+  index: -1
+zhongguang
+  rotate: true
+  xy: 437, 25
+  size: 122, 317
+  orig: 122, 383
+  offset: 0, 33
+  index: -1

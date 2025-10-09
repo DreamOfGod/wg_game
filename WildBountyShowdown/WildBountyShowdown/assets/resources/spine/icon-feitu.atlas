@@ -1,0 +1,75 @@
+icon-feitu.png
+size: 336,336
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+f_blur
+  rotate: false
+  xy: 2, 183
+  size: 165, 151
+  orig: 191, 191
+  offset: 10, 20
+  index: -1
+f_body
+  rotate: false
+  xy: 169, 195
+  size: 130, 139
+  orig: 130, 139
+  offset: 0, 0
+  index: -1
+f_cloth
+  rotate: false
+  xy: 250, 16
+  size: 42, 41
+  orig: 42, 41
+  offset: 0, 0
+  index: -1
+f_eye_hair
+  rotate: false
+  xy: 301, 304
+  size: 30, 30
+  orig: 31, 30
+  offset: 1, 0
+  index: -1
+f_eye_l
+  rotate: false
+  xy: 301, 283
+  size: 18, 19
+  orig: 18, 20
+  offset: 0, 0
+  index: -1
+f_eye_r
+  rotate: false
+  xy: 301, 263
+  size: 18, 18
+  orig: 18, 18
+  offset: 0, 0
+  index: -1
+f_hand
+  rotate: false
+  xy: 159, 33
+  size: 89, 148
+  orig: 89, 148
+  offset: 0, 0
+  index: -1
+f_hat
+  rotate: true
+  xy: 250, 59
+  size: 134, 67
+  orig: 134, 67
+  offset: 0, 0
+  index: -1
+f_light
+  rotate: false
+  xy: 2, 20
+  size: 155, 161
+  orig: 191, 196
+  offset: 10, 34
+  index: -1
+flare_121
+  rotate: true
+  xy: 294, 20
+  size: 37, 40
+  orig: 61, 61
+  offset: 12, 12
+  index: -1

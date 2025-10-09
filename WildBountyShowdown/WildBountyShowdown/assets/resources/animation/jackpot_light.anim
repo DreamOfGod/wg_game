@@ -1,0 +1,46 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "jackpot_light",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 5,
+  "sample": 60,
+  "speed": 0.5,
+  "wrapMode": 2,
+  "curveData": {
+    "paths": {
+      "light2": {
+        "props": {
+          "angle": [
+            {
+              "frame": 0,
+              "value": 0
+            },
+            {
+              "frame": 5,
+              "value": 360
+            }
+          ]
+        }
+      },
+      "light_bg2": {
+        "props": {
+          "angle": [
+            {
+              "frame": 0,
+              "value": 360
+            },
+            {
+              "frame": 5,
+              "value": 0
+            }
+          ]
+        }
+      }
+    },
+    "props": {
+      "angle": []
+    }
+  },
+  "events": []
+}

@@ -1,0 +1,26 @@
+icon-a.png
+size: 396,396
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+a_f
+  rotate: false
+  xy: 2, 294
+  size: 112, 97
+  orig: 112, 97
+  offset: 0, 0
+  index: -1
+sj_tubiao_10
+  rotate: false
+  xy: 116, 279
+  size: 137, 112
+  orig: 139, 112
+  offset: 1, 0
+  index: -1
+sj_tubiaom_10
+  rotate: false
+  xy: 255, 263
+  size: 136, 128
+  orig: 138, 130
+  offset: 1, 2
+  index: -1
