@@ -18381,7 +18381,7 @@
     "_prefab": {
       "__id__": 402
     },
-    "_name": "keyboard_panel",
+    "_name": "keyboardView",
     "_active": false,
     "_trs": {
       "__type__": "TypedArray",
